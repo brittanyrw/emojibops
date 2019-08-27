@@ -9,14 +9,24 @@ shuffle(emojiItems);
 
 // Loop through the data from the data.js file and insert parts of the data into HTML. On each loop, we are appending a new card with the HTML below.
 for (var i in emojiItems) {
+
+    var featuredArtist = '';
+
     emojiCard +=
-        "<div class='emoji-card'><div class='emoji-images'>" + emojiItems[i].emojiImgs +
-        "</div><div class='emoji-card-title hide-card'><h3>" + emojiItems[i].title +
-        " (" + emojiItems[i].year + ")" + "</h3></div></div>";
+    "<div class='emoji-card'><div class='emoji-images'>" + emojiItems[i].emojiImgs + "</div><div class='emoji-card-title hide-card'><h3>" + emojiItems[i].title + " (" + emojiItems[i].year + ")" + "</h3>";
+
+    // TO DO - Need to add logic to loop through artists and featured artists, add commas between and the word 'and', etc.
+    if(emojiItems[i].featuredArtist.length > 0){
+      emojiCard += "<h4>" + emojiItems[i].artist + " ft. " + emojiItems[i].featuredArtist + "</h4>"; 
+    } else {
+      emojiCard += "<h4>" + emojiItems[i].artist + "</h4>";
+    }
+    
+    emojiCard += "</div ></div >";
 }
 
 // Append the emoji card variable, which has all of the emoji cards to the initial variable we created that was for the container to hold the cards.
-emojiCardContainer.html(emojiCard);
+emojiCardContainer.innerHTML = emojiCard;
 
 // Run Twemoji to change all emojis to Twitter emojis.
 twemoji.parse(document.body);
