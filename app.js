@@ -10,19 +10,19 @@ shuffle(emojiItems);
 // Loop through the data from the data.js file and insert parts of the data into HTML. On each loop, we are appending a new card with the HTML below.
 for (var i in emojiItems) {
 
-    var featuredArtist = '';
+  var featuredArtist = emojiItems[i].featuredArtist.join(', ');
+  var artist = emojiItems[i].artist.join(', ');
 
-    emojiCard +=
-    "<div class='emoji-card'><div class='emoji-images'>" + emojiItems[i].emojiImgs + "</div><div class='emoji-card-title hide-card'><h3>" + emojiItems[i].title + " (" + emojiItems[i].year + ")" + "</h3>";
+  emojiCard +=
+  "<div class='emoji-card'><div class='emoji-images'>" + emojiItems[i].emojiImgs + "</div><div class='emoji-card-title hide-card'><h3>" + emojiItems[i].title + " (" + emojiItems[i].year + ")" + "</h3>";
 
-    // TO DO - Need to add logic to loop through artists and featured artists, add commas between and the word 'and', etc.
-    if(emojiItems[i].featuredArtist.length > 0){
-      emojiCard += "<h4>" + emojiItems[i].artist + " ft. " + emojiItems[i].featuredArtist + "</h4>"; 
-    } else {
-      emojiCard += "<h4>" + emojiItems[i].artist + "</h4>";
-    }
-    
-    emojiCard += "</div ></div >";
+  if(emojiItems[i].featuredArtist.length > 0){
+    emojiCard += "<div class='artist-ft-container'><h4>" + artist + " ft. " + featuredArtist + "</h4></div>"; 
+  } else {
+    emojiCard += "<div class='artist-container'><h4>" + artist + "</h4></div>";
+  }
+  
+  emojiCard += "</div ></div >";
 }
 
 // Append the emoji card variable, which has all of the emoji cards to the initial variable we created that was for the container to hold the cards.
