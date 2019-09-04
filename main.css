@@ -146,8 +146,6 @@ h2 {
   margin-top: 10px;
   margin: 0;
   background-color: lavender;
-  display: grid;
-  grid-template-columns: .2fr 1fr;
 }
 
 .emoji-card:nth-child(2n) .emoji-card-title,
@@ -176,7 +174,8 @@ h2 {
 }
 
 .emoji-card-link {
-  margin: auto;
+  text-align: left;
+  padding: 20px 20px 0 20px;
 }
 
 .emoji-card-title h3 {
