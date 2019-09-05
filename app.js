@@ -23,7 +23,7 @@ $(document).ready(function () {
         emojiCard += "<div class='emoji-card-link'><a href='" + emojiItems[i].musicVideo + "' title='View" + emojiItems[i].title + " Music Video' target='_blank'><i class='fas fa-play-circle'></i></a></div>";
       }
       
-      emojiCard += "<div class='title-content'<h3>" + emojiItems[i].title +
+      emojiCard += "<div class='title-content'><h3>" + emojiItems[i].title +
       " (" + emojiItems[i].year + ")" + "</h3>";
 
     if(featuredArtist){

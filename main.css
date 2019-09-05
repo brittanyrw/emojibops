@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #352649;
+  background-color: #3E3C5E;
   padding: 40px;
   font-family: 'Open Sans', sans-serif;
   margin: 0;
@@ -56,8 +56,8 @@ header img {
 }
 
 .contribute-callout a {
-  color: #292932;
-  background-color: #effae6;
+  color: #3E3C5E;
+  background-color: white;
   padding: 15px;
   font-weight: 900;
   text-align: center;
@@ -77,9 +77,9 @@ header img {
 }
 
 .header {
-  background-color: #fae6e9;
+  background-color: #ff7676;
   margin: 20px 0 0 0;
-  border: 1px solid #fae6e9;
+  border: 1px solid #ff7676;
   padding: 10px 20px;
 }
 
@@ -145,51 +145,67 @@ h2 {
   transition: visibility 0s, height 0s, opacity 0.5s linear;
   margin-top: 10px;
   margin: 0;
-  background-color: lavender;
+  background-color: #c976ff;
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  justify-content: flex-start;
+  align-content: stretch;
+  align-items: flex-start;
 }
 
 .emoji-card:nth-child(2n) .emoji-card-title,
 .emoji-card:nth-child(2n) .hint {
-    background-color: #fae6e9;
+    background-color: #76ffd2;
 }
 
 .emoji-card:nth-child(3n) .emoji-card-title,
 .emoji-card:nth-child(3n) .hint {
-    background-color: #e6f6fa;
+    background-color: #76b4ff;
 }
 
 .emoji-card:nth-child(5n) .emoji-card-title,
 .emoji-card:nth-child(5n) .hint {
-    background-color: #effae6;
+    background-color: #ff7676;
 }
 
 .emoji-card:nth-child(6n) .emoji-card-title,
 .emoji-card:nth-child(6n) .hint {
-    background-color: #faefe6;
+    background-color: #ffcd76;
 }
 
 .emoji-card-link i {
   background-color: transparent;
   font-size: 37px;
+  opacity: .5;
 }
 
 .emoji-card-link {
-  text-align: left;
-  padding: 20px 20px 0 20px;
+    text-align: left;
+    flex: 0 1 auto;
+    align-self: center;
+    padding-left: 20px;
+}
+
+.title-content {
+    flex: 1 1 auto;
+    align-self: center;
 }
 
 .emoji-card-title h3 {
-  color: #352649;
+  color: black;
   margin: 0;
 }
 
 .title-content {
   padding: 20px;
   text-align: left;
+  cursor: initial;
 }
 
 .title-content h4 {
   margin: 5px auto 0 auto;
+  font-weight: normal;
 }
 
 .hide-card {
@@ -220,11 +236,11 @@ i {
   font-size: 17px;
   background-color: white;
   border-radius: 50%;
-  color: #352649;
+  color: black;
 }
 
 .hint-symbol {
-  background-color: #352649;
+  background-color: #3E3C5E;
   height: 20px;
   width: 20px;
   border-radius: 50%;
@@ -235,7 +251,7 @@ i {
   visibility: hidden;
   display: block;
   background-color: lavender;
-  color: #352649;
+  color: #3E3C5E;
   text-transform: capitalize;
   width: 100px;
   padding: 3px;
@@ -286,3 +302,4 @@ footer img {
   font-size: 18px;
   text-align: center;
 }
+
