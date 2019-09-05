@@ -4,7 +4,7 @@ const emojiItems = [
         artist: ["Whitney Houston"],
         featuredArtist: [],
         emojiImgs: "💃🏽🕺🏽🔥♥️",
-        musicVideo: "https://www.youtube.com/watch?v=eH3giaIzONA",
+        musicVideo: "http://www.youtube.com/watch?v=eH3giaIzONA",
         genres: ["pop", "rb"],
         year: 1987
     },{
@@ -12,7 +12,7 @@ const emojiItems = [
         artist: ["BTS"],
         featuredArtist: ["Halsey"],
         emojiImgs: "🧒🏻💜📸",
-        musicVideo: "https://www.youtube.com/watch?v=XsX3ATc3FbA",
+        musicVideo: "http://www.youtube.com/watch?v=XsX3ATc3FbA",
         genres: ["k-pop", "pop"],
         year: 2019
     },{

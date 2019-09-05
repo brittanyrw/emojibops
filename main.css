@@ -94,6 +94,7 @@ h2 {
     grid-gap: 20px;
     max-width: 1200px;
     margin: 30px auto;
+    grid-template-rows: min-content;
 }
 
 @media screen and (min-width: 662px){
