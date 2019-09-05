@@ -3,7 +3,7 @@
 }
 
 body {
-  background-color: #352649;
+  background-color: #3E3C5E;
   padding: 40px;
   font-family: 'Open Sans', sans-serif;
   margin: 0;
@@ -56,7 +56,7 @@ header img {
 }
 
 .contribute-callout a {
-  color: #292932;
+  color: #3E3C5E;
   background-color: #effae6;
   padding: 15px;
   font-weight: 900;
@@ -145,27 +145,27 @@ h2 {
   transition: visibility 0s, height 0s, opacity 0.5s linear;
   margin-top: 10px;
   margin: 0;
-  background-color: lavender;
+  background-color: #D549FF;
 }
 
 .emoji-card:nth-child(2n) .emoji-card-title,
 .emoji-card:nth-child(2n) .hint {
-    background-color: #fae6e9;
+    background-color: #D5C3B6;
 }
 
 .emoji-card:nth-child(3n) .emoji-card-title,
 .emoji-card:nth-child(3n) .hint {
-    background-color: #e6f6fa;
+    background-color: #49A4FF;
 }
 
 .emoji-card:nth-child(5n) .emoji-card-title,
 .emoji-card:nth-child(5n) .hint {
-    background-color: #effae6;
+    background-color: #76FFB5;
 }
 
 .emoji-card:nth-child(6n) .emoji-card-title,
 .emoji-card:nth-child(6n) .hint {
-    background-color: #faefe6;
+    background-color: #FFD749;
 }
 
 .emoji-card-link i {
@@ -179,7 +179,7 @@ h2 {
 }
 
 .emoji-card-title h3 {
-  color: #352649;
+  color: #3E3C5E;
   margin: 0;
 }
 
@@ -220,11 +220,11 @@ i {
   font-size: 17px;
   background-color: white;
   border-radius: 50%;
-  color: #352649;
+  color: #3E3C5E;
 }
 
 .hint-symbol {
-  background-color: #352649;
+  background-color: #3E3C5E;
   height: 20px;
   width: 20px;
   border-radius: 50%;
@@ -235,7 +235,7 @@ i {
   visibility: hidden;
   display: block;
   background-color: lavender;
-  color: #352649;
+  color: #3E3C5E;
   text-transform: capitalize;
   width: 100px;
   padding: 3px;
