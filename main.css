@@ -10,7 +10,7 @@ body {
 }
 
 header {
-  max-width: 1200px;
+  max-width: 1000px;
   margin: 0 auto;
 }
 
@@ -92,7 +92,7 @@ h2 {
     grid-template-columns: 1fr;
     grid-auto-rows: auto;
     grid-gap: 20px;
-    max-width: 1200px;
+    max-width: 1000px;
     margin: 30px auto;
     grid-template-rows: min-content;
 }
@@ -109,28 +109,30 @@ h2 {
   }
 }
 
+@media screen and (min-width: 1200px){
+  #songs {
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+
 .emoji-card {
     display: inline-block;
     text-align: center;
     border-radius: 5px;
     position: relative;
-    cursor: pointer;
 }
 
-.emoji-images img {
-    width: 42px;
-    margin-right: 5px;
-}
-
-@media screen and (max-width: 992px){
-  .emoji-images img {
-    width: 48px;
+@media screen and (max-width: 425px){
+  .emoji-card {
+    margin: 0 15%;
   }
 }
 
-.emoji-images img:last-child {
-  margin-right: 0;
+.emoji-card-wrapper {
+  width: 180px;
+  position: relative;
 }
+
 
 .emoji-images {
   box-shadow: 5px 5px 10px rgba(0,0,0,.1);
@@ -138,6 +140,35 @@ h2 {
   background-color: white;
   padding: 20px 15px;
   border-bottom: 2px solid #352649;
+  height: 180px;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.emoji-images:before {
+  position: absolute;
+  content: '';
+  height: 155px;
+  width: 155px;
+  background-color: #c976ff;
+  border: 42px solid #292932;
+  border-radius: 50%;
+  box-sizing: border-box;
+  z-index: -1;
+  right: -58px;
+  top: 9px;
+}
+
+.emoji-images img {
+    width: 42px;
+    margin-right: 5px;
+}
+
+.emoji-images img:last-child {
+  margin-right: 0;
 }
 
 .emoji-card-title {
@@ -147,31 +178,29 @@ h2 {
   margin-top: 10px;
   margin: 0;
   background-color: #c976ff;
-  display: flex;
-  flex-direction: row;
-  flex-wrap: nowrap;
-  justify-content: flex-start;
-  align-content: stretch;
-  align-items: flex-start;
 }
 
 .emoji-card:nth-child(2n) .emoji-card-title,
-.emoji-card:nth-child(2n) .hint {
+.emoji-card:nth-child(2n) .hint,
+.emoji-card:nth-child(2n) .emoji-images:before{
     background-color: #76ffd2;
 }
 
 .emoji-card:nth-child(3n) .emoji-card-title,
-.emoji-card:nth-child(3n) .hint {
+.emoji-card:nth-child(3n) .hint,
+.emoji-card:nth-child(3n) .emoji-images:before{
     background-color: #76b4ff;
 }
 
 .emoji-card:nth-child(5n) .emoji-card-title,
-.emoji-card:nth-child(5n) .hint {
+.emoji-card:nth-child(5n) .hint,
+.emoji-card:nth-child(5n) .emoji-images:before{
     background-color: #ff7676;
 }
 
 .emoji-card:nth-child(6n) .emoji-card-title,
-.emoji-card:nth-child(6n) .hint {
+.emoji-card:nth-child(6n) .hint,
+.emoji-card:nth-child(6n) .emoji-images:before{
     background-color: #ffcd76;
 }
 
@@ -183,14 +212,7 @@ h2 {
 
 .emoji-card-link {
     text-align: left;
-    flex: 0 1 auto;
-    align-self: center;
-    padding-left: 20px;
-}
-
-.title-content {
-    flex: 1 1 auto;
-    align-self: center;
+    padding: 20px 20px 0 20px;
 }
 
 .emoji-card-title h3 {
