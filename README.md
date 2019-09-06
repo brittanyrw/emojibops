@@ -2,7 +2,7 @@
 ## A listing of songs depicted through emojis.
 [Visit emojibops.com](https://emojibops.com)
 
-![Screenshot of Emojibops homepage](readme/emoji-bops.png)
+![Screenshot of Emojibops homepage](readme/emojibops-screenshot.png)
 
 ## This project was built to create a fun, judgement free space for those learning Git and Github to practice making pull requests, branches, adding features, and more. 💛 💙 💜 💚 💖
 
@@ -56,9 +56,7 @@ Here are some links to lists of songs in case you're having trouble thinking of 
 
 On the website, each `Emoji Card` displays 1) images of the emojis, 2) a hint icon that will show the year the song was released (when the user hovers and 3) the name of the song and the artist name (which appears when the user clicks on a card).
 
-<img src="readme/emojibops-card.png" alt="Screenshot of Old Town Road card" width="300px">
-
-
+![Screenshot of emoji cards](readme/emojibops-card.png)
 
 In the `data.js` file, each `Emoji Card` consists of the following object:
 
@@ -198,11 +196,11 @@ Use the following object as a template:
 
 6. Once you have completed updating the object for your show or movie, scroll to the bottom of the page and add a commit message. The commit message should be formatted like: `Added Fight Club` or `Added Casablanca`. Click the `Commit Changes` button to save your changes.
 
-![Screenshot of creating a commit message on the Github website](readme/commit-ui.png)
+![Screenshot of creating a commit message on the Github website](readme/emojibop-commit.png)
 
 7. Navigate to the `Pull Request` tab. Click on New `Pull Request`.
 
-![Screenshot of a Pull Request on the Github website](readme/pull-request.png)
+![Screenshot of a Pull Request on the Github website](readme/emojibop-pullrequest.png)
 
 8. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and add an Issue number if applicable, then click on `Create Pull Request`.
 9. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com) and you will officially have contributed to the project! 🎉
@@ -259,7 +257,7 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 
 14. Go to the Github website and navigate to the `Pull Request` tab. Click on New `Pull Request`.
 
-![Screenshot of a Pull Request on the Github website](readme/pull-request.png)
+![Screenshot of a Pull Request on the Github website](readme/emojibop-pullrequest.png)
 
 15. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and add an Issue number if applicable, then click on `Create Pull Request`.
 16. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojiscreen.com](https://emojiscreen.com) and you will officially have contributed to the project! 🎉
