@@ -32,22 +32,25 @@ Here are some links to lists of songs in case you're having trouble thinking of 
 
 > Songs added must have lyrics, no instrumental only songs please.
 
-#### I have also [added Issues for individual songs, albums, and artists](https://github.com/brittanyrw/emojibops/labels/add%20emojis) that I think would be fun to add to EmojiBops. Feel free to add any of the songs or albums listed in Issues. Make sure to comment inside of the Issue if you plan on taking it and add the Issue number in your Pull Request.
-
-### View [Issues for Individual Songs](https://github.com/brittanyrw/emojibops/labels/song)
-### View [Issues for Albums](https://github.com/brittanyrw/emojibops/labels/add%20album)
-### View [Issues for Artists](https://github.com/brittanyrw/emojibops/labels/artist)
-
-Note: The issues to add songs have links to Wikipedia, but many songs have multiple versions. Feel free to add a different version than the link if you prefer. For albums, adding just some of the songs in an album is okay if you cannot add every single one!
-
-### Individual Songs
-* [List name here](link)
+### Songs
+* [The Biggest Hits of All: The Hot 100's All-Time Top 100 Songs](https://www.billboard.com/articles/news/hot-100-turns-60/8468142/hot-100-all-time-biggest-hits-songs-list)
+* [Billboard Hot 100 (Songs)](https://www.billboard.com/charts/hot-100)
+* [GRAMMY Awards Winners for Song Of The Year/New Song Of The Year](https://www.grammy.com/grammys/awards/winners-nominees/140)
+* [Top 100 Showtunes of All Time](https://www.whatsonstage.com/london-theatre/news/the-top-100-showtunes-of-all-time_45166.html)
+* [Gaon Digital Chart (Korean music)](https://en.wikipedia.org/wiki/Gaon_Digital_Chart)
 
 ### Albums
-* [List name here](link)
+* [500 Greatest Albums of All Time](https://www.rollingstone.com/music/music-lists/500-greatest-albums-of-all-time-156826/)
+* [The 100 Greatest Albums of All Time](https://consequenceofsound.net/2010/09/consequence-of-sounds-top-100-albums-ever/)
+* [Greatest of All Time Billboard 200 Albums](https://www.billboard.com/charts/greatest-billboard-200-albums)
+* [50 Best Movie Soundtracks of All Time](https://pitchfork.com/features/lists-and-guides/the-50-best-movie-soundtracks-of-all-time/)
+* [Gaon Album Chart (Korean music)](https://en.wikipedia.org/wiki/Gaon_Album_Chart)
 
 ### Artists
-* [List name here](link)
+* [Billboard Top Artists](https://www.billboard.com/charts/year-end/top-artists)
+* [Greatest of All Time Billboard Top 100 Women Artists](https://www.billboard.com/charts/greatest-hot-100-women-artists)
+* [Billboard Artist 100](https://www.billboard.com/charts/artist-100)
+* [Bestselling Music Artists](https://en.wikipedia.org/wiki/List_of_best-selling_music_artists)
 
 ## Card Overview
 
