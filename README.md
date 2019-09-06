@@ -2,7 +2,7 @@
 ## A listing of songs depicted through emojis.
 [Visit emojibops.com](https://emojibops.com)
 
-![Screenshot of Emojibops homepage](readme/emojibops-animated.gif)
+![Screenshot of Emojibops homepage](readme/emojibops-screenshot.png)
 
 ## This project was built to create a fun, judgement free space for those learning Git and Github to practice making pull requests, branches, adding features, and more. 💛 💙 💜 💚 💖
 
