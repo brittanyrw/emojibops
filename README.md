@@ -56,7 +56,9 @@ Here are some links to lists of songs in case you're having trouble thinking of 
 
 On the website, each `Emoji Card` displays 1) images of the emojis, 2) a hint icon that will show the year the song was released (when the user hovers and 3) the name of the song and the artist name (which appears when the user clicks on a card).
 
-![Screenshot of Old Town Road card](readme/emoji-card.png)
+<img src="readme/emojibops-card.png" alt="Screenshot of Old Town Road card" width="300px">
+
+
 
 In the `data.js` file, each `Emoji Card` consists of the following object:
 
