@@ -30,6 +30,8 @@ Read below for a detailed overview and walkthrough on how to add an `Emoji Card`
 
 Here are some links to lists of songs in case you're having trouble thinking of something to add! 
 
+> Songs added must have lyrics, no instrumental only songs please.
+
 #### I have also [added Issues for individual songs, albums, and artists](https://github.com/brittanyrw/emojibops/labels/add%20emojis) that I think would be fun to add to EmojiBops. Feel free to add any of the songs or albums listed in Issues. Make sure to comment inside of the Issue if you plan on taking it and add the Issue number in your Pull Request.
 
 ### View [Issues for Individual Songs](https://github.com/brittanyrw/emojibops/labels/song)
@@ -111,7 +113,7 @@ The genres should be added as an array (the square [] brackets indicates an arra
 }
 ```
 
-Select your genres from [this list of genres](https://www.google.com). If you want to use a genre that is not on this list, in your pull request please add the genre to the `genres.md` file.
+Select your genres from [this list of genres](https://github.com/brittanyrw/emojibops/blob/readme-update/genres.md). If you want to use a genre that is not on this list, in your pull request please add the genre to the `genres.md` file.
 
 If you need help selecting genres, you can sometimes find genres on the song's Wikipedia page.
 
@@ -127,9 +129,25 @@ Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one t
 }
 ```
 
+### Featured Artist 🎬
+
+Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one type per card. 
+
+`musical` under type is referring to live musicals performed on Broadway, the West End, local theaters etc. If you are adding a **movie** musical, please choose `movie` as the type and indicate it is a musical via genres.
+
+```
+{
+  type: "movie",
+}
+```
+
 ### Music Video 
 
-
+```
+{
+  musicVideo: "movie",
+}
+```
 
 ### Year 📆
 
@@ -151,13 +169,13 @@ Follow these instructions to add a card. You can add a card using the Github web
 
 ### This method will use the Github website to contribute to this project. You will not need to download any programs to your computer using these instructions.
 
-1. Check the Issues to see if the [movie](https://github.com/brittanyrw/emojiscreen/labels/movie), [series of movies](https://github.com/brittanyrw/emojiscreen/labels/add%20series), [TV show](https://github.com/brittanyrw/emojiscreen/labels/tv), [or musical](https://github.com/brittanyrw/emojiscreen/labels/musical) is listed.
+1. Check the Issues to see if the [song](https://github.com/brittanyrw/emojibops/labels/song), [album](https://github.com/brittanyrw/emojibops/labels/album), [or artist](https://github.com/brittanyrw/emojibops/labels/artist), is listed.
 - If it is not listed as an issue, continue to the next step.
-- If it is listed as an Issue, take note of the Issue number (the number next to the title of the Issue) so that you can add it to your pull request and write a comment in the Issue stating that you will be adding that particular movie or show. If there is already a comment in the Issue from someone saying that they will add that show or movie, choose something else to add. 
+- If it is listed as an Issue, take note of the Issue number (the number next to the title of the Issue) so that you can add it to your pull request and write a comment in the Issue stating that you will be adding that particular song. If there is already a comment in the Issue from someone saying that they will add that song, choose something else to add. 
 2. Fork this repository. This will create a copy of the repository and create a new repository on your account. Note: the `Fork` button is located in the top right area of the repo.
 3. Once the repo is forked, you will be taken to the forked repo. Note: In the top left, the name of the repo should now include your username.
 4. Navigate to the `data.js` file in your forked repo by clicking on the file name.
-5. Edit the `data.js` file by clicking on the pencil icon and add a new object for your movie, TV show or musical in alphabetical order.  **Note: If the movie title starts with 'The' then use the next word for alphabetical order.** Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys.
+5. Edit the `data.js` file by clicking on the pencil icon and add a new object for your song in alphabetical order.  **Note: If the song title starts with 'The' then use the next word for alphabetical order.** Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys.
 
 Use the following object as a template:
 
@@ -246,7 +264,7 @@ Then re-run the commit command. Remember to replace with your show or movie: `gi
 
 ## Credits
 
-💖Check out a list of all [of the EmojiScreen contributors](https://github.com/brittanyrw/emojiscreen/graphs/contributors).
+💖Check out a list of all [of the EmojiBops contributors](https://github.com/brittanyrw/emojiscreen/graphs/contributors).
 
 Emoji graphics are by Twitter and are licensed under CC-BY 4.0. Review the [Attribution Requirements](https://github.com/twitter/twemoji#attribution-requirements) for more information.
 
