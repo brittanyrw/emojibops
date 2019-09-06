@@ -63,7 +63,7 @@ In the `data.js` file, each `Emoji Card` consists of the following object:
   artist: ["BTS"],
   featuredArtist: ["Halsey"],
   emojiImgs: "🧒🏻💜📸",
-  musicVideo: "http://www.youtube.com/watch?v=XsX3ATc3FbA",
+  musicVideo: "https://www.youtube.com/watch?v=XsX3ATc3FbA",
   genres: ["k-pop", "pop"],
   year: 2019
 }
@@ -119,39 +119,39 @@ If you need help selecting genres, you can sometimes find genres on the song's W
 
 ### Artist 🎬
 
-Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one type per card. 
-
-`musical` under type is referring to live musicals performed on Broadway, the West End, local theaters etc. If you are adding a **movie** musical, please choose `movie` as the type and indicate it is a musical via genres.
+The artist(s) should be added as an array (the square [] brackets indicates an array or list). Separate each artist with a comma and each artist should be wrapped in quotes. An example with multiple artists: ```  artist: ["Lady Gaga", "Bradley Cooper"]```
 
 ```
 {
-  type: "movie",
+  artist: ["BTS"],
 }
 ```
 
 ### Featured Artist 🎬
 
-Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one type per card. 
-
-`musical` under type is referring to live musicals performed on Broadway, the West End, local theaters etc. If you are adding a **movie** musical, please choose `movie` as the type and indicate it is a musical via genres.
+The featured artist(s) should be added as an array (the square [] brackets indicates an array or list). Separate each artist with a comma and each artist should be wrapped in quotes. An example with multiple featured artists: ```  featuredArtist: ["Justin Bieber", "Lil Wayne", "Quavo", "Chance the Rapper"]```
 
 ```
 {
-  type: "movie",
+  featuredArtist: ["Halsey"],
 }
 ```
 
 ### Music Video 
 
+Add a link to the official music video. If there is no music video, then add a link to a performance of the song (such as on an awards show, talk show, etc). If there are no videos, leave this item blank like so: ```musicVideo: ""```
+
+The link must have https or http included.
+
 ```
 {
-  musicVideo: "movie",
+  musicVideo: "https://www.youtube.com/watch?v=XsX3ATc3FbA",
 }
 ```
 
 ### Year 📆
 
-Specify the year the movie or show was released or first aired. Or the first performance year for a musical. This should be a  single number (no quotations around the year). Do not add ranges such as 2017-2019. 
+Specify the year the song was released. 
 
 ```
 {
@@ -181,11 +181,13 @@ Use the following object as a template:
 
 ```
 {
-  title: "Black Panther",
-  emojiImgs: "😺🌍🏴💪🏿🦸🏿",
-  genres: ["action", "adventure", "sci-fi"],
-  type: "movie",
-  year: 2018
+  title: "Old Town Road",
+  artist: ["Lil Nas X"],
+  featuredArtist: ["Billy Ray Cyrus"],
+  emojiImgs: "🐎🛣️🎸🤠",
+  musicVideo: "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
+  genres: ["hip-hop", "country"],
+  year: 2019
 }
 ```
 
@@ -212,7 +214,7 @@ Use the following object as a template:
 
 ### Local Development Instructions
 
-1. Check the Issues to see if the [movie](https://github.com/brittanyrw/emojiscreen/labels/movie), [series of movies](https://github.com/brittanyrw/emojiscreen/labels/add%20series), [TV show](https://github.com/brittanyrw/emojiscreen/labels/tv), [or musical](https://github.com/brittanyrw/emojiscreen/labels/musical) is listed.
+1. Check the Issues to see if the [song](https://github.com/brittanyrw/emojibops/labels/song), [album](https://github.com/brittanyrw/emojibops/labels/album), [or artist](https://github.com/brittanyrw/emojibops/labels/artist), is listed.
 - If it is not listed as an Issue, continue to the next step.
 - If it is listed as an Issue, take note of the issue number (the number next to the title of the Issue) so that you can add it to your pull request and write a comment in the Issue stating that you will be adding that particular movie or show. If there is already a comment in the Issue from someone saying that they will add that show or movie, choose something else to add. 
 2. Fork this repository. This will create a copy of the repository and create a new repository on your account.
@@ -220,17 +222,19 @@ Use the following object as a template:
 4. Download the project to your computer. Click on the `Clone or Download` button. Copy the HTTPS github repo link.
 5. In your terminal, navigate to where you would like to save the project (such as `cd Desktop`). Run the following command in the terminal, replacing the following link with your copied link: `git clone https://github.com/your-username-will-be-here/emojiscreen.git`;
 6. After the command has been run, in the terminal, navigate into the EmojiScreen project folder: `cd emojiscreen`.
-7. Open the `emojiscreen` project in your text editor of choice. Edit the `data.js` file and add a new object for your movie, TV show or musical in alphabetical order. **Note: If the movie title starts with 'The' then use the next word for alphabetical order.**. Make sure there is a comma between your object and the objects above and below. Refer to the card overview above for requirements for the different object keys.  Make sure to save your file after you have made changes. 
+7. Open the `emojiscreen` project in your text editor of choice. Edit the `data.js` file by clicking on the pencil icon and add a new object for your song in alphabetical order.  **Note: If the song title starts with 'The' then use the next word for alphabetical order.** Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys. Make sure to save your file after you have made changes. 
 
 Use the following object as a template:
 
 ```
 {
-  title: "The Lion King",
-  emojiImgs: "🦁👑🌍",
-  genres: ["animation", "adventure", "drama"],
-  type: "movie",
-  year: 1994
+  title: "Old Town Road",
+  artist: ["Lil Nas X"],
+  featuredArtist: ["Billy Ray Cyrus"],
+  emojiImgs: "🐎🛣️🎸🤠",
+  musicVideo: "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
+  genres: ["hip-hop", "country"],
+  year: 2019
 }
 ```
 
