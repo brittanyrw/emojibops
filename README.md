@@ -6,7 +6,7 @@
 
 ## This project was built to create a fun, judgement free space for those learning Git and Github to practice making pull requests, branches, adding features, and more. 💛 💙 💜 💚 💖
 
-> Also contribute to our companion project, [EmojiScreen: a listing of TV shows, movies and musicals](https://github.com/brittanyrw/emojiscreen/).
+> Also contribute to our companion project, [EmojiScreen: a listing of TV shows, movies and musicals depicted via emojis](https://github.com/brittanyrw/emojiscreen/).
 
 ## Contributing 🎁
 
