@@ -111,17 +111,9 @@ The genres should be added as an array (the square [] brackets indicates an arra
 }
 ```
 
-You can select genres from the chart below or you can sometimes find them on the song's Wikipedia page.
+Select your genres from [this list of genres](https://www.google.com). If you want to use a genre that is not on this list, in your pull request please add the genre to the `genres.md` file.
 
-Here is a list of genres you can choose from. If you add a genre that is not in the chart below, please also edit this README in your pull request and add that genre to this chart.
-
-|              |              |              |              |              |              |              |              |
-| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
-| acoustic     | afrobeat     | alt-rock     | alternative  | bluegrass    | blues        | british      | children     |
-| classical    | comedy       | country      | dance        | disco        | disney       | electronic   | emo          |
-| folk         | funk         | grunge       | hard-rock    | heavy-metal  | hip-hop      |  indie       | indie-pop    |
-|  j-pop       | jazz         | k-pop        | latin        | metal        | movies       | musicals     | pop          |
-| pop-punk     | punk         | r-n-b        | rock         | singer-songwriter | soul    |  |  |
+If you need help selecting genres, you can sometimes find genres on the song's Wikipedia page.
 
 ### Artist 🎬
 
