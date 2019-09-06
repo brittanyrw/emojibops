@@ -55,11 +55,13 @@ In the `data.js` file, each `Emoji Card` consists of the following object:
 
 ```
 {
-  title: "Beauty and the Beast",
-  emojiImgs: "🏰🥀🎶📚🕰️",
-  genres: ["animation", "family", "fantasy"],
-  type: "movie",
-  year: 1991
+  title: "Boy With Luv",
+  artist: ["BTS"],
+  featuredArtist: ["Halsey"],
+  emojiImgs: "🧒🏻💜📸",
+  musicVideo: "http://www.youtube.com/watch?v=XsX3ATc3FbA",
+  genres: ["k-pop", "pop"],
+  year: 2019
 }
 ```
 
@@ -67,11 +69,11 @@ To add a new card to the website, add a new object in the `data.js` file. Make s
 
 ### Title 👍
 
-Each card must have a title. This should be the full title.
+Each card must have a title. This should not included featured artist names, that is added seperately so we can filter by those artist names later.
 
 ```
 {
-  title: "Beauty and the Beast",
+  title: "Boy With Luv",
 }
 ```
 
@@ -79,11 +81,11 @@ Each card must have a title. This should be the full title.
 
 The emojis should be added to `emojiImgs` as a string. Your emojis should be surrounded by double quotation marks.
 
-## **Important Note: Add five emojis maximum for each card**
+## **Important Note: Add six emojis maximum for each card**
 
 ```
 {
-  emojiImgs: "🏰🥀🎶📚🕰️",
+  emojiImgs: "🧒🏻💜📸",
 }
 ```
 
@@ -103,18 +105,13 @@ The genres should be added as an array (the square [] brackets indicates an arra
 
 ```
 {
-  genres: ["animation", "family", "fantasy"],
+  genres: ["k-pop", "pop"],
 }
 ```
 
-For movies and TV shows, go to the IMDB profile and find the genres listed under the title. Add these genres to the `Emoji Card` object. Some cards will only have one genre, that is okay! Use the genre chart below as a guide for which genres are available.
+You can select genres from the chart below or you can sometimes find them on the song's Wikipedia page.
 
-See the below screenshot for the location of the genre listing in IMDB profiles.
-
-![Screenshot of the Beauty and the Beast IDMB profile with the genres circled](readme/imdb-screenshot.png)
-
-
-For musicals, include the `musical` genre and any other genres from the list below that you think fit:
+Here is a list of genres you can choose from. If you add a genre that is not in the chart below, please also edit this README in your pull request and add that genre to this chart.
 
 |         |           |           |           |        |         |             |       |
 | ------- | --------- | --------- | --------- | ------ | ------- | ----------- | ----- |
@@ -123,7 +120,7 @@ For musicals, include the `musical` genre and any other genres from the list bel
 | romance | sci-fi    | sport     | thriller  | war    | western |             |       |
 |         |           |           |           |        |         |             |       |
 
-### Type 🎬
+### Artist 🎬
 
 Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one type per card. 
 
@@ -134,6 +131,10 @@ Specify if the card you are adding is `tv`, `movie` or `musical`. Only add one t
   type: "movie",
 }
 ```
+
+### Music Video 
+
+
 
 ### Year 📆
 
