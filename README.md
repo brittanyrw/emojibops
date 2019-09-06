@@ -6,6 +6,8 @@
 
 ## This project was built to create a fun, judgement free space for those learning Git and Github to practice making pull requests, branches, adding features, and more. 💛 💙 💜 💚 💖
 
+> Also contribute to our companion project, [EmojiScreen: a listing of TV shows, movies and musicals](https://github.com/brittanyrw/emojiscreen/).
+
 ## Contributing 🎁
 
 Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add an `Emoji Card` to the website (you can add multiple songs). Each card should be added in the `data.js` file as an object. 
@@ -113,12 +115,13 @@ You can select genres from the chart below or you can sometimes find them on the
 
 Here is a list of genres you can choose from. If you add a genre that is not in the chart below, please also edit this README in your pull request and add that genre to this chart.
 
-|         |           |           |           |        |         |             |       |
-| ------- | --------- | --------- | --------- | ------ | ------- | ----------- | ----- |
-| action  | adventure | animation | biography | comedy | crime   | documentary | drama |
-| family  | fantasy   | film-noir | history   | horror | music   | mystery     | news  |
-| romance | sci-fi    | sport     | thriller  | war    | western |             |       |
-|         |           |           |           |        |         |             |       |
+|              |              |              |              |              |              |              |              |
+| ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ | ------------ |
+| acoustic     | afrobeat     | alt-rock     | alternative  | bluegrass    | blues        | british      | children     |
+| classical    | comedy       | country      | dance        | disco        | disney       | electronic   | emo          |
+| folk         | funk         | grunge       | hard-rock    | heavy-metal  | hip-hop      |  indie       | indie-pop    |
+|  j-pop       | jazz         | k-pop        | latin        | metal        | movies       | musicals     | pop          |
+| pop-punk     | punk         | r-n-b        | rock         | singer-songwriter | soul    |  |  |
 
 ### Artist 🎬
 
