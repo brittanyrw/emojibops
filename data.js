@@ -3,7 +3,7 @@ const emojiItems = [
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
-        emojiImgs: "💃🏽🕺🏽🔥♥️",
+        emojiImgs: "🕒💃🏽🕺🏽🔥♥️",
         musicVideo: "http://www.youtube.com/watch?v=eH3giaIzONA",
         genres: ["pop", "rb"],
         year: 1987
@@ -64,7 +64,7 @@ const emojiItems = [
         genres: ["pop"],
         year: 2015
     },{
-        title: "I Write Sins not Tragedies",
+        title: "I Write Sins Not Tragedies",
         artist: ["Panic! at the Disco"],
         featuredArtist: [],
         emojiImgs: "👰🏼🤵🏼💐🎩🗣️🚪",
