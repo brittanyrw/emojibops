@@ -176,7 +176,7 @@ Follow these instructions to add a card. You can add a card using the Github web
 
 ### This method will use the Github website to contribute to this project. You will not need to download any programs to your computer using these instructions.
  
-1. Check the Issues to see if the [song](https://github.com/brittanyrw/emojisbops/labels/add%songs) is listed.
+1. Check the Issues to see if the [song](https://github.com/brittanyrw/emojisbops/labels/add%20songs) is listed.
 - If it is not listed as an issue, continue to the next step.
 - If it is listed as an Issue, take note of the Issue number (the number next to the title of the Issue) so that you can add it to your pull request and write a comment in the Issue stating that you will be adding that particular song. If there is already a comment in the Issue from someone saying that they will add that song, choose something else to add. 
 2. Fork this repository. This will create a copy of the repository and create a new repository on your account. Note: the `Fork` button is located in the top right area of the repo.
@@ -221,7 +221,7 @@ Use the following object as a template:
 
 ### Local Development Instructions
 
-1.  Check the Issues to see if the [song](https://github.com/brittanyrw/emojisbops/labels/add%songs) is listed.
+1.  Check the Issues to see if the [song](https://github.com/brittanyrw/emojisbops/labels/add%20songs) is listed.
 - If it is not listed as an issue, continue to the next step.
 - If it is listed as an Issue, take note of the Issue number (the number next to the title of the Issue) so that you can add it to your pull request and write a comment in the Issue stating that you will be adding that particular song. If there is already a comment in the Issue from someone saying that they will add that song, choose something else to add. 
 2. Fork this repository. This will create a copy of the repository and create a new repository on your account.
