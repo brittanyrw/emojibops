@@ -32,6 +32,10 @@ Here are some links to lists of songs in case you're having trouble thinking of 
 
 > Songs added must have lyrics, no instrumental songs please.
 
+#### I have also [added Issues for individual songs](https://github.com/brittanyrw/emojibops/labels/add%20songs) that I think would be fun to add to EmojiBops. Feel free to add any of the songs listed in Issues. Make sure to comment inside of the Issue if you plan on taking it and add the Issue number in your Pull Request.
+
+Note: The issues to add songs have links to a Wikipedia or other page with song information, but many songs have multiple versions. Feel free to add a different version than the link if you prefer. 
+
 ### Songs
 * [The Biggest Hits of All: The Hot 100's All-Time Top 100 Songs](https://www.billboard.com/articles/news/hot-100-turns-60/8468142/hot-100-all-time-biggest-hits-songs-list)
 * [Billboard Hot 100 (Songs)](https://www.billboard.com/charts/hot-100)
@@ -172,10 +176,13 @@ Follow these instructions to add a card. You can add a card using the Github web
 
 ### This method will use the Github website to contribute to this project. You will not need to download any programs to your computer using these instructions.
  
-1. Fork this repository. This will create a copy of the repository and create a new repository on your account. Note: the `Fork` button is located in the top right area of the repo.
-2. Once the repo is forked, you will be taken to the forked repo. Note: In the top left, the name of the repo should now include your username.
-3. Navigate to the `data.js` file in your forked repo by clicking on the file name.
-4. Edit the `data.js` file by clicking on the pencil icon and add a new object for your song in alphabetical order.  **Note: If the song title starts with 'The' then use the next word for alphabetical order.** Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys.
+1. Check the Issues to see if the [song](https://github.com/brittanyrw/emojisbops/labels/add%songs) is listed.
+- If it is not listed as an issue, continue to the next step.
+- If it is listed as an Issue, take note of the Issue number (the number next to the title of the Issue) so that you can add it to your pull request and write a comment in the Issue stating that you will be adding that particular song. If there is already a comment in the Issue from someone saying that they will add that song, choose something else to add. 
+2. Fork this repository. This will create a copy of the repository and create a new repository on your account. Note: the `Fork` button is located in the top right area of the repo.
+3. Once the repo is forked, you will be taken to the forked repo. Note: In the top left, the name of the repo should now include your username.
+4. Navigate to the `data.js` file in your forked repo by clicking on the file name.
+5. Edit the `data.js` file by clicking on the pencil icon and add a new object for your song in alphabetical order.  **Note: If the song title starts with 'The' then use the next word for alphabetical order.** Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys.
 
 Use the following object as a template:
 
@@ -191,16 +198,16 @@ Use the following object as a template:
 }
 ```
 
-5. Once you have completed updating the object for your song, scroll to the bottom of the page and add a commit message. The commit message should be formatted like: `Added Wannabe by the Spice Girls` or `Added thank u next by Ariana`. Click the `Commit Changes` button to save your changes.
+6. Once you have completed updating the object for your song, scroll to the bottom of the page and add a commit message. The commit message should be formatted like: `Added Wannabe by the Spice Girls` or `Added thank u next by Ariana`. Click the `Commit Changes` button to save your changes.
 
 ![Screenshot of creating a commit message on the Github website](readme/emojibop-commit.png)
 
-6. Navigate to the `Pull Request` tab. Click on New `Pull Request`.
+7. Navigate to the `Pull Request` tab. Click on New `Pull Request`.
 
 ![Screenshot of a Pull Request on the Github website](readme/emojibop-pullrequest.png)
 
-7. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and add an Issue number if applicable, then click on `Create Pull Request`.
-8. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojibops.com](https://emojibops.com) and you will officially have contributed to the project! 🎉
+8. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and add an Issue number if applicable, then click on `Create Pull Request`.
+9. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojibops.com](https://emojibops.com) and you will officially have contributed to the project! 🎉
 
 ## Local Development
 
@@ -214,12 +221,15 @@ Use the following object as a template:
 
 ### Local Development Instructions
 
-1. Fork this repository. This will create a copy of the repository and create a new repository on your account.
-2. Once the repo is forked, you will be taken to the forked repo.
-3. Download the project to your computer. Click on the `Clone or Download` button. Copy the HTTPS github repo link.
-4. In your terminal, navigate to where you would like to save the project (such as `cd Desktop`). Run the following command in the terminal, replacing the following link with your copied link: `git clone https://github.com/your-username-will-be-here/emojibops.git`;
-5. After the command has been run, in the terminal, navigate into the EmojiBops project folder: `cd emojibops`.
-6. Open the `emojibops` project in your text editor of choice. Edit the `data.js` file by clicking on the pencil icon and add a new object for your song in alphabetical order.  **Note: If the song title starts with 'The' then use the next word for alphabetical order.** Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys. Make sure to save your file after you have made changes. 
+1.  Check the Issues to see if the [song](https://github.com/brittanyrw/emojisbops/labels/add%songs) is listed.
+- If it is not listed as an issue, continue to the next step.
+- If it is listed as an Issue, take note of the Issue number (the number next to the title of the Issue) so that you can add it to your pull request and write a comment in the Issue stating that you will be adding that particular song. If there is already a comment in the Issue from someone saying that they will add that song, choose something else to add. 
+2. Fork this repository. This will create a copy of the repository and create a new repository on your account.
+3. Once the repo is forked, you will be taken to the forked repo.
+4. Download the project to your computer. Click on the `Clone or Download` button. Copy the HTTPS github repo link.
+5. In your terminal, navigate to where you would like to save the project (such as `cd Desktop`). Run the following command in the terminal, replacing the following link with your copied link: `git clone https://github.com/your-username-will-be-here/emojibops.git`;
+6. After the command has been run, in the terminal, navigate into the EmojiBops project folder: `cd emojibops`.
+7. Open the `emojibops` project in your text editor of choice. Edit the `data.js` file by clicking on the pencil icon and add a new object for your song in alphabetical order.  **Note: If the song title starts with 'The' then use the next word for alphabetical order.** Make sure there is a comma between your object and the object above and below. Refer to the card overview above for requirements for the different object keys. Make sure to save your file after you have made changes. 
 
 Use the following object as a template:
 
@@ -235,11 +245,11 @@ Use the following object as a template:
 }
 ```
 
-7. If you would like to see what your addition will look like, open the `index.html` file that is in the `emojibops` folder in a web browser. The EmojiCards are added in a random order so it may take you a few seconds to find what you added. If you do not see any cards in the browser, this could mean that you have a typo in your `data.js` file. If that is the case, double check what you have added for missing commas and quotation marks.
-8. Once you are done, go to the terminal and type `git status`. You should see `data.js` as modified. If you don't see this, go back and make sure to save your `data.js` file.
-9. Run `git add -A` to add your changes.
-10. Add a commit message. Run the following command and replace with your song name: `git commit -m "Added Wannabe by Spice Girls"`.
-11. If you have never used git on your computer before, you will see a message asking for you to set your email and username. If you do not see that message, continue to the next step. Run the following commands, replacing "you@example.com" with your Github email and "Your name" with your github username:
+8. If you would like to see what your addition will look like, open the `index.html` file that is in the `emojibops` folder in a web browser. The EmojiCards are added in a random order so it may take you a few seconds to find what you added. If you do not see any cards in the browser, this could mean that you have a typo in your `data.js` file. If that is the case, double check what you have added for missing commas and quotation marks.
+9. Once you are done, go to the terminal and type `git status`. You should see `data.js` as modified. If you don't see this, go back and make sure to save your `data.js` file.
+10. Run `git add -A` to add your changes.
+11. Add a commit message. Run the following command and replace with your song name: `git commit -m "Added Wannabe by Spice Girls"`.
+12. If you have never used git on your computer before, you will see a message asking for you to set your email and username. If you do not see that message, continue to the next step. Run the following commands, replacing "you@example.com" with your Github email and "Your name" with your github username:
 
 `git config --global user.email "you@example.com"`
 
@@ -247,14 +257,14 @@ Use the following object as a template:
 
 Then re-run the commit command. Remember to replace with your song: `git commit -m "Added Wannabe by Spice Girls"`
 
-12. Run `git push`. If you have not done this before, git push will not run until you login to your Github account. Type in your Github username and password. **NOTE: When you type your password, it will not show in the terminal. Press enter after you type your password to continue**.
+13. Run `git push`. If you have not done this before, git push will not run until you login to your Github account. Type in your Github username and password. **NOTE: When you type your password, it will not show in the terminal. Press enter after you type your password to continue**.
 
-13. Go to the Github website and navigate to the `Pull Request` tab. Click on New `Pull Request`.
+14. Go to the Github website and navigate to the `Pull Request` tab. Click on New `Pull Request`.
 
 ![Screenshot of a Pull Request on the Github website](readme/emojibop-pullrequest.png)
 
-14. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and add an Issue number if applicable, then click on `Create Pull Request`.
-15. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojibops.com](https://emojibops.com) and you will officially have contributed to the project! 🎉
+15. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and add an Issue number if applicable, then click on `Create Pull Request`.
+16. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojibops.com](https://emojibops.com) and you will officially have contributed to the project! 🎉
 
 ## Other Resources and Options
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
