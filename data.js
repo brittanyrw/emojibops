@@ -71,6 +71,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=vc6vs-l5dkc",
         genres: ["emo", "pop", "punk"],
         year: 2005
+    }, {
+        title: "Bohemian Rhapsody",
+        artist: ["Queen"],
+        featuredArtist: [],
+        emojiImgs: "👑👨‍🎤🎼",
+        musicVideo: "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
+        genres: ["art rock", "opera rock", "classic rock"],
+        year: 1975
     }
 ]
 
