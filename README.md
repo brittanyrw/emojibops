@@ -128,7 +128,8 @@ If you need help selecting genres, you can sometimes find genres on the song's W
 
 The artist(s) should be added as an array (the square [] brackets indicates an array or list). Separate each artist with a comma and each artist should be wrapped in quotes. An example with multiple artists: ```  artist: ["Lady Gaga", "Bradley Cooper"]```
 
-```
+For musicals, the `artist` should be the name of the show.
+
 {
   artist: ["BTS"],
 }
