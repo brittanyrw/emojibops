@@ -32,7 +32,10 @@ Here are some links to lists of songs in case you're having trouble thinking of 
 
 > Songs added must have lyrics, no instrumental songs please.
 
-#### I have also [added Issues for individual songs](https://github.com/brittanyrw/emojibops/labels/add%20songs) that I think would be fun to add to EmojiBops. Feel free to add any of the songs listed in Issues. Make sure to comment inside of the Issue if you plan on taking it and add the Issue number in your Pull Request.
+#### I have also [added Issues for individual songs](https://github.com/brittanyrw/emojibops/labels/add%20songs) that I think would be fun to add to EmojiBops. The Issues are also categoried into loose genre categories of [Pop](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Apop), [Hip Hop](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3A%22hip+hop%22), [Rock](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3Arock), [Country](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3Acountry), [Musicals](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Amusicals) and [R&B](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3AR%26B). 
+
+
+Feel free to add any of the songs listed in Issues. Make sure to comment inside of the Issue if you plan on taking it and add the Issue number in your Pull Request.
 
 Note: The issues to add songs have links to a Wikipedia or other page with song information, but many songs have multiple versions. Feel free to add a different version than the link if you prefer. 
 
