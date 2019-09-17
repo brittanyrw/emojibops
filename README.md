@@ -149,7 +149,7 @@ The featured artist(s) should be added as an array (the square [] brackets indic
 
 ### Music Video 
 
-Add a link to the official music video. If there is no music video, then add a link to a performance of the song (such as on an awards show, talk show, etc). If there are no videos, leave this item blank like so: ```musicVideo: ""```
+Add a link to the official music video if there is one. If there is no music video, then add a link to a performance of the song (such as on an awards show, talk show, etc). If you are not able to find a music video or performance, just try to use your best judgement when selecting a video for the song. If there are no videos, leave this item blank like so: ```musicVideo: ""```
 
 The link must have https or http included.
 
