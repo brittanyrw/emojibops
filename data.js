@@ -30,7 +30,7 @@ const emojiItems = [
         emojiImgs: "🐆👧🏻👧🏾👧🏿👧🏼🎵",
         musicVideo: "https://www.youtube.com/watch?v=RXt_lya0gto",
         genres: ["soundtrack", "pop"],
-        year: 2007
+        year: 2003
     },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
