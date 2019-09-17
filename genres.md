@@ -3,9 +3,11 @@
 Select genres from the list below. If you would like to add a genre not listed, edit this file with your new genre and include it in your pull request. Add new genres in alphabetical order. 
 
 * alt-rock
+* art rock
 * alternative
 * blues
 * children
+* classic rock
 * comedy
 * country
 * dance
@@ -36,6 +38,7 @@ Select genres from the list below. If you would like to add a genre not listed, 
 * latin
 * metal
 * movies
+* opera rock
 * party
 * pop
 * pop-punk
