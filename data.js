@@ -21,7 +21,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🏰🏔️🍺🏡🚙",
         musicVideo: "https://www.youtube.com/watch?v=K0ibBPhiaG0",
-        genres: ["pop"],
+        genres: ["pop","singer-songwriter"],
         year: 2017
     },{
         title: "Cheetah Sisters",
