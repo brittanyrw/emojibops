@@ -64,6 +64,14 @@ const emojiItems = [
         genres: ["hip-hop", "pop"],
         year: 2019
     },{
+        title: "Rocketman",
+        artist: ["Elton John"],
+        featuredArtist: [],
+        emojiImgs: "🚀👨",
+        musicVideo: "https://www.youtube.com/watch?v=DtVBCG6ThDk",
+        genres: ["soft rock"],
+        year: 1972
+    },{
         title: "Stone Cold",
         artist: ["Demi Lovato"],
         featuredArtist: [],
