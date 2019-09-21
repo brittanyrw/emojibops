@@ -24,6 +24,14 @@ const emojiItems = [
         genres: ["pop","singer-songwriter"],
         year: 2017
     },{
+        title: "Chasing Cars",
+        artist: ["Snow Patrol"],
+        featuredArtist: [""],
+        emojiImgs: "🚗🏃🛌",
+        musicVideo: "https://www.youtube.com/watch?v=GemKqzILV4w",
+        genres: ["alternative", "indie" ,"rock"],
+        year: 2006
+    },{
         title: "Cheetah Sisters",
         artist: ["The Cheetah Girls"],
         featuredArtist: [],
