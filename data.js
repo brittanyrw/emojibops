@@ -67,7 +67,7 @@ const emojiItems = [
         title: "Rocketman",
         artist: ["Elton John"],
         featuredArtist: [],
-        emojiImgs: "🚀👨",
+        emojiImgs: "🚀👨🌑",
         musicVideo: "https://www.youtube.com/watch?v=DtVBCG6ThDk",
         genres: ["soft rock"],
         year: 1972
