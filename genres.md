@@ -49,6 +49,7 @@ Select genres from the list below. If you would like to add a genre not listed, 
 * rock
 * show-tunes
 * singer-songwriter
+* soft rock
 * soul
 * soundtracks
 * summer

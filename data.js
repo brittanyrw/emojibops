@@ -24,6 +24,14 @@ const emojiItems = [
         genres: ["pop","singer-songwriter"],
         year: 2017
     },{
+        title: "Chasing Cars",
+        artist: ["Snow Patrol"],
+        featuredArtist: [""],
+        emojiImgs: "🚗🏃🛌",
+        musicVideo: "https://www.youtube.com/watch?v=GemKqzILV4w",
+        genres: ["alternative", "indie" ,"rock"],
+        year: 2006
+    },{
         title: "Cheetah Sisters",
         artist: ["The Cheetah Girls"],
         featuredArtist: [],
@@ -63,6 +71,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
         genres: ["hip-hop", "pop"],
         year: 2019
+    },{
+        title: "Rocketman",
+        artist: ["Elton John"],
+        featuredArtist: [],
+        emojiImgs: "🚀👨🌑",
+        musicVideo: "https://www.youtube.com/watch?v=DtVBCG6ThDk",
+        genres: ["soft rock"],
+        year: 1972
     },{
         title: "Stone Cold",
         artist: ["Demi Lovato"],
