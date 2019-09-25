@@ -18,7 +18,11 @@ Below are instructions for how to contribute to this project. The easiest way to
 
 For more advanced ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). 
 
-## If you want to work on one of the Issues that are labeled with `enhancement` please comment in the Issue and wait for confirmation before you start working on it.
+### If you want to work on one of the [Issues to add a song](https://github.com/brittanyrw/emojibops/labels/add%20songs)
+* Please comment in the Issue so that others know to not add that song. You do not have to wait for confirmation for Issues adding songs before creating a Pull Request. Your comment will just help 'bookmark' the Issue for you to prevent duplicate Pull Requests.
+
+### If you want to work on one of the Issues that are labeled with `enhancement` 
+* Please comment in the Issue and wait for confirmation before you start working on it.
 
 ### 
 
