@@ -19,7 +19,7 @@ const emojiItems = [
         title: "Candy Shop",
         artist: ["50 Cent"],
         featuredArtist: ["Olivia"],
-        emojiImgs: "🚗👩👱‍♂🏪🛍🍭",
+        emojiImgs: "🚗👩👱‍♂🛍🍭",
         musicVideo: "https://www.youtube.com/watch?v=SRcnnId15BA",
         genres: ["Dirty rap"],
         year: 2004
