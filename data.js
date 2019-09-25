@@ -78,7 +78,7 @@ const emojiItems = [
         emojiImgs: "🎹🤵🏻",
         musicVideo: "https://www.youtube.com/watch?v=gxEPV4kolz0",
         genres: ["Soft rock"],
-        year: 2019
+        year: 1973
     },{
         title: "Rocketman",
         artist: ["Elton John"],
