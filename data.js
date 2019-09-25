@@ -95,6 +95,15 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=gl1aHhXnN1k",
         genres: ["pop"],
         year: 2019
+    },
+    {
+        title: "Piano Man",
+        artist: ["Billy Joel"],
+        featuredArtist: [],
+        emojiImgs: "🎹🤵🏻",
+        musicVideo: "https://www.youtube.com/watch?v=gxEPV4kolz0",
+        genres: ["Soft rock"],
+        year: 2019
     }
 ]
 
