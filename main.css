@@ -327,3 +327,39 @@ footer img {
   text-align: center;
 }
 
+#pagination-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#pagination-container .pagination {
+  max-width: 1000px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 30px;
+}
+
+#pagination-container .pagination a {
+  border: #292932 2px solid;
+  border-right: none;
+  background: #fae6e9;
+  color: #352649;;
+  width: 40px;
+  height: 40px;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+#pagination-container .pagination a:last-child {
+  border-right: #292932 2px solid;
+}
+
+#pagination-container .pagination a.active {
+  background: #ff7676
+}
