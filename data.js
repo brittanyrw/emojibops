@@ -100,7 +100,7 @@ const emojiItems = [
         artist: ["Lemon Demon"],
         featuredArtist: [],
         emojiImgs: "☎️👽📻",
-        musicVideo: "https://www.youtube.com/watch?v=OS3GqQY4u54",
+        musicVideo: "",
         genres: ["pop"],
         year: 2016
     }
