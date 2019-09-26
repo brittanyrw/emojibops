@@ -104,6 +104,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2019
     },{
+        title: "Truckin",
+        artist: ["Grateful Dead"],
+        featuredArtist: [],
+        emojiImgs: "🚚🎳🚓",
+        musicVideo: "https://youtu.be/pafY6sZt0FE",
+        genres: ["rock", "alternative"],
+  year: 2019
+},{
         title: "Thriller",
         artist: ["Michael Jackson"],
         featuredArtist: [],
@@ -113,5 +121,3 @@ const emojiItems = [
         year: 1984
     }
 ]
-
-
