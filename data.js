@@ -1,5 +1,13 @@
 const emojiItems = [
-    {
+    { 
+        title: "Alors On Danse", 
+        artist: ["Stromae"], 
+        featuredArtist: [], 
+        emojiImgs: '🇧🇪💃🕺🐶', 
+        musicVideo: 'https://www.youtube.com/watch?v=VHoT4N43jK8', 
+        genres: ["dance","electronic","hip-hop"], 
+        year: 2010
+    },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
@@ -104,14 +112,6 @@ const emojiItems = [
         genres: ["pop"],
         year: 2019
     },{
-        title: "Truckin",
-        artist: ["Grateful Dead"],
-        featuredArtist: [],
-        emojiImgs: "🚚🎳🚓",
-        musicVideo: "https://youtu.be/pafY6sZt0FE",
-        genres: ["rock", "alternative"],
-        year: 2019
-},{
         title: "Thriller",
         artist: ["Michael Jackson"],
         featuredArtist: [],
@@ -119,13 +119,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
-    }, { 
-        title: "Alors On Danse", 
-        artist: ["Stromae"], 
-        featuredArtist: [], 
-        emojiImgs: '🇧🇪💃🕺🐶', 
-        musicVideo: 'https://www.youtube.com/watch?v=VHoT4N43jK8', 
-        genres: ["dance","electronic","hip-hop"], 
-        year: 2010
+    },{
+        title: "Truckin",
+        artist: ["Grateful Dead"],
+        featuredArtist: [],
+        emojiImgs: "🚚🎳🚓",
+        musicVideo: "https://youtu.be/pafY6sZt0FE",
+        genres: ["rock", "alternative"],
+        year: 2019
     }
 ]
