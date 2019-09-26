@@ -110,7 +110,7 @@ const emojiItems = [
         emojiImgs: "🚚🎳🚓",
         musicVideo: "https://youtu.be/pafY6sZt0FE",
         genres: ["rock", "alternative"],
-  year: 2019
+        year: 2019
 },{
         title: "Thriller",
         artist: ["Michael Jackson"],
@@ -119,5 +119,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    }, { 
+        title: "Alors On Danse", 
+        artist: ["Stromae"], 
+        featuredArtist: [], 
+        emojiImgs: '🇧🇪💃🕺🐶', 
+        musicVideo: 'https://www.youtube.com/watch?v=VHoT4N43jK8', 
+        genres: ["dance","electronic","hip-hop"], 
+        year: 2010
     }
 ]
