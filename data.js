@@ -16,6 +16,14 @@ const emojiItems = [
         genres: ["k-pop", "pop"],
         year: 2019
     },{
+        title: "Candy Shop",
+        artist: ["50 Cent"],
+        featuredArtist: ["Olivia"],
+        emojiImgs: "🚗👩👱‍♂🛍🍭",
+        musicVideo: "https://www.youtube.com/watch?v=SRcnnId15BA",
+        genres: ["Dirty rap"],
+        year: 2004
+    },{
         title: "Castle on the Hill",
         artist: ["Ed Sheeran"],
         featuredArtist: [],
@@ -103,5 +111,13 @@ const emojiItems = [
         musicVideo: "https://youtu.be/pafY6sZt0FE",
         genres: ["rock", "alternative"],
   year: 2019
-}
+},{
+        title: "Thriller",
+        artist: ["Michael Jackson"],
+        featuredArtist: [],
+        emojiImgs: "🌃🕺🏿🧟‍♂️🧟‍♀️💃🏾",
+        musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
+        genres: ["pop"],
+        year: 1984
+    }
 ]
