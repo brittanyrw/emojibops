@@ -95,6 +95,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=gl1aHhXnN1k",
         genres: ["pop"],
         year: 2019
+    },{
+        title: "Thriller",
+        artist: ["Michael Jackson"],
+        featuredArtist: [],
+        emojiImgs: "🌃🕺🏿🧟‍♂️🧟‍♀️💃🏾",
+        musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
+        genres: ["pop"],
+        year: 1984
     }
 ]
 
