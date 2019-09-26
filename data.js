@@ -95,7 +95,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=gl1aHhXnN1k",
         genres: ["pop"],
         year: 2019
+    },{
+        title: "Touch-Touch Telephone",
+        artist: ["Lemon Demon"],
+        featuredArtist: [],
+        emojiImgs: "☎️👽📻",
+        musicVideo: "https://www.youtube.com/watch?v=OS3GqQY4u54",
+        genres: ["pop"],
+        year: 2016
     }
 ]
-
-
