@@ -46,7 +46,7 @@ const emojiItems = [
   },
   {
     title: "Cry Me A River",
-    artist: ["Justin Timberlate"],
+    artist: ["Justin Timberlake"],
     featuredArtist: [],
     emojiImgs: "😢🏊‍😢",
     musicVideo: "https://www.youtube.com/watch?v=DksSPZTZES0",
