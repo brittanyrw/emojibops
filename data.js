@@ -119,5 +119,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
-    }
+    },{
+        title: "Ridin",
+        artist: ["Chamillionaire"],
+        featuredArtist: ["Krayzie Bone"],
+        emojiImgs: "🚙🌃⛽",
+        musicVideo: "https://www.youtube.com/watch?v=CtwJvgPJ9xw",
+        genres: ["hip hop"],
+        year: 2005
+    },
 ]
