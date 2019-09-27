@@ -110,8 +110,16 @@ const emojiItems = [
         emojiImgs: "🚚🎳🚓",
         musicVideo: "https://youtu.be/pafY6sZt0FE",
         genres: ["rock", "alternative"],
-  year: 2019
-},{
+        year: 2019
+    },{
+        title: "Thunderstruck",
+        artist: ["ACDC"],
+        featuredArtist: [],
+        emojiImgs: "⚡⚡⚡💃🕺💃🤘",
+        musicVideo: "https://www.youtube.com/watch?v=v2AC41dglnM",
+        genres: ["rock", "classic-rock"],
+        year: 1990
+    },{
         title: "Thriller",
         artist: ["Michael Jackson"],
         featuredArtist: [],
