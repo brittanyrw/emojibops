@@ -31,6 +31,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=K0ibBPhiaG0",
         genres: ["pop","singer-songwriter"],
         year: 2017
+	},{
+        title: "Sing",
+        artist: ["Ed Sheeran"],
+        featuredArtist: ["Pharrell Williams"],
+        emojiImgs: "🎸🎤🎼",
+        musicVideo: "https://www.youtube.com/watch?v=tlYcUqEPN58",
+        genres: ["pop","singer-songwriter"],
+        year: 2014
     },{
         title: "Chasing Cars",
         artist: ["Snow Patrol"],
