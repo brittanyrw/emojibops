@@ -52,7 +52,7 @@ const emojiItems = [
         artist: ["DJ Jazzy Jeff", "The Fresh Prince"],
         featuredArtist: [],
         emojiImgs: "👑🛎💨",
-        musicVideo: "http://www.youtube.com/watch?v=eH3giaIzONA",
+        musicVideo: "",
         genres: ["pop", "hip-hop"],
         year: 1990
     },{
