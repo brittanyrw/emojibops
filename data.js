@@ -63,7 +63,17 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=vc6vs-l5dkc",
         genres: ["emo", "pop", "punk"],
         year: 2005
-    },{
+    },
+    {
+        title: "I'll Make a Man Out of You",
+        artist: [" Donny Osmond"],
+        featuredArtist: [],
+        emojiImgs: "9️⃣🕒🌆",
+        musicVideo: "https://www.youtube.com/watch?v=TVcLIfSC4OE",
+        genres: ["Children's"],
+        year: 2016
+    }
+    ,{
         title: "Man's Not Hot",
         artist: ["Big Shaq"],
         featuredArtist: [],
