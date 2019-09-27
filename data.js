@@ -72,6 +72,14 @@ const emojiItems = [
         genres: ["hip-hop", "comedy", "rap"],
         year: 2017
     },{
+        title: "Nine in the Afternoon",
+        artist: ["Panic! at the Disco"],
+        featuredArtist: [],
+        emojiImgs: "9️⃣🕒🌆",
+        musicVideo: "https://www.youtube.com/watch?v=yCto3PCn8wo",
+        genres: ["emo", "pop", "punk"],
+        year: 2008
+    },{
         title: "Old Town Road",
         artist: ["Lil Nas X"],
         featuredArtist: ["Billy Ray Cyrus"],
