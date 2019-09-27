@@ -87,6 +87,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=DtVBCG6ThDk",
         genres: ["soft rock"],
         year: 1972
+	},{
+        title: "Stan",
+        artist: ["Eminem"],
+        featuredArtist: ["Dido"],
+        emojiImgs: "✉️👱🏻🙍🏼👼🏻",
+        musicVideo: "https://www.youtube.com/watch?v=gOMhN-hfMtY",
+        genres: ["hip-hop", "horrorcore"],
+        year: 2000
     },{
         title: "Stone Cold",
         artist: ["Demi Lovato"],
