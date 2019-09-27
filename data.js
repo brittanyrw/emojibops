@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "The Fresh Prince of Bel-Air",
+        artist: ["DJ Jazzy Jeff", "The Fresh Prince"],
+        featuredArtist: [],
+        emojiImgs: "👑🛎💨",
+        musicVideo: "http://www.youtube.com/watch?v=eH3giaIzONA",
+        genres: ["pop", "hip-hop"],
+        year: 1990
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
