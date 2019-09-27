@@ -111,7 +111,7 @@ const emojiItems = [
         musicVideo: "https://youtu.be/pafY6sZt0FE",
         genres: ["rock", "alternative"],
   year: 2019
-},{
+    },{
         title: "Thriller",
         artist: ["Michael Jackson"],
         featuredArtist: [],
@@ -119,5 +119,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },{
+        title: "Sugar, We're Goin Down",
+        artist: ["Fall Out Boy"],
+        featuredArtist: [],
+        emojiImgs: "🏠🦌👨🪁🎸💏",
+        musicVideo: "https://www.youtube.com/watch?v=uhG-vLZrb-g",
+        genres: ["rock"],
+        year: 2004
     }
 ]
