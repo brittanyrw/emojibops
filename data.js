@@ -68,7 +68,7 @@ const emojiItems = [
         title: "I'll Make a Man Out of You",
         artist: ["Donny Osmond"],
         featuredArtist: [],
-        emojiImgs: "👦👉👨",
+        emojiImgs: "✋👦👉👨",
         musicVideo: "https://www.youtube.com/watch?v=TVcLIfSC4OE",
         genres: ["children"],
         year: 2016
