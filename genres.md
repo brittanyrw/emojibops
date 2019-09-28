@@ -3,6 +3,7 @@
 Select genres from the list below. If you would like to add a genre not listed, edit this file with your new genre and include it in your pull request. Add new genres in alphabetical order. 
 
 * alt-rock
+* arrocha
 * art rock
 * alternative
 * axé
@@ -50,6 +51,7 @@ Select genres from the list below. If you would like to add a genre not listed, 
 * rock
 * show-tunes
 * singer-songwriter
+* sofrencia
 * soft rock
 * soul
 * soundtracks
