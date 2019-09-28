@@ -110,8 +110,8 @@ const emojiItems = [
         emojiImgs: "🚚🎳🚓",
         musicVideo: "https://youtu.be/pafY6sZt0FE",
         genres: ["rock", "alternative"],
-  year: 2019
-},{
+        year: 2019
+    },{
         title: "Thriller",
         artist: ["Michael Jackson"],
         featuredArtist: [],
@@ -119,5 +119,21 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },{
+        title: "Milla",
+        artist: ["Netinho"],
+        featuredArtist: [],
+        emojiImgs: "1⃣0⃣0⃣1⃣🌃❤🏾",
+        musicVideo: "https://www.youtube.com/watch?v=zhrqSwXz8Ic",
+        genres: ["axé"],
+        year: 1996
+    },{
+        title: "Porque Homem Não Chora",
+        artist: ["Pablo"],
+        featuredArtist: [],
+        emojiImgs: "🧔🚫😭",
+        musicVideo: "https://www.youtube.com/watch?v=QLoZhUpzNzQ",
+        genres: ["arrocha","sofrencia"],
+        year: 2014
     }
 ]
