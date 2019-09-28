@@ -6,7 +6,7 @@ Select genres from the list below. If you would like to add a genre not listed, 
 * arrocha
 * art rock
 * alternative
-* axé
+* axe
 * blues
 * children
 * classic rock
