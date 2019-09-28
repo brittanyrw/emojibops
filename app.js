@@ -129,7 +129,7 @@ $(document).ready(function () {
 
   }
   
-  // created a function that filter data.js files and returns only  objects that match with selected genre in the dropdown menu
+  // created a function that filter data.js files and returns only  objects that match with selected song genre in the dropdown menu
   const checkForMatch = (text) => {
     if (text == 'All') {
       showMusic(emojiItems);
