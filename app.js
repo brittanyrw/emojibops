@@ -112,6 +112,7 @@ $(document).ready(function () {
     let tempStore3 = [...tempStore2, ...songsGenres];
 
     songsGenres = [...new Set(tempStore3)];
+    songsGenres.sort();
 
     appendGenresToDropDown(songsGenres);
   })(emojiItems);
