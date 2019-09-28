@@ -327,3 +327,40 @@ footer img {
   text-align: center;
 }
 
+.flex {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 1rem 0;
+}
+
+.flex p {
+  color: #fff;
+  font-weight: bold;
+  margin: auto .5rem;
+}
+
+.flex .dropdownBtn button {
+ background: #ff7676 !important;
+}
+
+.dropdown-item {
+  cursor: pointer !important;
+}
+
+.dropdown-item:nth-child(2n) {
+  background-color: #76ffd2;
+}
+
+.dropdown-item:nth-child(3n) {
+  background-color: #76b4ff;
+}
+
+.dropdown-item:nth-child(5n) {
+  background-color: #ff7676;
+}
+
+.dropdown-item:nth-child(6n) {
+  background-color: #ffcd76;
+}
+

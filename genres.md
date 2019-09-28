@@ -8,8 +8,8 @@ Select genres from the list below. If you would like to add a genre not listed, 
 * blues
 * children
 * classic rock
-* comedy
-* country
+* classic rock
+* classic rock
 * dance
 * disco
 * disney
