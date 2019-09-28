@@ -96,6 +96,14 @@ const emojiItems = [
         genres: ["soft rock"],
         year: 1972
     },{
+        title: "Runaway Baby",
+        artist: ["Bruno Mars"],
+        featuredArtist: [],
+        emojiImgs: "💃😍🤪💏🏇",
+        musicVideo: "https://www.youtube.com/watch?v=o95FLUk7o9Q",
+        genres: ["pop"],
+        year: 2010
+    },{
         title: "Stone Cold",
         artist: ["Demi Lovato"],
         featuredArtist: [],
