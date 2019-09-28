@@ -72,6 +72,14 @@ const emojiItems = [
         genres: ["hip-hop", "comedy", "rap"],
         year: 2017
     },{
+        title: "Milla",
+        artist: ["Netinho"],
+        featuredArtist: [],
+        emojiImgs: "1⃣0⃣0⃣1⃣🌃❤🏾",
+        musicVideo: "https://www.youtube.com/watch?v=zhrqSwXz8Ic",
+        genres: ["axé"],
+        year: 1996
+    },{
         title: "Old Town Road",
         artist: ["Lil Nas X"],
         featuredArtist: ["Billy Ray Cyrus"],
@@ -79,6 +87,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
         genres: ["hip-hop", "pop"],
         year: 2019
+    },{
+        title: "Porque Homem Não Chora",
+        artist: ["Pablo"],
+        featuredArtist: [],
+        emojiImgs: "🧔🚫😭",
+        musicVideo: "https://www.youtube.com/watch?v=QLoZhUpzNzQ",
+        genres: ["arrocha","sofrencia"],
+        year: 2014
     },{
         title: "Rocketman",
         artist: ["Elton John"],
@@ -119,21 +135,5 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
-    },{
-        title: "Milla",
-        artist: ["Netinho"],
-        featuredArtist: [],
-        emojiImgs: "1⃣0⃣0⃣1⃣🌃❤🏾",
-        musicVideo: "https://www.youtube.com/watch?v=zhrqSwXz8Ic",
-        genres: ["axé"],
-        year: 1996
-    },{
-        title: "Porque Homem Não Chora",
-        artist: ["Pablo"],
-        featuredArtist: [],
-        emojiImgs: "🧔🚫😭",
-        musicVideo: "https://www.youtube.com/watch?v=QLoZhUpzNzQ",
-        genres: ["arrocha","sofrencia"],
-        year: 2014
     }
 ]
