@@ -64,6 +64,14 @@ const emojiItems = [
         genres: ["emo", "pop", "punk"],
         year: 2005
     },{
+        title: "Locked Out Of Heaven",
+        artist: ["Bruno Mars"],
+        featuredArtist: [],
+        emojiImgs: "💏👅🍌🤩🔥",
+        musicVideo: "https://www.youtube.com/watch?v=e-fA-gBCkj0",
+        genres: ["pop", "pop rock", "reggae rock"],
+        year: 2012
+    },{
         title: "Man's Not Hot",
         artist: ["Big Shaq"],
         featuredArtist: [],
