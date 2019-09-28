@@ -5,6 +5,7 @@ Select genres from the list below. If you would like to add a genre not listed, 
 * alt-rock
 * art rock
 * alternative
+* axé
 * blues
 * children
 * classic rock
