@@ -77,7 +77,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "1⃣0⃣0⃣1⃣🌃❤🏾",
         musicVideo: "https://www.youtube.com/watch?v=zhrqSwXz8Ic",
-        genres: ["axé"],
+        genres: ["axe"],
         year: 1996
     },{
         title: "Old Town Road",
