@@ -127,5 +127,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
-    }
+}, {
+        title: "Bleeding Love",
+        artist: ["Leona Lewis"],
+        featuredArtist: [],
+        emojiImgs: "💉💕👧",
+        musicVideo: "https://www.youtube.com/watch?v=7_weSk0BonM",
+        genres: ["pop", "r&b"],
+        year: 2007
+}
 ]
