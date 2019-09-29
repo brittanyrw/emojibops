@@ -21,7 +21,7 @@ For more advanced ways to contribute, see the repo Issues [under the label 'enha
 ### If you want to work on one of the [Issues to add a song](https://github.com/brittanyrw/emojibops/labels/add%20songs)
 * Please comment in the Issue so that others know to not add that song. You do not have to wait for confirmation for Issues adding songs before creating a Pull Request. Your comment will just help 'bookmark' the Issue for you to prevent duplicate Pull Requests.
 
-## To give many people a chance to contribute to this project, please limit yourself to adding up to 5 songs or completing up to 5 song Issues. Thanks!
+## To give many people a chance to contribute to this project, please limit yourself to adding up to 4 songs or completing up to 4 song Issues. Thanks!
 
 ### If you want to work on one of the Issues that are labeled with `enhancement` 
 * Please comment in the Issue and wait for confirmation before you start working on it.
