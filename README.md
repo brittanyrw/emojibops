@@ -16,12 +16,12 @@
 
 Below are instructions for how to contribute to this project. The easiest way to make a contribution is to add an `Emoji Card` to the website (you can add multiple songs). Each card should be added in the `data.js` file as an object. 
 
-## To give many people a chance to contribute to this project, please limit yourself to adding up to 5 songs or completing up to 5 Issues. Thanks!
-
 For more advanced ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). 
 
 ### If you want to work on one of the [Issues to add a song](https://github.com/brittanyrw/emojibops/labels/add%20songs)
 * Please comment in the Issue so that others know to not add that song. You do not have to wait for confirmation for Issues adding songs before creating a Pull Request. Your comment will just help 'bookmark' the Issue for you to prevent duplicate Pull Requests.
+
+## To give many people a chance to contribute to this project, please limit yourself to adding up to 5 songs or completing up to 5 song Issues. Thanks!
 
 ### If you want to work on one of the Issues that are labeled with `enhancement` 
 * Please comment in the Issue and wait for confirmation before you start working on it.
