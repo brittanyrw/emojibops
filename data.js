@@ -64,6 +64,14 @@ const emojiItems = [
         genres: ["emo", "pop", "punk"],
         year: 2005
     },{
+        title: "If I Were A Boy",
+        artist: ["Beyoncé"],
+        featuredArtist: [],
+        emojiImgs: "♀👩🏿💭🧒🏿♂",
+        musicVideo: "https://www.youtube.com/watch?v=AWpsOqh8q0M",
+        genres: ["pop", "r-n-b"],
+        year: 2008
+    },{
         title: "Man's Not Hot",
         artist: ["Big Shaq"],
         featuredArtist: [],
