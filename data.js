@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "Happy",
+        artist: ["Pharrell Williams"],
+        featuredArtist: [],
+        emojiImgs: "😁👏👏",
+        musicVideo: "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
+        genres: ["pop"],
+        year: 2013
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
