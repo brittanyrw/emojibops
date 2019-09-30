@@ -88,6 +88,14 @@ const emojiItems = [
         genres: ["hip-hop", "pop"],
         year: 2019
     },{
+        title: "Paparazzi",
+        artist: ["Lady Gaga"],
+        featuredArtist: [],
+        emojiImgs: "📷👩‍🦳💋",
+        musicVideo: "https://www.youtube.com/watch?v=d2smz_1L2_0",
+        genres: ["dance", "pop", "techno"],
+        year: 2009
+    },{
         title: "Rocketman",
         artist: ["Elton John"],
         featuredArtist: [],
@@ -127,13 +135,5 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
-    },{
-        title: "Paparazzi",
-        artist: ["Lady Gaga"],
-        featuredArtist: [],
-        emojiImgs: "📷👩‍🦳💋",
-        musicVideo: "https://www.youtube.com/watch?v=d2smz_1L2_0",
-        genres: ["dance", "pop", "techno"],
-        year: 2009
     }
 ]
