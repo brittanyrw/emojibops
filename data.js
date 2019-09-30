@@ -72,6 +72,14 @@ const emojiItems = [
         genres: ["hip-hop", "comedy", "rap"],
         year: 2017
     },{
+        title: "My Heart Will Go On",
+        artist: ["Celine Dion"],
+        featuredArtist: [],
+        emojiImgs: "🚢❄🏔💥🆘💔",
+        musicVideo: "https://www.youtube.com/watch?v=CUmOFqQRkco",
+        genres: ["pop"],
+        year: 1997
+    },{
         title: "Nine in the Afternoon",
         artist: ["Panic! at the Disco"],
         featuredArtist: [],
