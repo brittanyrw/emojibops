@@ -118,8 +118,8 @@ const emojiItems = [
         emojiImgs: "🚚🎳🚓",
         musicVideo: "https://youtu.be/pafY6sZt0FE",
         genres: ["rock", "alternative"],
-  year: 2019
-},{
+        year: 2019
+    },{
         title: "Thriller",
         artist: ["Michael Jackson"],
         featuredArtist: [],
@@ -127,5 +127,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },{
+        title: "I Want to Hold Your Hand",
+        artist: ["The Beatles"],
+        featuredArtist: [],
+        emojiImgs: "🙋‍♂️🤝🏾👩",
+        musicVideo: "https://www.youtube.com/watch?v=jenWdylTtzs",
+        genres: ["pop rock"],
+        year: 1963
     }
 ]
