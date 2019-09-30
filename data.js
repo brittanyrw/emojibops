@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "Highway to Hell",
+        artist: ["AC/DC"],
+        featuredArtist: [],
+        emojiImgs: "🛣️🔥😈🤘",
+        musicVideo: "https://www.youtube.com/watch?v=l482T0yNkeo",
+        genres: ["hard-rock"],
+        year: 1979
+      },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
