@@ -3,7 +3,7 @@ const emojiItems = [
         title: "Airplanes",
         artist: ["B.o.B"],
         featuredArtist: ["Haley Williams"],
-        emojiImgs: "🛩🌠🧞‍♂️",
+        emojiImgs: "🛩🌠🧞‍♂️🌃",
         musicVideo: "https://www.youtube.com/watch?v=kn6-c223DUU",
         genres: ["hip-hop"],
         year: 2010
