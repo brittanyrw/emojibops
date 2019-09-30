@@ -105,15 +105,6 @@ const emojiItems = [
         genres: ["soft rock"],
         year: 1972
     },{
-        title: "Royals",
-        artist: ["Lorde"],
-        featuredArtist: [],
-        emojiImgs: "👸🌟🏰💋♀️",
-        musicVideo: "https://www.youtube.com/watch?v=nlcIKh6sBtc",
-        genres: ["electronic", "pop"],
-        year: 2013
-    }  
-    ,{
         title: "Stone Cold",
         artist: ["Demi Lovato"],
         featuredArtist: [],
