@@ -18,6 +18,25 @@ Below are instructions for how to contribute to this project. The easiest way to
 
 For more advanced ways to contribute, see the repo Issues [under the label 'enhancement'](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement). 
 
+### Contribution Guidlines
+
+Below are some guidelines to follow when contributing to this project. 
+
+#### We are limiting contributions per person to 4 additions per project. 
+* Please limit yourself to adding 4 songs and/or completing 4 Issues. This is due to the high level of activity on this project at the moment. We want to make sure many people have a chance to contribute to this project. The limit will be lifted once the activity has died down. 🙂
+
+#### Check Issues and current Pull Requests before contributing to avoid adding duplicates. 
+* If your Pull Request is a duplicate, we will let you know so that you can update it if you like. 
+ 
+#### If someone has commented inside of the Issue saying they are working on it, that item is reserved for them. 
+* Please choose something else to add if someone else has already said they will add something. We will close Pull Requests and mark them as invalid if you are purposely creating Pull Requests for Issues that someone else has reserved in an attempt to try to race someone in adding something. 
+
+#### Please limit Pull Requests to adding a song, completing an Issue or adding a feature. 
+* We are not accepting Pull Requests for things such as white space updates or README.md updates for Hacktoberfest. These types of Pull Requests will be marked as invalid. 
+
+#### Please do not approve or make suggestions on other people's Pull Requests.
+* We do not need additional maintainers at this time. To avoid confusion and incorrect approvals, only maintainers approve Pull Requests. 
+
 ### If you want to work on one of the [Issues to add a song](https://github.com/brittanyrw/emojibops/labels/add%20songs)
 * Please comment in the Issue so that others know to not add that song. You do not have to wait for confirmation for Issues adding songs before creating a Pull Request. Your comment will just help 'bookmark' the Issue for you to prevent duplicate Pull Requests.
 
