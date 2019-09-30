@@ -23,7 +23,7 @@ For more advanced ways to contribute, see the repo Issues [under the label 'enha
 Below are some guidelines to follow when contributing to this project. 
 
 #### We are limiting contributions per person to 4 additions per project. 
-* Please limit yourself to adding 4 songs and/or completing 4 Issues. This is due to the high level of activity on this project at the moment. We want to make sure many people have a chance to contribute to this project. The limit will be lifted once the activity has died down. 🙂
+* Please limit yourself to up to 4 additions to this project. (Example: Complete 1 feature and add 3 songs, complete 3 Issues for songs and add one feature, add four songs, etc). This is due to the high level of activity on this project at the moment. We want to make sure many people have a chance to contribute to this project. The limit will be lifted once the activity has died down. 🙂
 
 #### Check Issues and current Pull Requests before contributing to avoid adding duplicates. 
 * If your Pull Request is a duplicate, we will let you know so that you can update it if you like. 
