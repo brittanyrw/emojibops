@@ -341,7 +341,7 @@ footer img {
   margin-bottom: 30px;
 }
 
-#pagination-container .pagination a {
+#pagination-container .pagination button {
   border: #292932 2px solid;
   border-right: none;
   background: #fae6e9;
@@ -356,10 +356,14 @@ footer img {
   font-weight: bold;
 }
 
-#pagination-container .pagination a:last-child {
+#pagination-container .pagination button:last-child {
   border-right: #292932 2px solid;
 }
 
-#pagination-container .pagination a.active {
-  background: #ff7676
+#pagination-container .pagination button.active {
+  background: #ff7676;
+}
+
+#pagination-container .pagination button[disabled] {
+  background: #cab6b9;
 }
