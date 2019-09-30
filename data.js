@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "Follow Your Arror",
+        artist: ["Kacey Musgraves"],
+        featuredArtist: [],
+        emojiImgs: "➡️🏹🏜️👢👧",
+        musicVideo: "https://www.youtube.com/watch?v=kQ8xqyoZXCc",
+        genres: ["country"],
+        year: 2013
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
