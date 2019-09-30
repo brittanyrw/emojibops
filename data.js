@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "I Don’t Dance",
+        artist: ["Lee Brice"],
+        featuredArtist: [],
+        emojiImgs: "🚫💃🏽🕺🏽💓",
+        musicVideo: "https://www.youtube.com/watch?v=fBEBbgQEJy4",
+        genres: ["country"],
+        year: 2014
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
