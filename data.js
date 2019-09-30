@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "Dance the Night Away",
+        artist: ["Twice"],
+        featuredArtist: [],
+        emojiImgs: "💃🌃💨💕",
+        musicVideo: "https://www.youtube.com/watch?v=Fm5iP0S1z9w",
+        genres: ["k-pop", "dance"],
+        year: 2018
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
