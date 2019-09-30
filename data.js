@@ -16,6 +16,14 @@ const emojiItems = [
         genres: ["k-pop", "pop"],
         year: 2019
     },{
+        title: "Call Me Maybe",
+        artist: ["Carly Rae Jepsen"],
+        featuredArtist: [],
+        emojiImgs: "📞😉❓",
+        musicVideo: "https://www.youtube.com/watch?v=fWNaR-rxAic",
+        genres: ["pop"],
+        year: 2011
+    },{
         title: "Candy Shop",
         artist: ["50 Cent"],
         featuredArtist: ["Olivia"],
@@ -127,14 +135,5 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
-    },{
-      title: "Call Me Maybe",
-      artist: ["Carly Rae Jepsen"],
-      featuredArtist: [],
-      emojiImgs: "📞😉❓",
-      musicVideo: "https://www.youtube.com/watch?v=fWNaR-rxAic",
-      genres: ["pop"],
-      year: 2011
-  }
-    
+    }
 ]
