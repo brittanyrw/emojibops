@@ -16,6 +16,14 @@ const emojiItems = [
         genres: ["k-pop", "pop"],
         year: 2019
     },{
+        title: "Burnin' Up",
+        artist: ["Jonas Brothers"],
+        featuredArtist: [],
+        emojiImgs: "🔥💥⬆️",
+        musicVideo: "https://www.youtube.com/watch?v=5KNEZJ6KkLI",
+        genres: ["pop", "rock"],
+        year: 2008
+    },{
         title: "Candy Shop",
         artist: ["50 Cent"],
         featuredArtist: ["Olivia"],
