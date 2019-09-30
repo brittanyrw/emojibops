@@ -55,7 +55,17 @@ const emojiItems = [
         musicVideo: "http://www.youtube.com/watch?v=eH3giaIzONA",
         genres: ["pop", "rb"],
         year: 1987
-    },{
+    },
+    {
+        title: "Every Rose Has It's Thorn",
+        artist: ["Poison"],
+        featuredArtist: [],
+        emojiImgs: "🌹🤠💔📻",
+        musicVideo: "https://www.youtube.com/watch?v=j2r2nDhTzO4",
+        genres: ["hard rock", "glam metal"],
+        year: 1988
+    },
+    {
         title: "I Write Sins Not Tragedies",
         artist: ["Panic! at the Disco"],
         featuredArtist: [],
