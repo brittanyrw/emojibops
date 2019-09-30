@@ -1,5 +1,14 @@
 const emojiItems = [
     {
+        title: "Applause",
+        artist: ["Lady Gaga"],
+        featuredArtist: [],
+        emojiImgs: "👏🦋💘",
+        musicVideo: "https://www.youtube.com/watch?v=pco91kroVgQ",
+        genres: ["electronic", "pop"],
+        year: 2013
+    }, 
+    {
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
