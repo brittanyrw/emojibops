@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "Cherry Bomb",
+        artist: ["NCT 127"],
+        featuredArtist: [],
+        emojiImgs: "🍒💣🔥",
+        musicVideo: "https://www.youtube.com/watch?v=WkuHLzMMTZM",
+        genres: ["edm", "electro-pop", "hip-hop"],
+        year: 2017
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
