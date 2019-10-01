@@ -96,6 +96,14 @@ const emojiItems = [
         genres: ["hip-hop", "pop"],
         year: 2019
     },{
+        title: "Party in the USA",
+        artist: ["Miley Cyrus"],
+        featuredArtist: [],
+        emojiImgs: "🎉🎊🇺🇲❤️🤍💙",
+        musicVideo:"https://www.youtube.com/watch?v=M11SvDtPBhA",
+        genres: ["pop"],
+        year: 2009
+        },{
         title: "Rocketman",
         artist: ["Elton John"],
         featuredArtist: [],
