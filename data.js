@@ -127,5 +127,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },{
+        title: "Lion Heart by Girls’ Generation",
+        artist: ["SMTOWN"],
+        featuredArtist: [],
+        emojiImgs: "🌃🕺🏿🧟‍♂️🧟‍♀️💃🏾",
+        musicVideo: "https://www.youtube.com/watch?v=nVCubhQ454c",
+        genres: ["pop"],
+        year: 2015
     }
 ]
