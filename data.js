@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "Firework",
+        artist: ["Katy Perry"],
+        featuredArtist: [],
+        emojiImgs: "🧨🌟🎇🎆🌈",
+        musicVideo: "https://www.youtube.com/watch?v=QGJuMBdaqIw",
+        genres: ["pop"],
+        year: 2010
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
@@ -63,14 +71,6 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=vc6vs-l5dkc",
         genres: ["emo", "pop", "punk"],
         year: 2005
-    },{
-        title: "Lucy in the Sky with Diamonds",
-        artist: ["Beatles"],
-        featuredArtist: [],
-        emojiImgs: "👩🌅👁💎💎",
-        musicVideo: "https://www.youtube.com/watch?v=2RoA0QTZ-bM",
-        genres: ["rock"],
-        year: 1967
     },{
         title: "Man's Not Hot",
         artist: ["Big Shaq"],
