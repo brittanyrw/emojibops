@@ -113,6 +113,14 @@ const emojiItems = [
         genres: ["pop","reggae"],
         year: 1994
     },{
+        title: "Circle of Life",
+        artist: ["Lindiwe Mkhize","Lebo M"],
+        featuredArtist: [],
+        emojiImgs: "🦁🐘🐖🐒💓",
+        musicVideo: "https://www.youtube.com/watch?v=BM-khAJP2cU",
+        genres: ["Soft rock"],
+        year: 1994
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
