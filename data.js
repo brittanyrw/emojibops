@@ -119,7 +119,16 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=DksSPZTZES0",
         genres: ["R&B"],
         year: 2002
-    },{
+    },
+    {
+      title: "Deutschland",
+      artist: ["Rammstein"],
+      featuredArtist: [],
+      emojiImgs: "🔥🇩🇪🎸🔥",
+      musicVideo: "https://www.youtube.com/watch?v=NeQM1c-XCDc",
+      genres: ["metal", "rock"],
+      year: 2019
+    {
         title: "Happy",
         artist: ["Pharrell Williams"],
         featuredArtist: [],
