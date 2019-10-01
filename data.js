@@ -105,6 +105,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2013
     },{
+        title: "Hakuna Matata",
+        artist: ["Jimmy Cliff","Lebo M"],   
+        featuredArtist: [],
+        emojiImgs: "🦁🐖🐒",
+        musicVideo: "https://www.youtube.com/watch?v=yUioIn8rPPM",
+        genres: ["pop","reggae"],
+        year: 1994
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
