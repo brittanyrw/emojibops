@@ -15,9 +15,9 @@ $(document).ready(function () {
     var artist = emojiItems[i].artist.join(', ')
 
     emojiCard +=
-      "<div class='emoji-card'><div class='emoji-card-wrapper'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].year +
+      "<div class='emoji-card hide-card'><div class='emoji-card-wrapper'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].year +
       "</span></p></div><div class='emoji-images'>" + emojiItems[i].emojiImgs +
-      "</div><div class='emoji-card-title hide-card'>";
+      "</div><div class='emoji-card-title'><div class='emoji-card-title-wrapper'>";
 
     if (emojiItems[i].musicVideo) {
       emojiCard += "<div class='emoji-card-link'><a href='" + emojiItems[i].musicVideo + "' title='View" + emojiItems[i].title + " Music Video' target='_blank'><i class='fas fa-play-circle'></i></a></div>";
@@ -32,7 +32,7 @@ $(document).ready(function () {
       emojiCard += "<div class='artist-container'><h4>" + artist + "</h4></div>";
     }
 
-    emojiCard += "</div></div></div></div>";
+    emojiCard += "</div></div></div></div></div>";
   }
 
   // Append the emoji card variable, which has all of the emoji cards to the initial variable we created that was for the container to hold the cards.
@@ -63,10 +63,8 @@ $(document).ready(function () {
   }
 
   // Expand the emoji card when clicked to reveal the song name, artist and music video link.
-  $("#songs").on("click", ".emoji-images", function () {
-    $(this)
-      .siblings(".emoji-card-title")
-      .toggleClass("hide-card");
+  $("#songs").on("click", ".emoji-card-wrapper", function () {
+    $(this).parent().toggleClass("hide-card");
   });
 
   // Display a hint (type ie tv, movie or musical) when hovering over the question mark.
