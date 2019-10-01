@@ -136,6 +136,14 @@ const emojiItems = [
         genres: ["soft rock"],
         year: 1972
     },{
+        title: "Rise up",
+        artist: ["Andra Day"],
+        featuredArtist: [],
+        emojiImgs: "👩🙌🌊",
+        musicVideo: "https://www.youtube.com/watch?v=kNKu1uNBVkU",
+        genres: ["r-n-b", "soul"],
+        year: 2015
+   },{
         title: "Smells Like Teen Spirit",
         artist: ["Nirvana"],
         featuredArtist: [],
