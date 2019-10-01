@@ -127,5 +127,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
-    }
+    },{
+        title: "Chicken Noodle Soup",
+        artist: ["J-Hope"],
+        featuredArtist: ["Becky G"],
+        emojiImgs: "🌧️☀️🐔🍜🐔🍜🥤",
+        musicVideo: "https://youtu.be/i23NEQEFpgQ",
+        genres: ["hip-hop", "k-pop"],
+        year: 2019
+    },
 ]
