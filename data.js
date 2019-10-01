@@ -48,6 +48,15 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "I See Fire",
+        artist: ["Ed Sheeran"],
+        featuredArtist: [],
+        emojiImgs: "👀🔥⛰️🔥🌳",
+        musicVideo: "https://www.youtube.com/watch?v=2fngvQS_PmQ",
+        genres: ["folk"],
+        year: 2013
+    },
+    {
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
