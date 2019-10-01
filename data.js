@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "Circus",
+        artist: ["Britney Spears"],
+        featuredArtist: [],
+        emojiImgs: "🎪🎪🎪",
+        musicVideo: "https://www.youtube.com/watch?v=lVhJ_A8XUgc",
+        genres: ["dance-pop", "electropop"],
+        year: 2008
+    }{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
@@ -63,6 +71,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=vc6vs-l5dkc",
         genres: ["emo", "pop", "punk"],
         year: 2005
+    },{
+        title: "Love Yourself",
+        artist: ["Justin Bieber"],
+        featuredArtist: [],
+        emojiImgs: "💜🧒💜",
+        musicVideo: "https://www.youtube.com/watch?v=oyEuk8j8imI",
+        genres: ["pop", "acoustic pop"],
+        year: 2015
     },{
         title: "Man's Not Hot",
         artist: ["Big Shaq"],
@@ -118,8 +134,8 @@ const emojiItems = [
         emojiImgs: "🚚🎳🚓",
         musicVideo: "https://youtu.be/pafY6sZt0FE",
         genres: ["rock", "alternative"],
-  year: 2019
-},{
+        year: 2019
+    },{
         title: "Thriller",
         artist: ["Michael Jackson"],
         featuredArtist: [],
