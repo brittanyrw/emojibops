@@ -96,6 +96,14 @@ const emojiItems = [
         genres: ["hip-hop", "pop"],
         year: 2019
     },{
+        title: "Raise Your Glass",
+        artist: ["Pink"],
+        featuredArtist: [],
+        emojiImgs: "🎶💃🍸🥂🍻",
+        musicVideo: "https://www.youtube.com/watch?v=XjVNlG5cZyQ",
+        genres: ["pop","pop rock"],
+        year: 2010
+    },{
         title: "Rocketman",
         artist: ["Elton John"],
         featuredArtist: [],
