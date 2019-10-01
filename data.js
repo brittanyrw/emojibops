@@ -53,8 +53,8 @@ const emojiItems = [
 	artist: ["TXT"],
 	featuredArtist: [],
 	emojiImgs: "🇰🇷👑🕺",
-  	musicVideo: "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
-  	genres: ["hip-hop", "country"],
+  	musicVideo: "https://www.youtube.com/watch?v=W3iSnJ663II",
+  	genres: ["k-pop, pop, dance"],
   	year: 2019
     },	
     {
