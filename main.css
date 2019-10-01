@@ -142,6 +142,7 @@ h2 {
   padding: 20px 15px;
   border-bottom: 2px solid #352649;
   height: 180px;
+  width: 180px;
   cursor: pointer;
   display: flex;
   justify-content: center;
@@ -149,7 +150,7 @@ h2 {
   flex-wrap: wrap;
 }
 
-.emoji-images:before {
+.vinyl-icon {
   position: absolute;
   content: '';
   height: 155px;
@@ -183,25 +184,25 @@ h2 {
 
 .emoji-card:nth-child(2n) .emoji-card-title,
 .emoji-card:nth-child(2n) .hint,
-.emoji-card:nth-child(2n) .emoji-images:before{
+.emoji-card:nth-child(2n) .vinyl-icon{
     background-color: #76ffd2;
 }
 
 .emoji-card:nth-child(3n) .emoji-card-title,
 .emoji-card:nth-child(3n) .hint,
-.emoji-card:nth-child(3n) .emoji-images:before{
+.emoji-card:nth-child(3n) .vinyl-icon{
     background-color: #76b4ff;
 }
 
 .emoji-card:nth-child(5n) .emoji-card-title,
 .emoji-card:nth-child(5n) .hint,
-.emoji-card:nth-child(5n) .emoji-images:before{
+.emoji-card:nth-child(5n) .vinyl-icon{
     background-color: #ff7676;
 }
 
 .emoji-card:nth-child(6n) .emoji-card-title,
 .emoji-card:nth-child(6n) .hint,
-.emoji-card:nth-child(6n) .emoji-images:before{
+.emoji-card:nth-child(6n) .vinyl-icon{
     background-color: #ffcd76;
 }
 
@@ -232,7 +233,7 @@ h2 {
   margin: 5px auto 0 auto;
   font-weight: normal;
 }
-
+/*
 .hide-card {
   opacity: 0;
   height: 0;
@@ -240,7 +241,7 @@ h2 {
   transition: visibility 0s, opacity 0.5s linear;
   padding: 0;
 }
-
+*/
 .reveal-card {
   opacity: 1;
   visibility: visible;
@@ -254,7 +255,6 @@ h2 {
   height: 30px;
   width: 30px;
   overflow: visible;
-  z-index: 9999;
 }
 
 i {
@@ -349,4 +349,31 @@ footer img {
   margin-right: 8px;
   font-size: 20px;
   color: #3c3a4a;
+}
+
+/* On hover slide info card by mmacq */
+.emoji-card-wrapper {
+  display: flex;
+}
+
+.emoji-card-title {
+    display: flex;
+    position: absolute;
+    flex-flow: column nowrap;
+    transform: translateY(0);
+    z-index: -1;
+    opacity: 0;
+    transition: visibility 0s, opacity 0.2s linear, transform 0.2s ease-out;
+    padding: 0;
+    min-width: 180px;
+}
+
+.emoji-card-wrapper:hover > .emoji-images{
+  z-index: 6;
+}
+
+.emoji-card-wrapper:hover > .emoji-card-title {
+  transform: translateY(180px);
+  opacity: 1;
+  z-index: 5
 }
