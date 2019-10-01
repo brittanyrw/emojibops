@@ -64,6 +64,15 @@ const emojiItems = [
         genres: ["emo", "pop", "punk"],
         year: 2005
     },{
+        title: "Kiss the Girl",
+        artist: ["Samuel E. Wright"],
+        featuredArtist: [],
+        emojiImgs: "💋❤️👧",
+        musicVideo: "https://www.youtube.com/watch?v=TrRbB-qUJfY",
+        genres: ["pop", "calypso"],
+        year: 1989
+    },
+    {
         title: "Man's Not Hot",
         artist: ["Big Shaq"],
         featuredArtist: [],
