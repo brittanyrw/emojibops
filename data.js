@@ -101,7 +101,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🙅‍♀️🏂👨‍🎤👫🙇‍♀️🤱",
         musicVideo: "https://www.youtube.com/watch?v=TIy3n2b7V9k",
-        genres: ["Pop punk", "Skate punk", "Power pop"],
+        genres: ["pop-punk", "power-pop", "skate-punk"],
         year: 2002
     },{
         title: "Stone Cold",
