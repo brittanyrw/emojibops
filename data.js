@@ -55,8 +55,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=2fngvQS_PmQ",
         genres: ["folk"],
         year: 2013
-    },
-    {
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
