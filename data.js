@@ -160,6 +160,14 @@ const emojiItems = [
         genres: ["dance-pop", "electropop"],
         year: 2008
     },{
+        title: "I Heard It Through The Grapevine",
+        artist: ["Marvin Gaye"],
+        featuredArtist: [],
+        emojiImgs: "👂🏻🍇🌿💔",
+        musicVideo: "https://www.youtube.com/watch?v=kAPj9oP4q_w",
+        genres: ["Soul","R&B"],
+        year: 1968
+    },{
         title: "I See Fire",
         artist: ["Ed Sheeran"],
         featuredArtist: [],
