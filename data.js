@@ -75,7 +75,7 @@ const emojiItems = [
         title: "Piano Man",
         artist: ["Billy Joel"],
         featuredArtist: [],
-        emojiImgs: "🎹🤵🏻",
+        emojiImgs: "🎹🤵🏻🎶",
         musicVideo: "https://www.youtube.com/watch?v=gxEPV4kolz0",
         genres: ["Soft rock"],
         year: 1973
