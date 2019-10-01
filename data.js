@@ -118,8 +118,8 @@ const emojiItems = [
         emojiImgs: "🚚🎳🚓",
         musicVideo: "https://youtu.be/pafY6sZt0FE",
         genres: ["rock", "alternative"],
-  year: 2019
-},{
+        year: 2019
+    },{
         title: "Thriller",
         artist: ["Michael Jackson"],
         featuredArtist: [],
@@ -127,5 +127,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },{
+      title: "Marry You",
+      artist: ["Bruno Mars"],
+      featuredArtist: [],
+      emojiImgs: "💍👨‍⚖️ 👰👁🌃💒",
+      musicVideo: "https://www.youtube.com/watch?v=5t3yWYmj5yk",
+      genres: ["pop"],
+      year: 2011
     }
 ]
