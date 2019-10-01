@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "Cry Me A River",
+        artist: ["Justin Timberlake"],
+        featuredArtist: [],
+        emojiImgs: "😢🏊‍😢",
+        musicVideo: "https://www.youtube.com/watch?v=DksSPZTZES0",
+        genres: ["R&B"],
+        year: 2002
+    },{
         title: "Hotline Bling",
         artist: ["Drake"],
         featuredArtist: [],
@@ -96,6 +104,14 @@ const emojiItems = [
         genres: ["hip-hop", "pop"],
         year: 2019
     },{
+        title: "Party in the USA",
+        artist: ["Miley Cyrus"],
+        featuredArtist: [],
+        emojiImgs: "🎉🎊🇺🇲❤️🤍💙",
+        musicVideo:"https://www.youtube.com/watch?v=M11SvDtPBhA",
+        genres: ["pop"],
+        year: 2009
+        },{
         title: "Rocketman",
         artist: ["Elton John"],
         featuredArtist: [],
@@ -112,6 +128,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2015
     },{
+        title: "Suit & Tie",
+        artist: ["Justin Timberlake"],
+        featuredArtist: ["JAY-Z"],
+        emojiImgs: "🤵👔🕴🏻",
+        musicVideo: "https://www.youtube.com/watch?v=IsUsVbTj2AY",
+        genres: ["pop"],
+        year: 2013
+    },{
         title: "thank u, next",
         artist: ["Ariana Grande"],
         featuredArtist: [],
@@ -126,8 +150,8 @@ const emojiItems = [
         emojiImgs: "🚚🎳🚓",
         musicVideo: "https://youtu.be/pafY6sZt0FE",
         genres: ["rock", "alternative"],
-  year: 2019
-},{
+        year: 2019
+    },{
         title: "Thriller",
         artist: ["Michael Jackson"],
         featuredArtist: [],
@@ -135,5 +159,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },{
+        title: "Sugar, We're Goin Down",
+        artist: ["Fall Out Boy"],
+        featuredArtist: [],
+        emojiImgs: "🏠🦌👨🪁🎸💏",
+        musicVideo: "https://www.youtube.com/watch?v=uhG-vLZrb-g",
+        genres: ["rock"],
+        year: 2004
     }
 ]
