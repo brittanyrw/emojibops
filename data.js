@@ -117,6 +117,15 @@ const emojiItems = [
     year: 2015
   },
   {
+    title: "Teardrops on My Guitar",
+    artist: ["Taylor Swift"],
+    featuredArtist: [],
+    emojiImgs: "🎸💔♀️💃🏾",
+    musicVideo: "https://www.youtube.com/watch?v=xKCek6_dB0M",
+    genres: ["country", "pop"],
+    year: 2007
+  },
+  {
     title: "thank u, next",
     artist: ["Ariana Grande"],
     featuredArtist: [],
@@ -142,14 +151,5 @@ const emojiItems = [
     musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
     genres: ["pop"],
     year: 1984
-  },
-  {
-    title: "Teardrops on My Guitar",
-    artist: ["Taylor Swift"],
-    featuredArtist: [],
-    emojiImgs: "🎸💔♀️💃🏾",
-    musicVideo: "https://www.youtube.com/watch?v=xKCek6_dB0M",
-    genres: ["country", "pop"],
-    year: 2007
   }
 ];
