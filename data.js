@@ -131,7 +131,7 @@ const emojiItems = [
         title: "YES or YES",
         artist: ["TWICE"],
         featuredArtist: [],
-        emojiImgs: "🚗🧙‍♀️🎡🍭🚦🎪♟️🃏🔥",
+        emojiImgs: "🧙‍♀️🎡🍭🎪♟️🃏",
         musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
         genres: ["k-pop"],
         year: 2018
