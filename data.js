@@ -115,7 +115,7 @@ const emojiItems = [
         title: "Thunderstruck",
         artist: ["ACDC"],
         featuredArtist: [],
-        emojiImgs: "⚡⚡⚡💃🕺💃🤘",
+        emojiImgs: "⚡⚡⚡💃🕺💃",
         musicVideo: "https://www.youtube.com/watch?v=v2AC41dglnM",
         genres: ["rock", "classic-rock"],
         year: 1990
