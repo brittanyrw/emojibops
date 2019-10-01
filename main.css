@@ -65,6 +65,7 @@ header img {
   text-transform: uppercase;
   display: block;
   transition: .5s;
+  margin-top: 40px;
 }
 
 .contribute-callout a:hover {
@@ -343,7 +344,9 @@ footer img {
   display: inline-block;
 }
 
-.playlist-links-item i{
+.playlist-links-item i {
   background: none;
   margin-right: 8px;
+  font-size: 20px;
+  color: #3c3a4a;
 }
