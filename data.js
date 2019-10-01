@@ -135,5 +135,13 @@ const emojiItems = [
       musicVideo: "",
       genres: ["pop"],
       year: 2011
+    },{
+      title: "I Say a Little Prayer",
+      artist: ["Dionne Warwick"],
+      featuredArtist: [],
+      emojiImgs: "👗🚎❤️🕘☕️",
+      musicVideo: "https://www.youtube.com/watch?v=kafVkPxjLYg",
+      genres: ["pop", "soul"],
+      year: 1967
     }
 ]
