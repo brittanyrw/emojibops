@@ -64,6 +64,14 @@ const emojiItems = [
         genres: ["emo", "pop", "punk"],
         year: 2005
     },{
+        title: "Lucy in the Sky with Diamonds",
+        artist: ["Beatles"],
+        featuredArtist: [],
+        emojiImgs: "👩🌅👁💎💎",
+        musicVideo: "https://www.youtube.com/watch?v=2RoA0QTZ-bM",
+        genres: ["rock"],
+        year: 1967
+    },{
         title: "Man's Not Hot",
         artist: ["Big Shaq"],
         featuredArtist: [],
@@ -127,13 +135,5 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
-    },{
-        title: "Lucy in the Sky with Diamonds",
-        artist: ["Beatles"],
-        featuredArtist: [],
-        emojiImgs: "👩🌅👁💎💎",
-        musicVideo: "https://www.youtube.com/watch?v=2RoA0QTZ-bM",
-        genres: ["rock"],
-        year: 1967
     }
 ]
