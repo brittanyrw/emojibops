@@ -48,7 +48,7 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
-        title: "Follow Your Arror",
+        title: "Follow Your Arrow",
         artist: ["Kacey Musgraves"],
         featuredArtist: [],
         emojiImgs: "➡️🏹🏜️👢👧",
