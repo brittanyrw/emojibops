@@ -144,6 +144,14 @@ const emojiItems = [
         genres: ["Soft rock"],
         year: 1994
     },{
+        title: "Chicken Noodle Soup",
+        artist: ["J-Hope"],
+        featuredArtist: ["Becky G"],
+        emojiImgs: "🌧️☀️🐔🍜🥤",
+        musicVideo: "https://youtu.be/i23NEQEFpgQ",
+        genres: ["hip-hop", "k-pop"],
+        year: 2019
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
