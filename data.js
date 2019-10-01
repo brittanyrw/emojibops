@@ -168,6 +168,14 @@ const emojiItems = [
         genres: ["folk"],
         year: 2013
     },{
+        title: "The Devil Went Down to Georgia",
+        artist: ["Charlie Daniels Band"],
+        featuredArtist: [],
+        emojiImgs: "😈👇🇬🇪🎸",
+        musicVideo: "https://www.youtube.com/watch?v=wBjPAqmnvGA",
+        genres: ["country"],
+        year: 1979
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
