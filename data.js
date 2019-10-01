@@ -47,7 +47,17 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=RXt_lya0gto",
         genres: ["soundtrack", "pop"],
         year: 2003
-    },{
+    },
+    {
+        title: "Girlfriend",
+        artist: ["Avril Lavigne"],
+        featuredArtist: ["Avril Lavigne"],
+        emojiImgs: "🙋‍♀️👎💑",
+        musicVideo: "https://www.youtube.com/watch?v=Bg59q4puhmg",
+        genres: ["pop"],
+        year: 2007
+    },
+    {
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
@@ -127,5 +137,5 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
-    }
+    },
 ]
