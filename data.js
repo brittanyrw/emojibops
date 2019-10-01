@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "Diamonds",
+        artist: ["Rihanna"],
+        featuredArtist: [],
+        emojiImgs: "👦💖👩💎🌟🌟",
+        musicVideo: "https://www.youtube.com/watch?v=lWA2pjMjpBs",
+        genres: ["pop", "rb"],
+        year: 2012
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
