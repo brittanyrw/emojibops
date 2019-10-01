@@ -64,13 +64,13 @@ const emojiItems = [
         genres: ["emo", "pop", "punk"],
         year: 2005
     },{
-        title: "Lucy in the Sky with Diamonds",
-        artist: ["Beatles"],
+        title: "Ice Ice Baby",
+        artist: ["Vanilla Ice"],
         featuredArtist: [],
-        emojiImgs: "👩🌅👁💎💎",
-        musicVideo: "https://www.youtube.com/watch?v=2RoA0QTZ-bM",
-        genres: ["rock"],
-        year: 1967
+        emojiImgs: "🛑👂❄️👶🥶",
+        musicVideo: "https://www.youtube.com/watch?v=rog8ou-ZepE",
+        genres: ["hip hop"],
+        year: 1989
     },{
         title: "Man's Not Hot",
         artist: ["Big Shaq"],
