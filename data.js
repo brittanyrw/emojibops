@@ -96,6 +96,14 @@ const emojiItems = [
         genres: ["soft rock"],
         year: 1972
     },{
+        title: "Sk8er Boi",
+        artist: ["Avril Lavigne"],
+        featuredArtist: [],
+        emojiImgs: "🙅‍♀️🏂👨‍🎤👫🙇‍♀️🤱",
+        musicVideo: "https://www.youtube.com/watch?v=TIy3n2b7V9k",
+        genres: ["Pop punk", "Skate punk", "Power pop"],
+        year: 2002
+    },{
         title: "Stone Cold",
         artist: ["Demi Lovato"],
         featuredArtist: [],
