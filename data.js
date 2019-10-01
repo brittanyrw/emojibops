@@ -87,7 +87,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=SRcnnId15BA",
         genres: ["Dirty rap"],
         year: 2004
-    }, {
+    },{
         title: "Castle on the Hill",
         artist: ["Ed Sheeran"],
         featuredArtist: [],
@@ -95,7 +95,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=K0ibBPhiaG0",
         genres: ["pop", "singer-songwriter"],
         year: 2017
-    }, {
+    },{
         title: "Chasing Cars",
         artist: ["Snow Patrol"],
         featuredArtist: [""],
@@ -103,7 +103,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=GemKqzILV4w",
         genres: ["alternative", "indie", "rock"],
         year: 2006
-    }, {
+    },{
         title: "Cheetah Sisters",
         artist: ["The Cheetah Girls"],
         featuredArtist: [],
@@ -175,8 +175,7 @@ const emojiItems = [
         musicVideo: "http://www.youtube.com/watch?v=eH3giaIzONA",
         genres: ["pop", "rb"],
         year: 1987
-    },
-    {
+    },{
         title: "Every Rose Has It's Thorn",
         artist: ["Poison"],
         featuredArtist: [],
@@ -184,8 +183,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=j2r2nDhTzO4",
         genres: ["hard rock", "glam metal"],
         year: 1988
-    },
-    {
+    },{
         title: "I Write Sins Not Tragedies",
         artist: ["Panic! at the Disco"],
         featuredArtist: [],
@@ -289,7 +287,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=gl1aHhXnN1k",
         genres: ["pop"],
         year: 2019
-    },{
+    }, {
         title: "Truckin",
         artist: ["Grateful Dead"],
         featuredArtist: [],
@@ -313,5 +311,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=uhG-vLZrb-g",
         genres: ["rock"],
         year: 2004
+    },{
+        title: "YES or YES",
+        artist: ["TWICE"],
+        featuredArtist: [],
+        emojiImgs: "🧙‍♀️🎡🍭🎪♟️🃏",
+        musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
+        genres: ["k-pop"],
+        year: 2018
     }
 ];
