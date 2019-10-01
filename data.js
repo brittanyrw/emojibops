@@ -1,5 +1,14 @@
 const emojiItems = [
     {
+        title: "9 to 5",
+        artist: ["Dolly Parton"],
+        featuredArtist: [],
+        emojiImgs: "9️⃣👉5️⃣",
+        musicVideo: "https://www.youtube.com/watch?v=UbxUSsFXYo4",
+        genres: ["pop"],
+        year: 1980
+    },
+    {
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
