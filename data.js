@@ -1,12 +1,20 @@
 const emojiItems = [
-   {
-      title: 'Bleeding Love',
-      artist: ['Leona Lewis'],
-      featuredArtist: [],
-      emojiImgs: '💉💕👧',
-      musicVideo: 'https://www.youtube.com/watch?v=7_weSk0BonM',
-      genres: ['pop', 'r&b'],
-      year: 2007,
+    {
+        title: "Airplanes",
+        artist: ["B.o.B"],
+        featuredArtist: ["Haley Williams"],
+        emojiImgs: "🛩🌠🧞‍♂️🌃",
+        musicVideo: "https://www.youtube.com/watch?v=kn6-c223DUU",
+        genres: ["hip-hop"],
+        year: 2010
+    },{
+        title: 'Bleeding Love',
+        artist: ['Leona Lewis'],
+        featuredArtist: [],
+        emojiImgs: '💉💕👧',
+        musicVideo: 'https://www.youtube.com/watch?v=7_weSk0BonM',
+        genres: ['pop', 'r&b'],
+        year: 2007,
     },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
