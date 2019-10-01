@@ -88,6 +88,14 @@ const emojiItems = [
         genres: ["hip-hop", "pop"],
         year: 2019
     },{
+        title: "Smells Like Teen Spirit",
+        artist: ["Nirvana"],
+        featuredArtist: [],
+        emojiImgs: "👃👉🌝",
+        musicVideo: "https://www.youtube.com/watch?v=hTWKbfoikeg",
+        genres: ["grunge"],
+        year: 1991
+    },{
         title: "Rocketman",
         artist: ["Elton John"],
         featuredArtist: [],
