@@ -132,7 +132,7 @@ const emojiItems = [
       artist: ["Bruno Mars"],
       featuredArtist: [],
       emojiImgs: "💍👨‍⚖️ 👰👁🌃💒",
-      musicVideo: "https://www.youtube.com/watch?v=5t3yWYmj5yk",
+      musicVideo: "",
       genres: ["pop"],
       year: 2011
     }
