@@ -19,11 +19,11 @@ $(document).ready(function () {
       "</span></p></div><div class='emoji-images'>" + emojiItems[i].emojiImgs +
       "</div><div class='emoji-card-title hide-card'>";
 
-    if (emojiItems[i].musicVideo) {
-      emojiCard += "<div class='emoji-card-link'><a href='" + emojiItems[i].musicVideo + "' title='View" + emojiItems[i].title + " Music Video' target='_blank'><i class='fas fa-play-circle'></i></a></div>";
-    }
-
-    emojiCard += "<div class='title-content'><h3>" + emojiItems[i].title +
+      if(emojiItems[i].musicVideo){
+        emojiCard += "<div class='emoji-card-link'><a href='" + emojiItems[i].musicVideo + "' title='View " + emojiItems[i].title + " Music Video' target='_blank'><i class='fas fa-play-circle'></i></a></div>";
+      }
+      
+      emojiCard += "<div class='title-content'><h3>" + emojiItems[i].title +
       " (" + emojiItems[i].year + ")" + "</h3>";
 
     if (featuredArtist) {

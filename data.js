@@ -177,6 +177,14 @@ const emojiItems = [
         genres: ["soft rock"],
         year: 1972
     },{
+        title: "Ridin",
+        artist: ["Chamillionaire"],
+        featuredArtist: ["Krayzie Bone"],
+        emojiImgs: "🚙🌃⛽",
+        musicVideo: "https://www.youtube.com/watch?v=CtwJvgPJ9xw",
+        genres: ["hip hop"],
+        year: 2005
+    },{
         title: "Smells Like Teen Spirit",
         artist: ["Nirvana"],
         featuredArtist: [],
