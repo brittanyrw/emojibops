@@ -33,6 +33,14 @@ const emojiItems = [
         year: 2016,
     }, 
     {
+        title: "American Pie",
+        artist: ["Don McLean"],
+        featuredArtist: [],
+        emojiImgs: "🇺🇸🥧🎵",
+        musicVideo: "https://www.youtube.com/watch?v=iX_TFkut1PM",
+        genres: ["folk-rock", "classic-rock"],
+        year: 1971
+    },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
