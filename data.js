@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "Cry Me A River",
+        artist: ["Justin Timberlake"],
+        featuredArtist: [],
+        emojiImgs: "😢🏊‍😢",
+        musicVideo: "https://www.youtube.com/watch?v=DksSPZTZES0",
+        genres: ["R&B"],
+        year: 2002
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
@@ -118,8 +126,8 @@ const emojiItems = [
         emojiImgs: "🚚🎳🚓",
         musicVideo: "https://youtu.be/pafY6sZt0FE",
         genres: ["rock", "alternative"],
-  year: 2019
-},{
+        year: 2019
+    },{
         title: "Thriller",
         artist: ["Michael Jackson"],
         featuredArtist: [],
