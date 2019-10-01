@@ -1,5 +1,13 @@
 const emojiItems = [
     {
+        title: "Blood Sweat & Tears",
+        artist: ["BTS"],
+        featuredArtist: [],
+        emojiImgs: "💉💦😭",
+        musicVideo: "https://www.youtube.com/watch?v=hmE9f-TEutc",
+        genres: ["k-pop", "pop"],
+        year: 2016,
+    },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
