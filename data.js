@@ -1,5 +1,30 @@
 const emojiItems = [
     {
+        title: "Airplanes",
+        artist: ["B.o.B"],
+        featuredArtist: ["Haley Williams"],
+        emojiImgs: "🛩🌠🧞‍♂️🌃",
+        musicVideo: "https://www.youtube.com/watch?v=kn6-c223DUU",
+        genres: ["hip-hop"],
+        year: 2010
+    },{
+        title: 'Bleeding Love',
+        artist: ['Leona Lewis'],
+        featuredArtist: [],
+        emojiImgs: '💉💕👧',
+        musicVideo: 'https://www.youtube.com/watch?v=7_weSk0BonM',
+        genres: ['pop', 'r&b'],
+        year: 2007,
+    },{
+        title: "Applause",
+        artist: ["Lady Gaga"],
+        featuredArtist: [],
+        emojiImgs: "👏🦋💘",
+        musicVideo: "https://www.youtube.com/watch?v=pco91kroVgQ",
+        genres: ["electronic", "pop"],
+        year: 2013
+    }, 
+    {
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
@@ -16,6 +41,22 @@ const emojiItems = [
         genres: ["k-pop", "pop"],
         year: 2019
     },{
+        title: "Burnin' Up",
+        artist: ["Jonas Brothers"],
+        featuredArtist: [],
+        emojiImgs: "🔥💥⬆️",
+        musicVideo: "https://www.youtube.com/watch?v=5KNEZJ6KkLI",
+        genres: ["pop", "rock"],
+        year: 2008
+    },{
+        title: "Call Me Maybe",
+        artist: ["Carly Rae Jepsen"],
+        featuredArtist: [],
+        emojiImgs: "📞😉❓",
+        musicVideo: "https://www.youtube.com/watch?v=fWNaR-rxAic",
+        genres: ["pop"],
+        year: 2011
+    },{
         title: "Candy Shop",
         artist: ["50 Cent"],
         featuredArtist: ["Olivia"],
@@ -23,23 +64,23 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=SRcnnId15BA",
         genres: ["Dirty rap"],
         year: 2004
-    },{
+    }, {
         title: "Castle on the Hill",
         artist: ["Ed Sheeran"],
         featuredArtist: [],
         emojiImgs: "🏰🏔️🍺🏡🚙",
         musicVideo: "https://www.youtube.com/watch?v=K0ibBPhiaG0",
-        genres: ["pop","singer-songwriter"],
+        genres: ["pop", "singer-songwriter"],
         year: 2017
-    },{
+    }, {
         title: "Chasing Cars",
         artist: ["Snow Patrol"],
         featuredArtist: [""],
         emojiImgs: "🚗🏃🛌",
         musicVideo: "https://www.youtube.com/watch?v=GemKqzILV4w",
-        genres: ["alternative", "indie" ,"rock"],
+        genres: ["alternative", "indie", "rock"],
         year: 2006
-    },{
+    }, {
         title: "Cheetah Sisters",
         artist: ["The Cheetah Girls"],
         featuredArtist: [],
@@ -47,6 +88,38 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=RXt_lya0gto",
         genres: ["soundtrack", "pop"],
         year: 2003
+    }, {
+        title: "Cry Me A River",
+        artist: ["Justin Timberlake"],
+        featuredArtist: [],
+        emojiImgs: "😢🏊‍😢",
+        musicVideo: "https://www.youtube.com/watch?v=DksSPZTZES0",
+        genres: ["R&B"],
+        year: 2002
+    },{
+        title: "Happy",
+        artist: ["Pharrell Williams"],
+        featuredArtist: [],
+        emojiImgs: "😁👏👏",
+        musicVideo: "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
+        genres: ["pop"],
+        year: 2013
+    },{
+        title: "Hakuna Matata",
+        artist: ["Jimmy Cliff","Lebo M"],   
+        featuredArtist: [],
+        emojiImgs: "🦁🐖🐒",
+        musicVideo: "https://www.youtube.com/watch?v=yUioIn8rPPM",
+        genres: ["pop","reggae"],
+        year: 1994
+    },{
+        title: "Circle of Life",
+        artist: ["Lindiwe Mkhize","Lebo M"],
+        featuredArtist: [],
+        emojiImgs: "🦁🐘🐖🐒💓",
+        musicVideo: "https://www.youtube.com/watch?v=BM-khAJP2cU",
+        genres: ["Soft rock"],
+        year: 1994
     },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
@@ -74,6 +147,14 @@ const emojiItems = [
         genres: ["emo", "pop", "punk"],
         year: 2005
     },{
+        title: "If I Were A Boy",
+        artist: ["Beyoncé"],
+        featuredArtist: [],
+        emojiImgs: "♀👩🏿💭🧒🏿♂",
+        musicVideo: "https://www.youtube.com/watch?v=AWpsOqh8q0M",
+        genres: ["pop", "r-n-b"],
+        year: 2008
+    },{
         title: "Man's Not Hot",
         artist: ["Big Shaq"],
         featuredArtist: [],
@@ -81,7 +162,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=3M_5oYU-IsU",
         genres: ["hip-hop", "comedy", "rap"],
         year: 2017
-    },{
+    }, {
         title: "Nine in the Afternoon",
         artist: ["Panic! at the Disco"],
         featuredArtist: [],
@@ -89,7 +170,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=yCto3PCn8wo",
         genres: ["emo", "pop", "punk"],
         year: 2008
-    },{
+    }, {
         title: "Old Town Road",
         artist: ["Lil Nas X"],
         featuredArtist: ["Billy Ray Cyrus"],
@@ -97,6 +178,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
         genres: ["hip-hop", "pop"],
         year: 2019
+    }, {
+        title: "Party in the USA",
+        artist: ["Miley Cyrus"],
+        featuredArtist: [],
+        emojiImgs: "🎉🎊🇺🇲❤️🤍💙",
+        musicVideo: "https://www.youtube.com/watch?v=M11SvDtPBhA",
+        genres: ["pop"],
+        year: 2009
     },{
         title: "Rocketman",
         artist: ["Elton John"],
@@ -106,6 +195,22 @@ const emojiItems = [
         genres: ["soft rock"],
         year: 1972
     },{
+        title: "Ridin",
+        artist: ["Chamillionaire"],
+        featuredArtist: ["Krayzie Bone"],
+        emojiImgs: "🚙🌃⛽",
+        musicVideo: "https://www.youtube.com/watch?v=CtwJvgPJ9xw",
+        genres: ["hip hop"],
+        year: 2005
+    },{
+        title: "Smells Like Teen Spirit",
+        artist: ["Nirvana"],
+        featuredArtist: [],
+        emojiImgs: "👃👦👻",
+        musicVideo: "https://www.youtube.com/watch?v=hTWKbfoikeg",
+        genres: ["grunge"],
+        year: 1991
+    },{
         title: "Stone Cold",
         artist: ["Demi Lovato"],
         featuredArtist: [],
@@ -113,6 +218,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=WDAd0S92Uko",
         genres: ["pop"],
         year: 2015
+    },{
+        title: "Suit & Tie",
+        artist: ["Justin Timberlake"],
+        featuredArtist: ["JAY-Z"],
+        emojiImgs: "🤵👔🕴🏻",
+        musicVideo: "https://www.youtube.com/watch?v=IsUsVbTj2AY",
+        genres: ["pop"],
+        year: 2013
     },{
         title: "thank u, next",
         artist: ["Ariana Grande"],
@@ -128,8 +241,8 @@ const emojiItems = [
         emojiImgs: "🚚🎳🚓",
         musicVideo: "https://youtu.be/pafY6sZt0FE",
         genres: ["rock", "alternative"],
-  year: 2019
-},{
+        year: 2019
+    },{
         title: "Thriller",
         artist: ["Michael Jackson"],
         featuredArtist: [],
@@ -137,5 +250,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },{
+        title: "Sugar, We're Goin Down",
+        artist: ["Fall Out Boy"],
+        featuredArtist: [],
+        emojiImgs: "🏠🦌👨🪁🎸💏",
+        musicVideo: "https://www.youtube.com/watch?v=uhG-vLZrb-g",
+        genres: ["rock"],
+        year: 2004
     }
 ]
