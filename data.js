@@ -47,7 +47,17 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=RXt_lya0gto",
         genres: ["soundtrack", "pop"],
         year: 2003
-    },{
+    },
+    {
+	title: "Crown",
+	artist: ["TXT"],
+	featuredArtist: [],
+	emojiImgs: "🇰🇷👑🕺",
+  	musicVideo: "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
+  	genres: ["hip-hop", "country"],
+  	year: 2019
+    },	
+    {
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
@@ -127,5 +137,6 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
-    }
+    },
+
 ]
