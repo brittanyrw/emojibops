@@ -64,6 +64,14 @@ const emojiItems = [
         genres: ["R&B"],
         year: 2002
     },{
+        title: "Drunk",
+        artist: ["Ed Sheeran"],
+        featuredArtist: [],
+        emojiImgs: "🥴🍻😼🎉💔🎵",
+        musicVideo: "https://www.youtube.com/watch?v=G2fOum_KWQU",
+        genres: ["pop", "folk"],
+        year: 2011
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
