@@ -127,5 +127,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },{
+        title: "Happy",
+        artist: ["Pharrell Williams"],
+        featuredArtist: [],
+        emojiImgs: "🌃🕺🏿🧟‍♂️🧟‍♀️💃🏾",
+        musicVideo: "https://www.youtube.com/watch?v=ZbZSe6N_BXs",
+        genres: ["pop"],
+        year: 2014
     }
 ]
