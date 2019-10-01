@@ -127,5 +127,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },
+    {
+        title: "Drunk In Love",
+        artist: "Beyonce",
+        featuredArtist: "Jay-Z",
+        emojiImgs: "🥂💃🌊",
+        musicVideo: "https://www.youtube.com/watch?v=p1JPKLa-Ofc",
+        genres: ["R&B", "hip hop", " trap"],
+        year: 2013
     }
 ]
