@@ -1,5 +1,13 @@
 const emojiItems = [
-    {
+   {
+      title: 'Bleeding Love',
+      artist: ['Leona Lewis'],
+      featuredArtist: [],
+      emojiImgs: '💉💕👧',
+      musicVideo: 'https://www.youtube.com/watch?v=7_weSk0BonM',
+      genres: ['pop', 'r&b'],
+      year: 2007,
+    },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
@@ -7,7 +15,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
         genres: ["art-rock", "opera-rock", "classic-rock"],
         year: 1975
-    }, {
+    },{
         title: "Boy With Luv",
         artist: ["BTS"],
         featuredArtist: ["Halsey"],
