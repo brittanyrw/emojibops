@@ -55,7 +55,8 @@ header img {
   text-align: center;
 }
 
-.contribute-callout a {
+.contribute-callout a,
+#expand {
   color: #3c3a4a;
   background-color: white;
   padding: 15px;
@@ -65,6 +66,15 @@ header img {
   text-transform: uppercase;
   display: block;
   transition: .5s;
+}
+
+#expand {
+  border: 0 none;
+  font-size: 16px;
+  position: absolute;
+  right: 20px;
+  bottom: 10px;
+  cursor: pointer;
 }
 
 .contribute-callout a:hover {
@@ -81,6 +91,7 @@ header img {
   margin: 20px 0 0 0;
   border: 1px solid #ff7676;
   padding: 10px 20px;
+  position: relative;
 }
 
 h2 {

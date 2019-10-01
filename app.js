@@ -83,4 +83,9 @@ $(document).ready(function () {
       .removeClass("hint-reveal");
   });
 
+  $("#expand").on("click", function () {
+    const objects = document.querySelectorAll("#songs .emoji-card-title.hide-card");
+    objects.forEach(object => object.classList.remove("hide-card"));
+    this.remove();
+  });
 });
