@@ -127,5 +127,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },{
+        title: "Love Yourself",
+        artist: ["Justin Bieber"],
+        featuredArtist: [],
+        emojiImgs: "💜🧒",
+        musicVideo: "https://www.youtube.com/watch?v=oyEuk8j8imI",
+        genres: ["pop", "acoustic pop"],
+        year: 2015
     }
 ]
