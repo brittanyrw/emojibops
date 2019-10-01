@@ -112,6 +112,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2019
     },{
+        title: "Call Me Maybe",
+        artist: ["Carly Rae Jepsen"],
+        featuredArtist: [],
+        emojiImgs: "📞💁👶",
+        musicVideo: "https://www.youtube.com/watch?v=fWNaR-rxAic",
+        genres: ["pop"],
+        year: 2011
+    },{
         title: "Truckin",
         artist: ["Grateful Dead"],
         featuredArtist: [],
