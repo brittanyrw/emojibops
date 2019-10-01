@@ -87,7 +87,15 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=DksSPZTZES0",
         genres: ["R&B"],
         year: 2002
-    },{
+    }, {
+        title: "Do You Want to Build a Snowman?",
+        artist: ["Kristen Bell", "Agatha Lee Monn", "Katie Lopez"],
+        featuredArtist: [],
+        emojiImgs: "🏗️⛄❓🙍",
+        musicVideo: "https://www.youtube.com/watch?v=V-zXT5bIBM0",
+        genres: ["show-tune"],
+        year: 2013
+    }, {
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
