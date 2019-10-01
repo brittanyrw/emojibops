@@ -104,6 +104,14 @@ const emojiItems = [
         genres: ["hip-hop", "comedy", "rap"],
         year: 2017
     }, {
+        title: "Mercy",
+        artist: ["Shawn Mendes"],
+        featuredArtist: [],
+        emojiImgs: "🙏🏻😭💔🙏",
+        musicVideo: "https://www.youtube.com/watch?v=KkGVmN68ByU",
+        genres: ["pop"],
+        year: 2016
+    }, {
         title: "Nine in the Afternoon",
         artist: ["Panic! at the Disco"],
         featuredArtist: [],
