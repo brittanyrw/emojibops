@@ -16,6 +16,22 @@ const emojiItems = [
         genres: ["electronic", "pop"],
         year: 2013
     },{
+        title: "Angel of Music",
+        artist: ["Andrew Lloyd Webber"],
+        featuredArtist: [],
+        emojiImgs: "👱🏻‍♀️👴🏻⚰️👼🏻🎶🙇🏼‍♀️",
+        musicVideo: "https://www.youtube.com/watch?v=7lG2zPKo9e4",
+        genres: ["movies"],
+        year: 2004
+    },{
+        title: "American Pie",
+        artist: ["Don McLean"],
+        featuredArtist: [],
+        emojiImgs: "🇺🇸🥧🎵",
+        musicVideo: "https://www.youtube.com/watch?v=iX_TFkut1PM",
+        genres: ["folk-rock", "classic-rock"],
+        year: 1971
+    },{
         title: 'Bleeding Love',
         artist: ['Leona Lewis'],
         featuredArtist: [],
@@ -31,15 +47,6 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=hmE9f-TEutc",
         genres: ["k-pop", "pop"],
         year: 2016,
-    }, 
-    {
-        title: "American Pie",
-        artist: ["Don McLean"],
-        featuredArtist: [],
-        emojiImgs: "🇺🇸🥧🎵",
-        musicVideo: "https://www.youtube.com/watch?v=iX_TFkut1PM",
-        genres: ["folk-rock", "classic-rock"],
-        year: 1971
     },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
@@ -275,4 +282,4 @@ const emojiItems = [
         genres: ["rock"],
         year: 2004
     }
-]
+];
