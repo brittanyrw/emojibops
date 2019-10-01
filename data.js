@@ -64,6 +64,14 @@ const emojiItems = [
         genres: ["emo", "pop", "punk"],
         year: 2005
     },{
+        title: "Kill This Love",
+        artist: ["Blackpink"],
+        featuredArtist: [],
+        emojiImgs: "🔪👉🏻💔",
+        musicVideo: "https://www.youtube.com/watch?v=2S24-y0Ij3Y",
+        genres: ["k-pop", "pop"],
+        year: 2019
+    },{
         title: "Man's Not Hot",
         artist: ["Big Shaq"],
         featuredArtist: [],
@@ -127,14 +135,5 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
-    },
-    {
-        title: "Kill This Love",
-        artist: ["Blackpink"],
-        featuredArtist: [],
-        emojiImgs: "🔪👉🏻💔",
-        musicVideo: "https://www.youtube.com/watch?v=2S24-y0Ij3Y",
-        genres: ["k-pop", "pop"],
-        year: 2019
     }
 ]
