@@ -13,25 +13,24 @@ $(document).ready(function () {
 
     var featuredArtist = emojiItems[i].featuredArtist.join(', ');
     var artist = emojiItems[i].artist.join(', ')
-    
+
     emojiCard +=
       "<div class='emoji-card'><div class='emoji-card-wrapper'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].year +
       "</span></p></div><div class='emoji-images'>" + emojiItems[i].emojiImgs +
       "</div><div class='emoji-card-title hide-card'>";
 
       if(emojiItems[i].musicVideo){
-        emojiCard += "<div class='emoji-card-link'><a href='" + emojiItems[i].musicVideo + "' title='View" + emojiItems[i].title + " Music Video' target='_blank'><i class='fas fa-play-circle'></i></a></div>";
+        emojiCard += "<div class='emoji-card-link'><a href='" + emojiItems[i].musicVideo + "' title='View " + emojiItems[i].title + " Music Video' target='_blank'><i class='fas fa-play-circle'></i></a></div>";
       }
       
-      emojiCard += "<div class='title-content'><h3>" + emojiItems[i].title +
-      " (" + emojiItems[i].year + ")" + "</h3>";
+      emojiCard += "<div class='title-content'><h3>" + emojiItems[i].title + " (" + emojiItems[i].year + ")" + "</h3>";
 
-    if(featuredArtist){
+    if (featuredArtist) {
       emojiCard += "<div class='artist-ft-container'><h4>" + artist + " ft. " + featuredArtist + "</h4></div>";
-      } else {
-        emojiCard += "<div class='artist-container'><h4>" + artist + "</h4></div>";
-    }  
-      
+    } else {
+      emojiCard += "<div class='artist-container'><h4>" + artist + "</h4></div>";
+    }
+
     emojiCard += "</div></div></div></div>";
   }
 
@@ -41,11 +40,11 @@ $(document).ready(function () {
   // Run Twemoji to change all emojis to Twitter emojis.
   twemoji.parse(document.body);
 
-  // Add the count of number of shows/movies to the footer.
+  // Add the count of number of songs to the footer.
   $("footer span").append(emojiItems.length);
 
 
-  // Display movies and show in a random order, the random order will refresh on page reload. This function is used above before the cards are rendered on the page.
+  // Display songs and show in a random order, the random order will refresh on page reload. This function is used above before the cards are rendered on the page.
   function shuffle(array) {
     var currentIndex = array.length,
       temporaryValue,
@@ -69,14 +68,14 @@ $(document).ready(function () {
       .toggleClass("hide-card");
   });
 
-  // Display a hint (type ie tv, movie or musical) when hovering over the question mark.
+  // Display a hint when hovering over the question mark.
   $("#songs").on("mouseover", ".hint-container", function () {
     $(this)
       .find(".hint")
       .addClass("hint-reveal");
   });
 
-  // Hide hint (type ie tv, movie or musical) when the user stops hovering over the question mark.
+  // Hide hint when the user stops hovering over the question mark.
   $("#songs").on("mouseleave", ".hint-container", function () {
     $(this)
       .find(".hint")
@@ -84,4 +83,3 @@ $(document).ready(function () {
   });
 
 });
-
