@@ -80,6 +80,14 @@ const emojiItems = [
         genres: ["emo", "pop", "punk"],
         year: 2008
     },{
+        title: "Not Afraid",
+        artist: ["Eminem"],
+        featuredArtist: [],
+        emojiImgs: "🤨🤜🚫😱",
+        musicVideo: "https://www.youtube.com/watch?v=j5-yKhDd64s",
+        genres: ["hip-hop"],
+        year: 2010
+    },{
         title: "Old Town Road",
         artist: ["Lil Nas X"],
         featuredArtist: ["Billy Ray Cyrus"],
