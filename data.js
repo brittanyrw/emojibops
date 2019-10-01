@@ -1,5 +1,13 @@
 const emojiItems = [
     {
+        title: "A Whole New World",
+        artist: ["ZAYN","Zhavia Ward"],
+        featuredArtist: [],
+        emojiImgs: "🆕🌎💫👸🏽❤️",
+        musicVideo: "https://www.youtube.com/watch?v=rg_zwK_sSEY",
+        genres: ["disney","children music"],
+        year: 2019
+    },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
