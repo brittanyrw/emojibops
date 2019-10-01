@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "I Just Can't Wait To Be King",
+        artist: ["Jason Weaver", "Rowan Atkinson", "Laura Williams"],
+        featuredArtist: [],
+        emojiImgs: "🦁🚫⚖️👑",
+        musicVideo: "https://www.youtube.com/watch?v=l8UFnc85-xM",
+        genres: ["disney", "children"],
+        year: 1994
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
