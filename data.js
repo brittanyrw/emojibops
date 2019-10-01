@@ -111,6 +111,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=WDAd0S92Uko",
         genres: ["pop"],
         year: 2015
+    }, , {
+        title: "Suit & Tie",
+        artist: ["Justin Timberlake"],
+        featuredArtist: ["JAY-Z"],
+        emojiImgs: "🤵👔🕴🏻",
+        musicVideo: "https://www.youtube.com/watch?v=IsUsVbTj2AY",
+        genres: ["pop"],
+        year: 2013
     },{
         title: "thank u, next",
         artist: ["Ariana Grande"],
