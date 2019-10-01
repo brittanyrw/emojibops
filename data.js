@@ -1,5 +1,5 @@
 const emojiItems = [
-    {
+  {
         title: "Airplanes",
         artist: ["B.o.B"],
         featuredArtist: ["Haley Williams"],
@@ -7,6 +7,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=kn6-c223DUU",
         genres: ["hip-hop"],
         year: 2010
+    },{
+        title: "Applause",
+        artist: ["Lady Gaga"],
+        featuredArtist: [],
+        emojiImgs: "👏🦋💘",
+        musicVideo: "https://www.youtube.com/watch?v=pco91kroVgQ",
+        genres: ["electronic", "pop"],
+        year: 2013
     },{
         title: 'Bleeding Love',
         artist: ['Leona Lewis'],
@@ -16,13 +24,13 @@ const emojiItems = [
         genres: ['pop', 'r&b'],
         year: 2007,
     },{
-        title: "Applause",
-        artist: ["Lady Gaga"],
+        title: "Blood Sweat & Tears",
+        artist: ["BTS"],
         featuredArtist: [],
-        emojiImgs: "👏🦋💘",
-        musicVideo: "https://www.youtube.com/watch?v=pco91kroVgQ",
-        genres: ["electronic", "pop"],
-        year: 2013
+        emojiImgs: "💉💦😭",
+        musicVideo: "https://www.youtube.com/watch?v=hmE9f-TEutc",
+        genres: ["k-pop", "pop"],
+        year: 2016,
     }, 
     {
         title: "Bohemian Rhapsody",
