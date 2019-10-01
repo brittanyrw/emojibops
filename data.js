@@ -127,5 +127,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },{
+        title: "Winter Bear by V",
+        artist: ["BANGTANTV"],
+        featuredArtist: [],
+        emojiImgs: "🙌🏼💔🙌🏼💔🙌🏼💁🏻‍♀️",
+        musicVideo: "https://www.youtube.com/watch?v=pk7ESz6vtyA",
+        genres: ["kpop"],
+        year: 2019
     }
 ]
