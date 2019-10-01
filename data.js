@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "Fire",
+        artist: ["BTS"],
+        featuredArtist: [],
+        emojiImgs: "🔥😜🚫",
+        musicVideo: "https://www.youtube.com/watch?v=ALj5MKjy2BU",
+        genres: ["k-pop", "pop"],
+        year: 2016
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
@@ -127,14 +135,6 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
-    },{
-        title: "Fire",
-        artist: ["BTS"],
-        featuredArtist: [],
-        emojiImgs: "🔥😜🚫",
-        musicVideo: "https://www.youtube.com/watch?v=ALj5MKjy2BU",
-        genres: ["k-pop", "pop"],
-        year: 2016
-}
+    }
 
 ]
