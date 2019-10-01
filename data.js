@@ -112,6 +112,14 @@ const emojiItems = [
         genres: ["soft rock"],
         year: 1972
     },{
+        title: "Smells Like Teen Spirit",
+        artist: ["Nirvana"],
+        featuredArtist: [],
+        emojiImgs: "👃👦👻",
+        musicVideo: "https://www.youtube.com/watch?v=hTWKbfoikeg",
+        genres: ["grunge"],
+        year: 1991
+    },{
         title: "Stone Cold",
         artist: ["Demi Lovato"],
         featuredArtist: [],
