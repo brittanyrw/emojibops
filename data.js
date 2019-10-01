@@ -112,6 +112,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2019
     },{
+        title: "The Devil Went Down to Georgia",
+        artist: ["Charlie Daniels Band"],
+        featuredArtist: [],
+        emojiImgs: "😈👇🇬🇪🎸",
+        musicVideo: "https://www.youtube.com/watch?v=wBjPAqmnvGA",
+        genres: ["country"],
+        year: 1979
+    },{
         title: "Truckin",
         artist: ["Grateful Dead"],
         featuredArtist: [],
