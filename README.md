@@ -67,13 +67,6 @@ Here are some links to lists of songs in case you're having trouble thinking of 
 
 > Songs added must have lyrics, no instrumental songs please.
 
-#### I have also [added Issues for individual songs](https://github.com/brittanyrw/emojibops/labels/add%20songs) that I think would be fun to add to EmojiBops. The Issues are also categoried into loose genre categories of [Pop](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Apop), [K-pop](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Akpop), [Hip Hop](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3A%22hip+hop%22), [Rock](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3Arock), [Country](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3Acountry), [Musicals](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Amusicals), [Disney](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Adisney) and [R&B](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3AR%26B). 
-
-
-Feel free to add any of the songs listed in Issues. Make sure to comment inside of the Issue if you plan on taking it and add the Issue number in your Pull Request.
-
-Note: The issues to add songs have links to a Wikipedia or other page with song information, but many songs have multiple versions. Feel free to add a different version than the link if you prefer. 
-
 ### Songs
 * [The Biggest Hits of All: The Hot 100's All-Time Top 100 Songs](https://www.billboard.com/articles/news/hot-100-turns-60/8468142/hot-100-all-time-biggest-hits-songs-list)
 * [Billboard Hot 100 (Songs)](https://www.billboard.com/charts/hot-100)
@@ -214,9 +207,7 @@ Follow these instructions to add a card. You can add a card using the Github web
 
 ### This method will use the Github website to contribute to this project. You will not need to download any programs to your computer using these instructions.
  
-1. Check the Issues and Pull Requests to see if the [song](https://github.com/brittanyrw/emojibops/labels/add%20songs) is listed. Issues by Genre: [Pop](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Apop), [K-pop](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Akpop), [Hip Hop](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3A%22hip+hop%22), [Rock](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3Arock), [Country](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3Acountry), [Musicals](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Amusicals), [Disney](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Adisney) and [R&B](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3AR%26B). 
-- If it is not listed as an issue, continue to the next step.
-- If it is listed as an Issue, take note of the Issue number (the number next to the title of the Issue) so that you can add it to your pull request and write a comment in the Issue stating that you will be adding that particular song. If there is already a comment in the Issue from someone saying that they will add that song, choose something else to add. 
+1. Check the Issues and Pull Requests to see if the [song](https://github.com/brittanyrw/emojibops/labels/add%20songs) is listed. If it is not listed as an issue or Pull Request, continue to the next step. If there is an Issue of Pull Request, choose something else to add. 
 2. Fork this repository. This will create a copy of the repository and create a new repository on your account. Note: the `Fork` button is located in the top right area of the repo.
 3. Once the repo is forked, you will be taken to the forked repo. Note: In the top left, the name of the repo should now include your username.
 4. Navigate to the `data.js` file in your forked repo by clicking on the file name.
@@ -259,9 +250,7 @@ Use the following object as a template:
 
 ### Local Development Instructions
 
-1.  Check the Issues and Pull Requests to see if the [song](https://github.com/brittanyrw/emojibops/labels/add%20songs) is listed. Issues by Genre: [Pop](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Apop), [K-pop](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Akpop), [Hip Hop](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3A%22hip+hop%22), [Rock](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3Arock), [Country](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3Acountry), [Musicals](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Amusicals), [Disney](https://github.com/brittanyrw/emojibops/issues?q=is%3Aissue+is%3Aopen+label%3Adisney) and [R&B](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3AR%26B). 
-- If it is not listed as an issue, continue to the next step.
-- If it is listed as an Issue, take note of the Issue number (the number next to the title of the Issue) so that you can add it to your pull request and write a comment in the Issue stating that you will be adding that particular song. If there is already a comment in the Issue from someone saying that they will add that song, choose something else to add. 
+1.  Check the Issues and Pull Requests to see if the [song](https://github.com/brittanyrw/emojibops/labels/add%20songs) is listed. If it is not listed as an issue or Pull Request, continue to the next step. If there is an Issue of Pull Request, choose something else to add. 
 2. Fork this repository. This will create a copy of the repository and create a new repository on your account.
 3. Once the repo is forked, you will be taken to the forked repo.
 4. Download the project to your computer. Click on the `Clone or Download` button. Copy the HTTPS github repo link.
