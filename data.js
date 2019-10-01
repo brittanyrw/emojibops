@@ -127,5 +127,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },{
+        title: "CALL ME BABY",
+        artist: ["EXO"],
+        featuredArtist: [],
+        emojiImgs: "😀❤📞🇰🇷",
+        musicVideo: "https://www.youtube.com/watch?v=yWfsla_Uh80",
+        genres: ["K-pop"],
+        year: 2015
     }
 ]
