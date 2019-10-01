@@ -138,4 +138,13 @@ const emojiItems = [
         genres: ["pop"],
         year: 1984
     },
+    {
+        title: "Umbrella",
+        artist: ["Rihanna"],
+        featuredArtist: ["JAY-Z"],
+        emojiImgs: "☂☂☂",
+        musicVideo: "https://www.youtube.com/watch?v=CvBfHwUxHIk",
+        genres: ["pop"],
+        year: 2008
+    },
 ]
