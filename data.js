@@ -16,6 +16,14 @@ const emojiItems = [
         genres: ["k-pop", "pop"],
         year: 2019
     },{
+        title: "Bye Bye Bye",
+        artist: ["*NSYNC"],
+        featuredArtist: [],
+        emojiImgs: "👋👋👋",
+        musicVideo: "https://www.youtube.com/watch?v=Eo-KmOd3i7s",
+        genres: ["pop"],
+        year: 2000
+    },{
         title: "Candy Shop",
         artist: ["50 Cent"],
         featuredArtist: ["Olivia"],
