@@ -1,4 +1,13 @@
 const emojiItems = [
+	{
+		title: "Don't Wanna Cry",
+        artist: ["Seventeen"],
+        featuredArtist: [],
+        emojiImgs: "😢👧",
+        musicVideo: "https://www.youtube.com/watch?v=zEkg4GBQumc",
+        genres: ["pop", "EDM", "hip-hop", "k-pop"],
+        year: 2017
+	},
     {
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
