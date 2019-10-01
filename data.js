@@ -64,6 +64,14 @@ const emojiItems = [
         genres: ["emo", "pop", "punk"],
         year: 2005
     },{
+		title: "Love Yourself",
+        artist: ["Justin Bieber"],
+        featuredArtist: [],
+        emojiImgs: "🤴🖕👧",
+        musicVideo: "https://www.youtube.com/watch?v=oyEuk8j8imI",
+        genres: ["pop"],
+        year: 2015
+	},{
         title: "Man's Not Hot",
         artist: ["Big Shaq"],
         featuredArtist: [],
