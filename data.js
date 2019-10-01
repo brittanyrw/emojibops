@@ -127,5 +127,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },{
+        title: "take me out to the ball game",
+        artist: ["Jack Norworth", "Albert Von Tilzer"],
+        featuredArtist: [],
+        emojiImgs: "🏟⚾️🥜🗣🔢🚫",
+        musicVideo: "https://www.youtube.com/watch?v=q4-gsdLSSQ0",
+        genres: ["tin pan alley"],
+        year: 1908
     }
 ]
