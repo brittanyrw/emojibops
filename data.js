@@ -131,7 +131,7 @@ const emojiItems = [
         title: "Smooth Criminal",
         artist: ["Michael Jackson"],
         featuredArtist: [],
-        emojiImgs: "🚶🏻‍♂️🌑",
+        emojiImgs: "🚶🏻‍♂️🚶🏻‍♂️🌑",
         musicVideo: "https://www.youtube.com/watch?v=h_D3VFfhvs4",
         genres: ["pop"],
         year: 1987
