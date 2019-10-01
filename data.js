@@ -135,5 +135,29 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
-    }
+    },{
+        title: "Stop Crying Your Heart Out",
+        artist: ["Oasis"],
+        featuredArtist: [],
+        emojiImgs: "✋ 😭 ❤",
+        musicVideo: "https://www.youtube.com/watch?v=dhZUsNJ-LQU",
+        genres: ["pop"],
+        year: 2002
+    },{
+        title: "Lost Stars",
+        artist: ["Adam Levine"],
+        featuredArtist: [],
+        emojiImgs: "💫 ✨ 🌠 🌉 ⬛",
+        musicVideo: "https://www.youtube.com/watch?v=cL4uhaQ58Rk",
+        genres: ["pop"],
+        year: 2014
+    },{
+        title: "New Light",
+        artist: ["John Mayer"],
+        featuredArtist: [],
+        emojiImgs: "🆕 🎆 ❤",
+        musicVideo: "https://www.youtube.com/watch?v=mQ055hHdxbE",
+        genres: ["pop"],
+        year: 2018
+    },
 ]
