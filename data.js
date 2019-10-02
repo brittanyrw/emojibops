@@ -319,5 +319,21 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
         genres: ["k-pop"],
         year: 2018
+    },{
+        title: "Walk Like an Egyptian",
+        artist: ["The Bangles"],
+        featuredArtist: [],
+        emojiImgs: "🚶‍👍👳‍",
+        musicVideo: "https://www.youtube.com/watch?v=Cv6tuzHUuuk",
+        genres: ["pop"],
+        year: 1986
+    },{
+        title: "Everybody Wants To Rule The World",
+        artist: ["Tears For Fears"],
+        featuredArtist: [],
+        emojiImgs: "👩👨🧑👧👦🧒📏🌏",
+        musicVideo: "https://www.youtube.com/watch?v=aGCdLKXNF3w",
+        genres: ["Rock", "New wave", "Synth-pop", "Pop"],
+        year: 1985
     }
 ];
