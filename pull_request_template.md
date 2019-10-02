@@ -11,4 +11,4 @@
 - [ ] ⭐ My genres are all inside of square brackets `[ ]` and each are individually wrapped in quotation marks and have a comma between each one. (such as submitting this `"genres": ["k-pop","pop","dance"]` and not this `"genres":["k-pop, pop, dance"]`).
 - [ ] 📅 I have added a single year under `year`. 
 
-<!-- 👋 If this pull request closes an issue, add the note 'Closes #---' to the bottom of the pull request (replace the --- with the issue number). 
+<!-- 👋 If this pull request closes an issue, add the note 'Closes #---' to the bottom of the pull request (replace the --- with the issue number). -->
