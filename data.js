@@ -248,6 +248,14 @@ const emojiItems = [
         genres: ["soft rock"],
         year: 1972
     },{
+        title: "Stay ft. Mikky Ekko",
+        artist: ["Rihanna"],   
+        featuredArtist: [],
+        emojiImgs: "🦁🐖🐒",
+        musicVideo: "https://www.youtube.com/watch?v=JF8BRvqGCNs",
+        genres: ["pop"],
+        year: 2013
+    },{
         title: "Ridin",
         artist: ["Chamillionaire"],
         featuredArtist: ["Krayzie Bone"],
