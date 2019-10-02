@@ -129,7 +129,7 @@ const emojiItems = [
         year: 2013
     },{
         title: "Hakuna Matata",
-        artist: ["Jimmy Cliff","Lebo M"],   
+        artist: ["Jimmy Cliff","Lebo M"],
         featuredArtist: [],
         emojiImgs: "🦁🐖🐒",
         musicVideo: "https://www.youtube.com/watch?v=yUioIn8rPPM",
@@ -287,7 +287,15 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=gl1aHhXnN1k",
         genres: ["pop"],
         year: 2019
-    }, {
+    },{
+        title: "The Climb",
+        artist: ["Miley Cyrus"],
+        featuredArtist: [],
+        emojiImgs: "⛰️🧗‍♀️🧗‍♂️💪",
+        musicVideo: "https://www.youtube.com/watch?v=NG2zyeVRcbs",
+        genres: ["pop","acoustic pop"],
+        year: 2009
+    },{
         title: "Truckin",
         artist: ["Grateful Dead"],
         featuredArtist: [],
