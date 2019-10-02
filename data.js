@@ -319,5 +319,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
         genres: ["k-pop"],
         year: 2018
+    },{
+        title: "Ghosts'n'Stuff",
+        artist: ["deadmau5"],
+        featuredArtist: ["Rob Swire"],
+        emojiImgs: "🐭👻🎮🌃",
+        musicVideo: "https://www.youtube.com/watch?v=h7ArUgxtlJs",
+        genres: ["electronic"],
+        year: 2008
     }
 ];
