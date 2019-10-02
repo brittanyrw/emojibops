@@ -41,11 +41,11 @@ $(document).ready(function () {
   // Run Twemoji to change all emojis to Twitter emojis.
   twemoji.parse(document.body);
 
-  // Add the count of number of shows/movies to the footer.
+  // Add the count of number of songs to the footer.
   $("footer span").append(emojiItems.length);
 
 
-  // Display movies and show in a random order, the random order will refresh on page reload. This function is used above before the cards are rendered on the page.
+  // Display songs and show in a random order, the random order will refresh on page reload. This function is used above before the cards are rendered on the page.
   function shuffle(array) {
     var currentIndex = array.length,
       temporaryValue,
@@ -67,18 +67,17 @@ $(document).ready(function () {
     $(this).parent().toggleClass("hide-card");
   });
 
-  // Display a hint (type ie tv, movie or musical) when hovering over the question mark.
+  // Display a hint when hovering over the question mark.
   $("#songs").on("mouseover", ".hint-container", function () {
     $(this)
       .find(".hint")
       .addClass("hint-reveal");
   });
 
-  // Hide hint (type ie tv, movie or musical) when the user stops hovering over the question mark.
+  // Hide hint when the user stops hovering over the question mark.
   $("#songs").on("mouseleave", ".hint-container", function () {
     $(this)
       .find(".hint")
       .removeClass("hint-reveal");
   });
-
 });
