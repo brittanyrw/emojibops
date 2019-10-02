@@ -272,6 +272,14 @@ const emojiItems = [
         genres: ["grunge"],
         year: 1991
     },{
+        title: "Spanish Guitar",
+        artist: ["Tony Braxton"],
+        featuredArtist: [],
+        emojiImgs: "💑🎸🇪🇸",
+        musicVideo: "https://www.youtube.com/watch?v=bvd3qCnsAaY",
+        genres: ["R&B", "‎soul‎", "pop"],
+        year: 2000
+    },{
         title: "Stone Cold",
         artist: ["Demi Lovato"],
         featuredArtist: [],
