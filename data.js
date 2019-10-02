@@ -319,5 +319,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
         genres: ["k-pop"],
         year: 2018
+    },{
+        title: "Smells Like Teen Spirit",
+        artist: ["Nirvana"],
+        featuredArtist: [],
+        emojiImgs: "👃👍👱👻",
+        musicVideo: "https://www.youtube.com/watch?v=hTWKbfoikeg",
+        genres: ["grunge"],
+        year: 1991
     }
 ];
