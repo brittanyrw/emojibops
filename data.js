@@ -159,7 +159,15 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=lVhJ_A8XUgc",
         genres: ["dance-pop", "electropop"],
         year: 2008
-    },{
+    }, {
+        title: "Dancing Queen",
+        artist: ["ABBA"],
+        featuredArtist: [],
+        emojiImgs: "💃👸👑💖✨",
+        musicVideo: "https://www.youtube.com/watch?v=xFrGuyw1V8s",
+        genres: ["pop"],
+        year: 1976
+    }, {
         title: "I See Fire",
         artist: ["Ed Sheeran"],
         featuredArtist: [],
