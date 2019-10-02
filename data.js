@@ -319,5 +319,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
         genres: ["k-pop"],
         year: 2018
+    },
+    {
+        title: "Porque homem não chora - Crying Parrot version",
+        artist: ["Pablo"],
+        featuredArtist: ["Crying Parrot"],
+        emojiImgs: "🦌💔🚙🔥",
+        musicVideo: "https://www.youtube.com/watch?v=JhVgDy-Qzn8",
+        genres: ["comedy", "horn-music"],
+        year: 2014
     }
 ];
