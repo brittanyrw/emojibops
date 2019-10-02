@@ -319,5 +319,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
         genres: ["k-pop"],
         year: 2018
+    },{
+        title: "How Could An Angel Break My Heart",
+        artist: ["Tony Braxton"],
+        featuredArtist: [],
+        emojiImgs: "👼💔😭",
+        musicVideo: "https://www.youtube.com/watch?v=qsDJRTzN9FY",
+        genres: ["R&B", "‎soul‎", "pop"],
+        year: 1997
     }
 ];
