@@ -120,6 +120,15 @@ const emojiItems = [
         genres: ["R&B"],
         year: 2002
     },{
+        title: "Everybody Wants To Rule The World",
+        artist: ["Tears For Fears"],
+        featuredArtist: [],
+        emojiImgs: "👩👨🧑👧👦🧒📏🌏",
+        musicVideo: "https://www.youtube.com/watch?v=aGCdLKXNF3w",
+        genres: ["Rock", "New wave", "Synth-pop", "Pop"],
+        year: 1985
+    },
+    {
         title: "Happy",
         artist: ["Pharrell Williams"],
         featuredArtist: [],
@@ -207,6 +216,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=AWpsOqh8q0M",
         genres: ["pop", "r-n-b"],
         year: 2008
+    },{
+        title: "Walk Like an Egyptian",
+        artist: ["The Bangles"],
+        featuredArtist: [],
+        emojiImgs: "🚶‍👍👳‍",
+        musicVideo: "https://www.youtube.com/watch?v=Cv6tuzHUuuk",
+        genres: ["pop"],
+        year: 1986
     },{
         title: "Man's Not Hot",
         artist: ["Big Shaq"],
@@ -319,21 +336,5 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
         genres: ["k-pop"],
         year: 2018
-    },{
-        title: "Walk Like an Egyptian",
-        artist: ["The Bangles"],
-        featuredArtist: [],
-        emojiImgs: "🚶‍👍👳‍",
-        musicVideo: "https://www.youtube.com/watch?v=Cv6tuzHUuuk",
-        genres: ["pop"],
-        year: 1986
-    },{
-        title: "Everybody Wants To Rule The World",
-        artist: ["Tears For Fears"],
-        featuredArtist: [],
-        emojiImgs: "👩👨🧑👧👦🧒📏🌏",
-        musicVideo: "https://www.youtube.com/watch?v=aGCdLKXNF3w",
-        genres: ["Rock", "New wave", "Synth-pop", "Pop"],
-        year: 1985
     }
 ];
