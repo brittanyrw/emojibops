@@ -215,6 +215,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=3M_5oYU-IsU",
         genres: ["hip-hop", "comedy", "rap"],
         year: 2017
+    },{
+        title: "My First Kiss",
+        artist: ["3OH!3"],
+        featuredArtist: ["Kesha"],
+        emojiImgs: "☝️💋👩‍❤️‍💋👨",
+        musicVideo: "https://www.youtube.com/watch?v=N1MMoZ-DLlY",
+        genres: ["pop"],
+        year: 2010
     }, {
         title: "Nine in the Afternoon",
         artist: ["Panic! at the Disco"],
