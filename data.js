@@ -97,6 +97,13 @@ const emojiItems = [
         genres: ["R&B"],
         year: 2002
     },{
+        title: "Flamingo",
+        artist: ["Kero Kero Bonito"],
+        emojiImgs: "🦐🦩🌈💗",
+        musicVideo: "https://www.youtube.com/watch?v=rY-FJvRqK0E",
+        genres: ["pop"],
+        year: 2014
+    },{
         title: "Happy",
         artist: ["Pharrell Williams"],
         featuredArtist: [],
