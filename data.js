@@ -123,7 +123,7 @@ const emojiItems = [
         title: "Everybody Wants To Rule The World",
         artist: ["Tears For Fears"],
         featuredArtist: [],
-        emojiImgs: "👩👨🧑👧👦🧒📏🌏",
+        emojiImgs: "👩👨🧑👧📏🌏",
         musicVideo: "https://www.youtube.com/watch?v=aGCdLKXNF3w",
         genres: ["Rock", "New wave", "Synth-pop", "Pop"],
         year: 1985
