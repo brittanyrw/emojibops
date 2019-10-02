@@ -31,7 +31,15 @@
         <![endif]-->
     <main>
         <header>
-            <h1>EmojiBops</h1>
+            <h1 class="home-link">EmojiBops</h1>
+            <div class="game-links">
+                    <a href="javascript:void(0)" class="game-links-item play-time-game-link">
+                        Play Game
+                    </a>
+                    <a href="javascript:void(0)" class="game-links-item home-link" style="display: none;">
+                        Go Home
+                    </a>
+                </div>
             <div class="heading-content">
                 <div class="header">
                     <h2>A listing of songs depicted through emojis. 💖</h2>
@@ -54,6 +62,11 @@
             </div>
         </header>
         <section id="songs"></section>
+        <section id="timedGame" style="display: none;">
+            <span class="game-timer"></span>
+            <span>Answer: <input class="timed-game-answer" value="" /></span>
+            <div class="game-container"></div>
+        </section>
         <footer>
             <p>EmojiBops currently has <span></span> songs. 💖</p>
         </footer>

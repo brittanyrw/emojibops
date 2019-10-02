@@ -328,12 +328,12 @@ footer img {
   text-align: center;
 }
 
-.playlist-links {
+.playlist-links, .game-links {
   display: block;
   margin-top: 8px;
 }
 
-.playlist-links-item {
+.playlist-links-item, .game-links-item {
   border: 3px solid #352649;
   padding: 8px;
   margin-right: 8px;
@@ -349,4 +349,57 @@ footer img {
   margin-right: 8px;
   font-size: 20px;
   color: #3c3a4a;
+}
+
+.game-links-item {
+  color: #fff;
+  border-color: #fff;
+}
+
+.hidden {
+  display: none;
+}
+
+#timedGame {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 15px;
+}
+
+#timedGame .game-container .emoji-card-wrapper {
+    width: 270px;
+}
+
+#timedGame .game-container .emoji-images {
+  height: 270px;
+  font-size: 36px;
+}
+
+#timedGame .game-container .emoji-images:before {
+  height: 255px;
+  width: 255px;
+}
+
+#timedGame .timed-game-answer {
+  padding: 10px;
+  margin: 10px;
+  border: #c976ff 0px solid;
+  border-radius: 0px;
+  font-size: 1em;
+  transition: border-width .2s ease-out;
+}
+
+#timedGame .timed-game-answer:focus {
+  outline: none;
+  border-width: 2px;
+}
+#timedGame span {
+  color: #fff;
+  font-size: 18px;
+}
+
+#timedGame .game-final-score {
+  font-size: 36px;
+  color: #fff;
 }
