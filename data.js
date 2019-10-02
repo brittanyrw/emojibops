@@ -120,22 +120,6 @@ const emojiItems = [
         genres: ["R&B"],
         year: 2002
     },{
-        title: "Happy",
-        artist: ["Pharrell Williams"],
-        featuredArtist: [],
-        emojiImgs: "😁👏👏",
-        musicVideo: "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
-        genres: ["pop"],
-        year: 2013
-    },{
-        title: "Hakuna Matata",
-        artist: ["Jimmy Cliff","Lebo M"],   
-        featuredArtist: [],
-        emojiImgs: "🦁🐖🐒",
-        musicVideo: "https://www.youtube.com/watch?v=yUioIn8rPPM",
-        genres: ["pop","reggae"],
-        year: 1994
-    },{
         title: "Circle of Life",
         artist: ["Lindiwe Mkhize","Lebo M"],
         featuredArtist: [],
@@ -160,6 +144,38 @@ const emojiItems = [
         genres: ["dance-pop", "electropop"],
         year: 2008
     },{
+        title: "Every Rose Has It's Thorn",
+        artist: ["Poison"],
+        featuredArtist: [],
+        emojiImgs: "🌹🤠💔📻",
+        musicVideo: "https://www.youtube.com/watch?v=j2r2nDhTzO4",
+        genres: ["hard rock", "glam metal"],
+        year: 1988
+    },{
+        title: "Formation",
+        artist: "Beyoncé",
+        featuredArtist: [],
+        emojiImgs: "👯🏿 👯🏾 👯🏽 ✊🏿",
+        musicVideo: "https://www.youtube.com/watch?v=WDZJPJV__bQ",
+        genres: ["trap", "bounce"],
+        year: 2016
+    },{
+        title: "Happy",
+        artist: ["Pharrell Williams"],
+        featuredArtist: [],
+        emojiImgs: "😁👏👏",
+        musicVideo: "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
+        genres: ["pop"],
+        year: 2013
+    },{
+        title: "Hakuna Matata",
+        artist: ["Jimmy Cliff","Lebo M"],   
+        featuredArtist: [],
+        emojiImgs: "🦁🐖🐒",
+        musicVideo: "https://www.youtube.com/watch?v=yUioIn8rPPM",
+        genres: ["pop","reggae"],
+        year: 1994
+    },{
         title: "I See Fire",
         artist: ["Ed Sheeran"],
         featuredArtist: [],
@@ -175,14 +191,6 @@ const emojiItems = [
         musicVideo: "http://www.youtube.com/watch?v=eH3giaIzONA",
         genres: ["pop", "rb"],
         year: 1987
-    },{
-        title: "Every Rose Has It's Thorn",
-        artist: ["Poison"],
-        featuredArtist: [],
-        emojiImgs: "🌹🤠💔📻",
-        musicVideo: "https://www.youtube.com/watch?v=j2r2nDhTzO4",
-        genres: ["hard rock", "glam metal"],
-        year: 1988
     },{
         title: "I Write Sins Not Tragedies",
         artist: ["Panic! at the Disco"],

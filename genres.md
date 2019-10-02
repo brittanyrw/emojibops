@@ -6,6 +6,7 @@ Select genres from the list below. If you would like to add a genre not listed, 
 * art rock
 * alternative
 * blues
+* bounce
 * children
 * classic rock
 * comedy
@@ -54,6 +55,7 @@ Select genres from the list below. If you would like to add a genre not listed, 
 * soundtracks
 * summer
 * techno
+* trap
 * world-music
 
 Note: These genres are from Spotify's genre list.
