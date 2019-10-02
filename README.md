@@ -37,6 +37,9 @@ Below are some guidelines to follow when contributing to this project.
 #### Please do not approve or make suggestions on other people's Pull Requests.
 * We do not need additional maintainers at this time. To avoid confusion and incorrect approvals, only maintainers approve Pull Requests. 
 
+#### Please do not create Pull Requests for new features without creating an Issue first.
+* Do not start work on a new feature without getting confirmation from the maintainers via an Issue. We need to approve all new features first. This also goes for Issues that are for features, please wait for confirmation from the maintainers before working on those types of Issues.
+
 ### If you want to work on one of the [Issues to add a song](https://github.com/brittanyrw/emojibops/labels/add%20songs)
 * Please comment in the Issue so that others know to not add that song. You do not have to wait for confirmation for Issues adding songs before creating a Pull Request. Your comment will just help 'bookmark' the Issue for you to prevent duplicate Pull Requests.
 
