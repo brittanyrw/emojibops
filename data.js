@@ -752,6 +752,14 @@ const emojiItems = [
         genres: ["hip hop"],
         year: 2018
     },{
+        title: "Smooth Criminal",
+        artist: ["Michael Jackson"],
+        featuredArtist: [],
+        emojiImgs: "🚶🏻‍♂️🚶🏻‍♂️🌑",
+        musicVideo: "https://www.youtube.com/watch?v=h_D3VFfhvs4",
+        genres: ["pop"],
+        year: 1987
+    },{
         title: "Stone Cold",
         artist: ["Demi Lovato"],
         featuredArtist: [],
