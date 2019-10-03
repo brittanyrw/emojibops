@@ -800,6 +800,14 @@ const emojiItems = [
         genres: ["tin pan alley"],
         year: 1908
     },{
+        title: "Teardrops on My Guitar",
+        artist: ["Taylor Swift"],
+        featuredArtist: [],
+        emojiImgs: "🎸💔♀️💃🏾",
+        musicVideo: "https://www.youtube.com/watch?v=xKCek6_dB0M",
+        genres: ["country", "pop"],
+        year: 2007
+    },{
         title: "thank u, next",
         artist: ["Ariana Grande"],
         featuredArtist: [],
