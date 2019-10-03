@@ -400,6 +400,14 @@ const emojiItems = [
         genres: ["hip hop"],
         year: 2005
     },{
+        title: "Sk8er Boi",
+        artist: ["Avril Lavigne"],
+        featuredArtist: [],
+        emojiImgs: "🙅‍♀️🏂👨‍🎤👫🙇‍♀️🤱",
+        musicVideo: "https://www.youtube.com/watch?v=TIy3n2b7V9k",
+        genres: ["pop-punk", "power-pop", "skate-punk"],
+        year: 2002
+    },{
         title: "Smells Like Teen Spirit",
         artist: ["Nirvana"],
         featuredArtist: [],
