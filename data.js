@@ -272,6 +272,14 @@ const emojiItems = [
         genres: ["hip-hop"],
         year: 2009
     },{
+        title: "Everybody Wants To Rule The World",
+        artist: ["Tears For Fears"],
+        featuredArtist: [],
+        emojiImgs: "👩👨🧑👧📏🌏",
+        musicVideo: "https://www.youtube.com/watch?v=aGCdLKXNF3w",
+        genres: ["Rock", "New wave", "Synth-pop", "Pop"],
+        year: 1985
+    },{
         title: "Every Rose Has It's Thorn",
         artist: ["Poison"],
         featuredArtist: [],
@@ -722,6 +730,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=GC_mV1IpjWA",
         genres: ["pop", "disney", "reggae", "show-tunes"],
         year: 1989
+    },{
+        title: "Walk Like an Egyptian",
+        artist: ["The Bangles"],
+        featuredArtist: [],
+        emojiImgs: "🚶‍👍👳‍",
+        musicVideo: "https://www.youtube.com/watch?v=Cv6tuzHUuuk",
+        genres: ["pop"],
+        year: 1986
     },{
         title: "YES or YES",
         artist: ["TWICE"],
