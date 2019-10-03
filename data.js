@@ -288,6 +288,14 @@ const emojiItems = [
         genres: ["rock", "classic-rock"],
         year: 1984
     },{
+        title: "Drunk In Love",
+        artist: "Beyonce",
+        featuredArtist: "Jay-Z",
+        emojiImgs: "🥂💃🌊",
+        musicVideo: "https://www.youtube.com/watch?v=p1JPKLa-Ofc",
+        genres: ["R&B", "hip hop", " trap"],
+        year: 2013
+    },{
         title: "Follow Your Arrow",
         artist: ["Kacey Musgraves"],
         featuredArtist: [],
