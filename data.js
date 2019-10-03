@@ -176,6 +176,14 @@ const emojiItems = [
         genres: ["pop","reggae"],
         year: 1994
     },{
+        title: "Fire",
+        artist: ["BTS"],
+        featuredArtist: [],
+        emojiImgs: "🔥😜🚫",
+        musicVideo: "https://www.youtube.com/watch?v=ALj5MKjy2BU",
+        genres: ["k-pop", "pop"],
+        year: 2016
+    },{
         title: "Hello",
         artist: ["Adele"],
         featuredArtist: [],
