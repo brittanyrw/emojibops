@@ -563,6 +563,14 @@ const emojiItems = [
         genres: ["dance", "pop", "techno"],
         year: 2009
     },{
+        title: "Raise Your Glass",
+        artist: ["Pink"],
+        featuredArtist: [],
+        emojiImgs: "🎶💃🍸🥂🍻",
+        musicVideo: "https://www.youtube.com/watch?v=XjVNlG5cZyQ",
+        genres: ["pop","pop rock"],
+        year: 2010
+    },{
         title: "Rocketman",
         artist: ["Elton John"],
         featuredArtist: [],
