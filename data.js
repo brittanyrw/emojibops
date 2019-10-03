@@ -296,6 +296,14 @@ const emojiItems = [
         genres: ["grunge"],
         year: 1991
     },{
+        title: "Sicko Mode",
+        artist: ["Travis Scott"],
+        featuredArtist: ["Drake"],
+        emojiImgs: "🎪🎢👨‍👩‍👧💸🌴",
+        musicVideo: "https://www.youtube.com/watch?v=6ONRf7h3Mdk",
+        genres: ["hip hop"],
+        year: 2018
+    },{
         title: "Stone Cold",
         artist: ["Demi Lovato"],
         featuredArtist: [],
