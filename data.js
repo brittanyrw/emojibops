@@ -544,6 +544,14 @@ const emojiItems = [
         genres: ["hip hop"],
         year: 2005
     },{
+        title: "Paparazzi",
+        artist: ["Lady Gaga"],
+        featuredArtist: [],
+        emojiImgs: "📷👩‍🦳💋",
+        musicVideo: "https://www.youtube.com/watch?v=d2smz_1L2_0",
+        genres: ["dance", "pop", "techno"],
+        year: 2009
+    },{
         title: "Rocketman",
         artist: ["Elton John"],
         featuredArtist: [],
