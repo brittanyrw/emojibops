@@ -319,5 +319,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
         genres: ["k-pop"],
         year: 2018
+    },{
+       title: "TiK ToK",
+        artist: ["Kesha"],
+        featuredArtist: [],
+        emojiImgs: "⏰👱‍♀🕒",
+        musicVideo: "https://www.youtube.com/watch?v=iP6XpLQM2Cs",
+        genres: ["dance-pop"],
+        year: 2009
     }
 ];
