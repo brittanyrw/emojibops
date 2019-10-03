@@ -24,11 +24,11 @@ Use the following object as a template:
 
 6. Once you have completed updating the object for your song, scroll to the bottom of the page and add a commit message. The commit message should be formatted like: `Added Wannabe by the Spice Girls` or `Added thank u next by Ariana`. Click the `Commit Changes` button to save your changes.
 
-![Screenshot of creating a commit message on the Github website](readme/emojibop-commit.png)
+![Screenshot of creating a commit message on the Github website](../readme/emojibop-commit.png)
 
 7. Navigate to the `Pull Request` tab. Click on New `Pull Request`.
 
-![Screenshot of a Pull Request on the Github website](readme/emojibop-pullrequest.png)
+![Screenshot of a Pull Request on the Github website](../readme/emojibop-pullrequest.png)
 
 8. Review your changes and then click `Create Pull Request`. Add any additional comments, go through the checklist within the Pull Request and add an Issue number if applicable, then click on `Create Pull Request`.
 9. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojibops.com](https://emojibops.com) and you will officially have contributed to the project! 🎉
