@@ -544,6 +544,14 @@ const emojiItems = [
         genres: ["hip-hop", "comedy", "rap"],
         year: 2017
     },{
+        title: "Mercy",
+        artist: ["Shawn Mendes"],
+        featuredArtist: [],
+        emojiImgs: "🙏🏻😭💔🙏",
+        musicVideo: "https://www.youtube.com/watch?v=KkGVmN68ByU",
+        genres: ["pop"],
+        year: 2016
+    },{
         title: "My First Kiss",
         artist: ["3OH!3"],
         featuredArtist: ["Kesha"],
@@ -559,8 +567,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=CUmOFqQRkco",
         genres: ["pop"],
         year: 1997
-    }, {
-
+    },{
         title: "Nine in the Afternoon",
         artist: ["Panic! at the Disco"],
         featuredArtist: [],
