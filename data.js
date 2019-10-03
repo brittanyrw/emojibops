@@ -440,6 +440,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2015
     },{
+        title: "Sweet Lullaby",
+        artist: ["Deep Forest"],
+        featuredArtist: [],
+        emojiImgs: "🌏🇸🇧👶🍩🎶",
+        musicVideo: "https://www.youtube.com/watch?v=lIF5EEneWEU",
+        genres: ["electronic", "ethnic", "world-music"],
+        year: 1992
+    },{
         title: "Suit & Tie",
         artist: ["Justin Timberlake"],
         featuredArtist: ["JAY-Z"],
