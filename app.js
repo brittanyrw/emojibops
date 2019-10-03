@@ -15,8 +15,8 @@ $(document).ready(function () {
     var artist = emojiItems[i].artist.join(', ')
 
     emojiCard +=
-      "<div class='emoji-card'><div class='emoji-card-wrapper'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].year +
-      "</span></p></div><div class='emoji-images'>" + emojiItems[i].emojiImgs +
+      "<div class='emoji-card'><div class='emoji-card-wrapper'><div tabindex='0' class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].year +
+      "</span></p></div><div tabindex='0' class='emoji-images'>" + emojiItems[i].emojiImgs +
       "</div><div class='emoji-card-title hide-card'>";
 
       if(emojiItems[i].musicVideo){
@@ -80,6 +80,22 @@ $(document).ready(function () {
     $(this)
       .find(".hint")
       .removeClass("hint-reveal");
+  });
+
+  // Add keyboard accessibility on cards.
+  $("#songs").on("keypress", ".emoji-images", function (e) {
+    if(e.keyCode === 13) { // If ENTER pressed while focused on card
+      e.target.click();
+    }
+  });
+
+  // Add keyboard accessibility on hint container.
+  $("#songs").on("keypress", ".hint-container", function (e) {
+    if(e.keyCode === 13) { // If ENTER pressed while focused on hint
+      $(this)
+        .find(".hint")
+        .toggleClass("hint-reveal");
+    }
   });
 
 });
