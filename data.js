@@ -368,6 +368,14 @@ const emojiItems = [
         genres: ["pop", "reggae"],
         year: 1994
     },{
+        title: "How Could An Angel Break My Heart",
+        artist: ["Tony Braxton"],
+        featuredArtist: [],
+        emojiImgs: "👼💔😭",
+        musicVideo: "https://www.youtube.com/watch?v=qsDJRTzN9FY",
+        genres: ["R&B", "‎soul‎", "pop"],
+        year: 1997
+    },{
         title: "Happy",
         artist: ["Pharrell Williams"],
         featuredArtist: [],
@@ -672,6 +680,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=hTWKbfoikeg",
         genres: ["grunge"],
         year: 1991
+    },{
+        title: "Spanish Guitar",
+        artist: ["Tony Braxton"],
+        featuredArtist: [],
+        emojiImgs: "💑🎸🇪🇸",
+        musicVideo: "https://www.youtube.com/watch?v=bvd3qCnsAaY",
+        genres: ["R&B", "‎soul‎", "pop"],
+        year: 2000
     },{
         title: "The Scientist",
         artist: ["Coldplay"],
