@@ -248,6 +248,14 @@ const emojiItems = [
         genres: ["pop", "rb"],
         year: 2012
     },{
+        title: "Hotline Bling",
+        artist: ["Drake"],
+        featuredArtist: [],
+        emojiImgs: "🔥☎💍",
+        musicVideo: "https://www.youtube.com/watch?v=uxpDa-c-4Mc",
+        genres: ["pop", "rb"],
+        year: 2015
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
