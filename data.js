@@ -351,6 +351,15 @@ const emojiItems = [
         genres: ['pop'],
         year: 1999,
     },{
+        title: "Ghosts'n'Stuff",
+        artist: ["deadmau5"],
+        featuredArtist: ["Rob Swire"],
+        emojiImgs: "🐭👻🎮🌃",
+        musicVideo: "https://www.youtube.com/watch?v=h7ArUgxtlJs",
+        genres: ["electronic"],
+        year: 2008
+
+    },{
         title: "Hakuna Matata",
         artist: ["Jimmy Cliff", "Lebo M"],
         featuredArtist: [],
@@ -783,13 +792,5 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
         genres: ["k-pop"],
         year: 2018
-    },{
-        title: "Smells Like Teen Spirit",
-        artist: ["Nirvana"],
-        featuredArtist: [],
-        emojiImgs: "👃👍👱👻",
-        musicVideo: "https://www.youtube.com/watch?v=hTWKbfoikeg",
-        genres: ["grunge"],
-        year: 1991
     }
 ];
