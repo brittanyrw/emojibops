@@ -312,6 +312,13 @@ const emojiItems = [
         genres: ["pop"],
         year: 2010
     },{
+        title: "Flamingo",
+        artist: ["Kero Kero Bonito"],
+        emojiImgs: "🦐🦩🌈💗",
+        musicVideo: "https://www.youtube.com/watch?v=rY-FJvRqK0E",
+        genres: ["pop"],
+        year: 2014
+    },{
         title: "Follow Your Arrow",
         artist: ["Kacey Musgraves"],
         featuredArtist: [],
