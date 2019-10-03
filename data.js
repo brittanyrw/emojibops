@@ -528,6 +528,38 @@ const emojiItems = [
         genres: ["pop"],
         year: 1984
     },{
+        title: "Marry You",
+        artist: ["Bruno Mars"],
+        featuredArtist: [],
+        emojiImgs: "💍👨‍⚖️ 👰👁🌃💒",
+        musicVideo: "",
+        genres: ["pop"],
+        year: 2011
+    },{
+        title: "I Say a Little Prayer",
+        artist: ["Dionne Warwick"],
+        featuredArtist: [],
+        emojiImgs: "👗🚎❤️🕘☕️",
+        musicVideo: "https://www.youtube.com/watch?v=kafVkPxjLYg",
+        genres: ["pop", "soul"],
+        year: 1967
+    },{
+        title: "Empire State of Mind",
+        artist: ["Jay-Z"],
+        featuredArtist: ["Alicia Keys"],
+        emojiImgs: "🗽🏙🚕🎹",
+        musicVideo: "https://www.youtube.com/watch?v=QsZlY0Vz4-o",
+        genres: ["hip-hop"],
+        year: 2009
+    },{
+        title: "Ring of Fire",
+        artist: ["Jay-Z"],
+        featuredArtist: ["Johnny Cash"],
+        emojiImgs: "💍🔥👅❤️",
+        musicVideo: "https://www.youtube.com/watch?v=ZxgE4MZkJV4",
+        genres: ["rock", "country"],
+        year: 1963
+    },{
         title: "Under The Sea",
         artist: ["Samuel E. Wright"],
         featuredArtist: [],
