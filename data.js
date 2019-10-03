@@ -520,6 +520,14 @@ const emojiItems = [
         genres: ["k-pop", "pop"],
         year: 2019
     },{
+        title: "Kiss the Girl",
+        artist: ["Samuel E. Wright"],
+        featuredArtist: [],
+        emojiImgs: "💋❤️👧",
+        musicVideo: "https://www.youtube.com/watch?v=TrRbB-qUJfY",
+        genres: ["pop", "calypso"],
+        year: 1989
+    },{
         title: "Let It Go",
         artist: ["Idina Menzel"],
         featuredArtist: [],
