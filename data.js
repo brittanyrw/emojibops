@@ -224,6 +224,14 @@ const emojiItems = [
         genres: ["pop", "pop-dance"],
         year: 2008
     },{
+        title: "Firework",
+        artist: ["Katy Perry"],
+        featuredArtist: [],
+        emojiImgs: "🧨🌟🎇🎆🌈",
+        musicVideo: "https://www.youtube.com/watch?v=QGJuMBdaqIw",
+        genres: ["pop"],
+        year: 2010
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
