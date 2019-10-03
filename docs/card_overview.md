@@ -109,3 +109,16 @@ Specify the year the song was released.
 }
 ```
 
+# Card Pull Request Checklist
+
+Follow the checklist below when working on adding a card. This will help you double check that you have everything you need to have your Pull Request approved.
+
+- [ ] 💜 There is an Issue for this song and you have been assigned to add it. 
+- [ ] 🖍️ Bew song(s) are placed in alphabetical order based on `title` inside of the `data.js` file. 
+- [ ] 🖍️ The `artist(s)` and `featured artist(s)` are all inside of square brackets `[ ]` and each are individually wrapped in quotation marks and have a comma between each one. (such as submitting this `"artist": ["Lady Gaga","Bradley Cooper"]` and not this `"genres":["Lady Gaga,Bradley Cooper"]`).
+- [ ] 3️⃣ There are at least three emojis listed under `emojiImgs`
+- [ ] 6️⃣ There are a maxium of six emojis listed under `emojiImgs`.
+- [ ] 🖍️ There is a link to an official music video or performance under `musicVideo`. If there is no official video, I have added an empty string.
+- [ ] 👍 The pull request has a descriptive title (such as `Added Boy With Luv` or `Added all of Panic at the Disco songs`)
+- [ ] ⭐ The genres are all inside of square brackets `[ ]` and each are individually wrapped in quotation marks and have a comma between each one. (such as submitting this `"genres": ["k-pop","pop","dance"]` and not this `"genres":["k-pop, pop, dance"]`).
+- [ ] 📅 There is a single year under `year`. 
