@@ -5,8 +5,6 @@
 
 ![Screenshot of Emojibops homepage](readme/emojibops-screenshot.png)
 
-> This project was built to create a fun, judgement free space for those learning Git and Github to practice making pull requests, branches, adding features, and more. 💛 💙 💜 💚 💖
-
 ## Contributing 🎁
 
 Below are instructions for how to contribute to this project. Read through the contribution guidelines before opening a Pull Request on this project. 
@@ -25,8 +23,6 @@ Therefore, if you would like to add to this project, please follow these steps:
 
 Please do not submit Pull Requests unless you have been assigned an Issue to complete. Thanks! 
 
-We will accept contributions for new songs that are not listed as an Issue after Hacktoberfest is over or when activity has slowed down again. 
-
 ## Other Contribution Guidelines
 
 Below are some additional guidelines to follow when contributing to this project. 
@@ -43,13 +39,7 @@ If someone is assigned an Issue and doesn't complete it after a while, we will o
 
 # Adding a Card
 
-If you are working on an [Issue to add a song](https://github.com/brittanyrw/emojibops/labels/add%20song), you will be adding an `Emoji Card` to the project. This is a JavaScript object that you will add into the `data.js` file. Review the overview below for instructions and templates for an `Emoji Card`.
-
-* View [detailed overview of requirements for an Emoji Card](/docs/card_overview.md).
-
-If you need instructions on how to use Git and Github we have created two walkthroughs for you:
-* Adding an Emoji Card using the [Github Website Walkthrough](/docs/github_ui_walkthrough.md)
-* Adding an Emoji Card using your [local developer environment](/docs/local_dev_walkthrough.md)
+For the time being we are only looking for new Pull Requests for features.
 
 ## Other Resources and Options
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
