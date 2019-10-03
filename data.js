@@ -272,6 +272,14 @@ const emojiItems = [
         genres: ["pop", "rb"],
         year: 2015
     },{
+        title: "Dancing in the Dark",
+        artist: ["Bruce Springsteen"],
+        featuredArtist: [],
+        emojiImgs: "💃🏽🕺🌃",
+        musicVideo: "https://www.youtube.com/watch?v=129kuDCQtHs",
+        genres: ["rock", "classic-rock"],
+        year: 1984
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
