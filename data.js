@@ -1,5 +1,5 @@
 const emojiItems = [
-    {
+    {   
         title: "9 to 5",
         artist: ["Dolly Parton"],
         featuredArtist: [],
@@ -7,6 +7,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=UbxUSsFXYo4",
         genres: ["pop"],
         year: 1980
+    },{
+        title: "A Whole New World",
+        artist: ["ZAYN","Zhavia Ward"],
+        featuredArtist: [],
+        emojiImgs: "🆕🌎💫👸🏽❤️",
+        musicVideo: "https://www.youtube.com/watch?v=rg_zwK_sSEY",
+        genres: ["disney","children music"],
+        year: 2019
     },{
         title: "Airplanes",
         artist: ["B.o.B"],
