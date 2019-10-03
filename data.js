@@ -272,6 +272,14 @@ const emojiItems = [
         genres: ["show-tune"],
         year: 2013
     },{
+        title: "Drunk",
+        artist: ["Ed Sheeran"],
+        featuredArtist: [],
+        emojiImgs: "🥴🍻😼🎉💔🎵",
+        musicVideo: "https://www.youtube.com/watch?v=G2fOum_KWQU",
+        genres: ["pop", "folk"],
+        year: 2011
+    },{
         title: "Drunk In Love",
         artist: "Beyonce",
         featuredArtist: "Jay-Z",
@@ -592,13 +600,13 @@ const emojiItems = [
         genres: ["hip-hop", "pop"],
         year: 2019
     },{
-      title: "Paracetamol",
-      artist: ["Declan McKenna"],
-      featuredArtist: [],
-      emojiImgs: "💊💊💊",
-      musicVideo: "https://www.youtube.com/watch?v=iqojQJGt-Vo",
-      genres: ["alternative rock", "indie", "rock"],
-      year: 2016
+        title: "Paracetamol",
+        artist: ["Declan McKenna"],
+        featuredArtist: [],
+        emojiImgs: "💊💊💊",
+        musicVideo: "https://www.youtube.com/watch?v=iqojQJGt-Vo",
+        genres: ["alternative rock", "indie", "rock"],
+        year: 2016
     },{
         title: "Party in the USA",
         artist: ["Miley Cyrus"],
