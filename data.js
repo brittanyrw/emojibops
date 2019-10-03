@@ -632,6 +632,14 @@ const emojiItems = [
         genres: ["k-pop"],
         year: 2018
     },{
+        title: "Call Me Baby",
+        artist: ["EXO"],
+        featuredArtist: [],
+        emojiImgs: "😀❤📞🇰🇷",
+        musicVideo: "https://www.youtube.com/watch?v=yWfsla_Uh80",
+        genres: ["K-pop"],
+        year: 2015
+    },{
         title: "Let It Go",
         artist: ["Idina Menzel"],
         featuredArtist: [],
