@@ -368,6 +368,14 @@ const emojiItems = [
         year: 2008
 
     },{
+        title: "Girlfriend",
+        artist: ["Avril Lavigne"],
+        featuredArtist: ["Avril Lavigne"],
+        emojiImgs: "🙋‍♀️👎💑",
+        musicVideo: "https://www.youtube.com/watch?v=Bg59q4puhmg",
+        genres: ["pop"],
+        year: 2007
+    },{
         title: "Hakuna Matata",
         artist: ["Jimmy Cliff", "Lebo M"],
         featuredArtist: [],
@@ -823,6 +831,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4V90AmXnguw",
         genres: ["pop"],
         year: 1984
+    },{
+        title: "Umbrella",
+        artist: ["Rihanna"],
+        featuredArtist: ["JAY-Z"],
+        emojiImgs: "☂☂☂",
+        musicVideo: "https://www.youtube.com/watch?v=CvBfHwUxHIk",
+        genres: ["pop"],
+        year: 2008
     },{
         title: "Under The Sea",
         artist: ["Samuel E. Wright"],
