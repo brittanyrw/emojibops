@@ -488,6 +488,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2019
     },{
+        title: "The Scientist",
+        artist: ["Coldplay"],
+        featuredArtist: [],
+        emojiImgs: "⏮🚗💥🧪👨‍🔬",
+        musicVideo: "https://www.youtube.com/watch?v=RB-RcX5DS5A",
+        genres: ["rock", "alternative"],
+        year: 2002
+    },{
         title: "The Devil Went Down to Georgia",
         artist: ["Charlie Daniels Band"],
         featuredArtist: [],
