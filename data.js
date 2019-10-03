@@ -80,6 +80,14 @@ const emojiItems = [
         genres: ["dance","electronic","hip-hop"], 
         year: 2010
     },{
+        title: "...Baby One More Time",
+        artist: ["Britney Spears"],
+        featuredArtist: [],
+        emojiImgs: "🥊👶1️⃣➕⏰",
+        musicVideo: "https://www.youtube.com/watch?v=C-u5WLJ9Yk4",
+        genres: ["pop"],
+        year: 1998
+    },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
@@ -87,7 +95,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
         genres: ["art-rock", "opera-rock", "classic-rock"],
         year: 1975
-    },{
+    }, {
         title: "Boy With Luv",
         artist: ["BTS"],
         featuredArtist: ["Halsey"],
@@ -151,7 +159,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=K0ibBPhiaG0",
         genres: ["pop", "singer-songwriter"],
         year: 2017
-	},{
+	  },{
         title: "Sing",
         artist: ["Ed Sheeran"],
         featuredArtist: ["Pharrell Williams"],
@@ -167,7 +175,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=GemKqzILV4w",
         genres: ["alternative", "indie", "rock"],
         year: 2006
-    },{
+    }, {
         title: "Cheetah Sisters",
         artist: ["The Cheetah Girls"],
         featuredArtist: [],
@@ -486,7 +494,7 @@ const emojiItems = [
         musicVideo: "http://www.youtube.com/watch?v=eH3giaIzONA",
         genres: ["pop", "rb"],
         year: 1987
-    },{
+    }, {
         title: "I Write Sins Not Tragedies",
         artist: ["Panic! at the Disco"],
         featuredArtist: [],
