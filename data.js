@@ -280,6 +280,14 @@ const emojiItems = [
         genres: ["rock", "classic-rock"],
         year: 1984
     },{
+        title: "Follow Your Arrow",
+        artist: ["Kacey Musgraves"],
+        featuredArtist: [],
+        emojiImgs: "➡️🏹🏜️👢👧",
+        musicVideo: "https://www.youtube.com/watch?v=kQ8xqyoZXCc",
+        genres: ["country"],
+        year: 2013
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
