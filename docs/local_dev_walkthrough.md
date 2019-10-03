@@ -50,7 +50,7 @@ Then re-run the commit command. Remember to replace with your song: `git commit 
 
 14. Go to the Github website and navigate to the `Pull Request` tab. Click on New `Pull Request`.
 
-![Screenshot of a Pull Request on the Github website](readme/emojibop-pullrequest.png)
+![Screenshot of a Pull Request on the Github website](../readme/emojibop-pullrequest.png)
 
 15. Review your changes and then click `Create Pull Request`. Review the [Pull Request checklist](/docs/card_overview.md#card-pull-request-checklist) to check that you have completed everything for your `Emoji Card`. Then click on `Create Pull Request`.
 16. Wait for feedback/review of your Pull Request. Your code will be reviewed and if any changes need to be made, we will let you know. Once your pull request is accepted, you will be able to see your card at [https://emojibops.com](https://emojibops.com) and you will officially have contributed to the project! 🎉
