@@ -208,6 +208,13 @@ const emojiItems = [
         genres: ["dance-pop", "electropop"],
         year: 2008
     },{
+        title: "The Climb",
+        artist: ["Miley Cyrus"],
+        featuredArtist: [],
+        emojiImgs: "⛰️🧗‍♀️🧗‍♂️💪",
+        musicVideo: "https://www.youtube.com/watch?v=NG2zyeVRcbs",
+        genres: ["pop","acoustic pop"],
+    },{
         title: "Crown",
         artist: ["TXT"],
         featuredArtist: [],
@@ -377,7 +384,7 @@ const emojiItems = [
         year: 2007
     },{
         title: "Hakuna Matata",
-        artist: ["Jimmy Cliff", "Lebo M"],
+        artist: ["Jimmy Cliff","Lebo M"],
         featuredArtist: [],
         emojiImgs: "🦁🐖🐒",
         musicVideo: "https://www.youtube.com/watch?v=yUioIn8rPPM",
