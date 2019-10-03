@@ -248,6 +248,14 @@ const emojiItems = [
         genres: ["pop", "rb"],
         year: 1987
     },{
+        title: 'Genie in a Bottle',
+        artist: ['Christina Aguilera'],
+        featuredArtist: [],
+        emojiImgs: '🧞👉🍾',
+        musicVideo: 'https://www.youtube.com/watch?v=kIDWgqDBNXA',
+        genres: ['pop'],
+        year: 1999,
+      },{
         title: "Every Rose Has It's Thorn",
         artist: ["Poison"],
         featuredArtist: [],
