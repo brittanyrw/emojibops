@@ -17,9 +17,9 @@ Therefore, if you would like to add to this project, please follow these steps:
 * [Find an Issue](https://github.com/brittanyrw/emojibops/issues) that you would like to complete. Make sure the Issue does not have a `needs review` label. This label means that the Issue has been added by someone that is not a maintainer and has not been approved yet.
 * If someone is already assigned an Issue or has already commented inside of the Issue, please move on to another Issue. If the Issue has not been assigned and there are no comments yet, comment inside of the Issue stating that you would like to work on that item. 
 * Wait for confirmation from the maintainers before working on the Issue. 
-* After you recieve confirmation, complete the Issue and submit a Pull Request.
+* After you receive confirmation, complete the Issue and submit a Pull Request.
 
-### We will add Issues to this project throughout the month but there will be many times where there are no Issues avaliable. When that happens, we ask that you move on to another project. 
+### We will add Issues to this project throughout the month but there will be many times where there are no Issues available. When that happens, we ask that you move on to another project. 
 
 Please do not submit Pull Requests unless you have been assigned an Issue to complete. Thanks! 
 
@@ -27,9 +27,9 @@ Please do not submit Pull Requests unless you have been assigned an Issue to com
 
 Below are some additional guidelines to follow when contributing to this project. 
 
-### Avaliable Contributions
+### Available Contributions
 
-The current contributions that can be made to this project are the following. Click on the label links below to see what Issues are avaliable for each type of contribution:
+The current contributions that can be made to this project are the following. Click on the label links below to see what Issues are available for each type of contribution:
 
 * Add a new feature ([view Issues here](https://github.com/brittanyrw/emojibops/labels/new%20feature))
 * Update an existing feature, website styling, accessibility or structure ([view Issues here](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement))
