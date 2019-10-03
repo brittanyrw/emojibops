@@ -64,6 +64,14 @@ const emojiItems = [
         genres: ["k-pop", "pop"],
         year: 2016,
     },{
+        title: "Alors On Danse", 
+        artist: ["Stromae"], 
+        featuredArtist: [], 
+        emojiImgs: '🇧🇪💃🕺🐶', 
+        musicVideo: 'https://www.youtube.com/watch?v=VHoT4N43jK8', 
+        genres: ["dance","electronic","hip-hop"], 
+        year: 2010
+    },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
