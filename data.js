@@ -80,6 +80,14 @@ const emojiItems = [
         genres: ["k-pop", "pop"],
         year: 2019
     },{
+        title: "Brown Skin Girl",
+        artist: ["Beyonce", "Saint Jhn", "Wizkid"],
+        featuredArtist: ["Blue Ivy Carter"],
+        emojiImgs: "👩🏾🕶🦁",
+        musicVideo: "https://www.youtube.com/watch?v=RXrhqhW2kiU",
+        genres: ["rb", "afrobeats"],
+        year: 2019
+    },{
         title: "Bye Bye Bye",
         artist: ["*NSYNC"],
         featuredArtist: [],
