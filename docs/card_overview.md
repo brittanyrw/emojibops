@@ -2,7 +2,7 @@
 
 On the website, each `Emoji Card` displays 1) images of the emojis, 2) a hint icon that will show the year the song was released (when the user hovers) and 3) the name of the song, the artist name and a link to the music video (which appears when the user clicks on a card).
 
-![Screenshot of emoji cards](readme/emojibops-card.png)
+![Screenshot of emoji cards](../readme/emojibops-card.png)
 
 In the `data.js` file, each `Emoji Card` consists of the following object:
 
