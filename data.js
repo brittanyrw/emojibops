@@ -360,6 +360,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 1984
     },{
+        title: "Under The Sea",
+        artist: ["Samuel E. Wright"],
+        featuredArtist: [],
+        emojiImgs: "👇🌊🧜‍♀️🦞",
+        musicVideo: "https://www.youtube.com/watch?v=GC_mV1IpjWA",
+        genres: ["pop", "disney", "reggae", "show-tunes"],
+        year: 1989
+    },{
         title: "Sugar, We're Goin Down",
         artist: ["Fall Out Boy"],
         featuredArtist: [],
