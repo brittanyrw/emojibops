@@ -160,6 +160,14 @@ const emojiItems = [
         genres: ["pop","reggae"],
         year: 1994
     },{
+        title: "Hello",
+        artist: ["Adele"],
+        featuredArtist: [],
+        emojiImgs: "📲☎️📞🙋‍💔",
+        musicVideo: "https://www.youtube.com/watch?v=YQHsXMglC9A",
+        genres: ["soul"],
+        year: 2015
+    },{
         title: "Circle of Life",
         artist: ["Lindiwe Mkhize","Lebo M"],
         featuredArtist: [],
