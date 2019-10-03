@@ -220,7 +220,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🇰🇷👑🕺",
         musicVideo: "https://www.youtube.com/watch?v=W3iSnJ663II",
-        genres: ["k-pop, pop, dance"],
+        genres: ["k-pop", "pop", "dance"],
         year: 2019
     },{
         title: "Cry Me A River",
