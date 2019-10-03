@@ -657,6 +657,14 @@ const emojiItems = [
         genres: ["pop","pop rock"],
         year: 2010
     },{
+        title: "Rise up",
+        artist: ["Andra Day"],
+        featuredArtist: [],
+        emojiImgs: "👩🙌🌊",
+        musicVideo: "https://www.youtube.com/watch?v=kNKu1uNBVkU",
+        genres: ["r-n-b", "soul"],
+        year: 2015
+    },{
         title: "Rocketman",
         artist: ["Elton John"],
         featuredArtist: [],
