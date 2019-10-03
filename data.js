@@ -304,6 +304,14 @@ const emojiItems = [
         genres: ["pop", "rb"],
         year: 1987
     },{
+        title: "I Want to Hold Your Hand",
+        artist: ["The Beatles"],
+        featuredArtist: [],
+        emojiImgs: "🙋‍♂️🤝🏾👩",
+        musicVideo: "https://www.youtube.com/watch?v=jenWdylTtzs",
+        genres: ["pop rock"],
+        year: 1963
+    }, {
         title: 'Genie in a Bottle',
         artist: ['Christina Aguilera'],
         featuredArtist: [],
@@ -463,6 +471,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=IsUsVbTj2AY",
         genres: ["pop"],
         year: 2013
+    },{
+        title: "Sugar, We're Goin Down",
+        artist: ["Fall Out Boy"],
+        featuredArtist: [],
+        emojiImgs: "🏠🦌👨🪁🎸💏",
+        musicVideo: "https://www.youtube.com/watch?v=uhG-vLZrb-g",
+        genres: ["rock"],
+        year: 2004
     },{
         title: "thank u, next",
         artist: ["Ariana Grande"],
