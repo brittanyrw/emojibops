@@ -9,8 +9,8 @@
 
 Below are instructions for how to contribute to this project. Read through the contribution guidelines before opening a Pull Request on this project. 
 
-## Hacktoberfest Note
-Due to Hacktoberfest, this project started experiencing a lot of activity! To manage the amount of contributions to this project, we are now only accepting Pull Requests that are closing Issues.
+## Important Note
+Due to high activity, to manage the amount of contributions to this project, we are now only accepting Pull Requests that are closing Issues for adding/updating features.
 
 Therefore, if you would like to add to this project, please follow these steps:
 
@@ -19,7 +19,7 @@ Therefore, if you would like to add to this project, please follow these steps:
 * Wait for confirmation from the maintainers before working on the Issue. 
 * After you recieve confirmation, complete the Issue and submit a Pull Request.
 
-### We will add Issues to this project throughout the month but there will be many times where there are no Issues avaliable. When that happens, we ask that you move on to another project for Hacktoberfest. 
+### We will add Issues to this project throughout the month but there will be many times where there are no Issues avaliable. When that happens, we ask that you move on to another project. 
 
 Please do not submit Pull Requests unless you have been assigned an Issue to complete. Thanks! 
 
