@@ -800,6 +800,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2019
     },{
+        title: "Thunderclouds",
+        artist: ["LSD"],
+        featuredArtist: ["Sia", "Diplo", "Labrinth"],
+        emojiImgs: "⚡☁️🚗♂️👧♀️🤘",
+        musicVideo: "https://www.youtube.com/watch?v=kg1BljLu9YY",
+        genres: ["pop"],
+        year: 2019
+    },{
         title: "Telephone",
         artist: ["Lady Gaga"],
         featuredArtist: ["Beyonce"],
