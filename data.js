@@ -312,6 +312,14 @@ const emojiItems = [
         genres: ["country"],
         year: 2013
     },{
+        title: "Cherry Bomb",
+        artist: ["NCT 127"],
+        featuredArtist: [],
+        emojiImgs: "🍒💣🔥",
+        musicVideo: "https://www.youtube.com/watch?v=WkuHLzMMTZM",
+        genres: ["edm", "electro-pop", "hip-hop"],
+        year: 2017
+    },{
         title: "Highway to Hell",
         artist: ["AC/DC"],
         featuredArtist: [],
