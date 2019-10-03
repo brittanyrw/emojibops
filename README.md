@@ -33,7 +33,6 @@ The current contributions that can be made to this project are the following. Cl
 
 * Add a new feature ([view Issues here](https://github.com/brittanyrw/emojibops/labels/new%20feature))
 * Update an existing feature, website styling, accessibility or structure ([view Issues here](https://github.com/brittanyrw/emojibops/issues?q=is%3Aopen+is%3Aissue+label%3Aenhancement))
-* Add a show or movie ([view Issues here](https://github.com/brittanyrw/emojibops/labels/add%20song))
 
 If someone is assigned an Issue and doesn't complete it after a while, we will open the Issue to everyone else again.
 
