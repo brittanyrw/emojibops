@@ -216,6 +216,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 1998
     },{
+        title: "Hot N Cold",
+        artist: ["Katy Perry"],
+        featuredArtist: [],
+        emojiImgs: "👰🔥◽️❄️🤵",
+        musicVideo: "https://www.youtube.com/watch?v=kTHNpusq654",
+        genres: ["pop", "pop-dance"],
+        year: 2008
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
