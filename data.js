@@ -640,6 +640,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2019
     },{
+        title: "Telephone",
+        artist: ["Lady Gaga"],
+        featuredArtist: ["Beyonce"],
+        emojiImgs: "👩🎭☎️",
+        musicVideo: "https://www.youtube.com/watch?v=EVBsypHzF3U",
+        genres: ["dance", "pop"],
+        year: 2010
+    },{
         title: "TiK ToK",
         artist: ["Kesha"],
         featuredArtist: [],
