@@ -143,7 +143,15 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=RXt_lya0gto",
         genres: ["soundtrack", "pop"],
         year: 2003
-    }, {
+    },{
+        title: "Crown",
+        artist: ["TXT"],
+        featuredArtist: [],
+        emojiImgs: "🇰🇷👑🕺",
+        musicVideo: "https://www.youtube.com/watch?v=W3iSnJ663II",
+        genres: ["k-pop, pop, dance"],
+        year: 2019
+    },{
         title: "Cry Me A River",
         artist: ["Justin Timberlake"],
         featuredArtist: [],
@@ -151,7 +159,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=DksSPZTZES0",
         genres: ["R&B"],
         year: 2002
-    }, {
+    },{
         title: "Do You Want to Build a Snowman?",
         artist: ["Kristen Bell", "Agatha Lee Monn", "Katie Lopez"],
         featuredArtist: [],
@@ -159,7 +167,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=V-zXT5bIBM0",
         genres: ["show-tune"],
         year: 2013
-    }, {
+    },{
         title: "Happy",
         artist: ["Pharrell Williams"],
         featuredArtist: [],
