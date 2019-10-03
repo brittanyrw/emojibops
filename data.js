@@ -351,7 +351,15 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=M11SvDtPBhA",
         genres: ["pop"],
         year: 2009
-    },{
+    }, {
+        title: "Poker Face",
+        artist: ["Lady Gaga"],
+        featuredArtist: [],
+        emojiImgs: "🃏♠️♣️♥️♦️😐",
+        musicVideo: "https://www.youtube.com/watch?v=bESGLojNYSo",
+        genres: ["pop"],
+        year: 2008
+    }, {
         title: "Rocketman",
         artist: ["Elton John"],
         featuredArtist: [],
