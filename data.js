@@ -384,6 +384,14 @@ const emojiItems = [
         genres: ["k-pop"],
         year: 2018
     },{
+        title: "Let It Go",
+        artist: ["Idina Menzel"],
+        featuredArtist: [],
+        emojiImgs: "❄️👸🏼❄️",
+        musicVideo: "https://www.youtube.com/watch?v=moSFlvxnbgk",
+        genres: ["pop", "show-tunes"],
+        year: 2013
+    },{
        title: "TiK ToK",
         artist: ["Kesha"],
         featuredArtist: [],
