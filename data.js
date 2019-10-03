@@ -200,6 +200,14 @@ const emojiItems = [
         genres: ["disney", "children"],
         year: 1994
     },{
+        title: "I’ll Make a Man Out of You",
+        artist: ["Donny Osmond"],
+        featuredArtist: [],
+        emojiImgs: "🏹🍅🥋🤼‍♂️🧨",
+        musicVideo: "https://www.youtube.com/watch?v=ZSS5dEeMX64",
+        genres: ["pop"],
+        year: 1998
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
