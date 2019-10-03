@@ -264,6 +264,14 @@ const emojiItems = [
         genres: ["emo", "pop", "punk"],
         year: 2005
     },{
+        title: "Ice Ice Baby",
+        artist: ["Vanilla Ice"],
+        featuredArtist: [],
+        emojiImgs: "🛑👂❄️👶🥶",
+        musicVideo: "https://www.youtube.com/watch?v=rog8ou-ZepE",
+        genres: ["hip hop"],
+        year: 1989
+    },{
         title: "Love Yourself",
         artist: ["Justin Bieber"],
         featuredArtist: [],
