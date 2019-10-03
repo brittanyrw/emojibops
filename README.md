@@ -36,7 +36,7 @@ The current contributions that can be made to this project are the following. Cl
 
 If someone is assigned an Issue and doesn't complete it after a while, we will open the Issue to everyone else again.
 
-# Adding a Card
+# Adding a Song
 
 For the time being we are only looking for new Pull Requests for features.
 
