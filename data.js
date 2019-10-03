@@ -231,17 +231,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=vc6vs-l5dkc",
         genres: ["emo", "pop", "punk"],
         year: 2005
-    },
-    {
-        title: "I'll Make a Man Out of You",
-        artist: ["Donny Osmond"],
-        featuredArtist: [],
-        emojiImgs: "✋👦👉👨",
-        musicVideo: "https://www.youtube.com/watch?v=TVcLIfSC4OE",
-        genres: ["children"],
-        year: 2016
-    }
-    ,{
+    },{
         title: "Love Yourself",
         artist: ["Justin Bieber"],
         featuredArtist: [],
