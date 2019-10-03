@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["folk-rock", "classic-rock"],
         year: 1971
     },{
+        title: "The Black Parade",
+        artist: ["My Chemical Romance"],
+        featuredArtist: [],
+        emojiImgs: "☠️🥁🧟‍🎸☠️",
+        musicVideo: "https://www.youtube.com/watch?v=RRKJiM9Njr8",
+        genres: ["Alternative rock", "emo", "pop punk", "post-hardcore", "punk rock", "hard rock"],
+        year: 2006
+    },{
         title: 'Bleeding Love',
         artist: ['Leona Lewis'],
         featuredArtist: [],
