@@ -6,12 +6,12 @@ $(document).ready(function() {
   var emojiCard = '';
 
   // Run the random order function below on the data inside data.js. This will display the cards in a random order on the page every time the page is refreshed.
-  shuffle(emojiItems);
+  console.log(shuffle(emojiItems));
 
   // Loop through the data from the data.js file and insert parts of the data into HTML. On each loop, we are appending a new card with the HTML below.
   for (var i in emojiItems) {
-    var featuredArtist = emojiItems[i].featuredArtist.join(', ');
-    var artist = emojiItems[i].artist.join(', ');
+    var featuredArtist = $.makeArray(emojiItems[i].featuredArtist).join(', ');
+    var artist = $.makeArray(emojiItems[i].artist).join(', ');
 
     emojiCard +=
       "<div class='emoji-card' tabindex='0'><div class='emoji-card-wrapper'><div class='hint-container' tabindex='0'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" +
@@ -21,21 +21,10 @@ $(document).ready(function() {
       "</div><div class='emoji-card-title hide-card'>";
 
     if (emojiItems[i].musicVideo) {
-      emojiCard +=
-        "<div class='emoji-card-link'><a href='" +
-        emojiItems[i].musicVideo +
-        "' title='View " +
-        emojiItems[i].title +
-        " Music Video' target='_blank'><i class='fas fa-play-circle'></i></a></div>";
+      emojiCard += "<div class='emoji-card-link'><a href='" + emojiItems[i].musicVideo + "' title='View " + emojiItems[i].title + " Music Video' target='_blank'><i class='fas fa-play-circle'></i></a></div>";
     }
 
-    emojiCard +=
-      "<div class='title-content'><h3>" +
-      emojiItems[i].title +
-      ' (' +
-      emojiItems[i].year +
-      ')' +
-      '</h3>';
+    emojiCard += "<div class='title-content'><h3>" + emojiItems[i].title + " (" + emojiItems[i].year + ")" + "</h3>";
 
     if (featuredArtist) {
       emojiCard +=
@@ -114,3 +103,4 @@ $(document).ready(function() {
       .removeClass('hint-reveal');
   });
 });
+
