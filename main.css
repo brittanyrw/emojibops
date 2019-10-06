@@ -64,6 +64,7 @@ header img {
 	text-transform: uppercase;
 	display: block;
 	transition: 0.5s;
+  margin-top: 40px;
 }
 
 .contribute-callout a:hover {
@@ -326,4 +327,26 @@ footer img {
 	.emoji-images {
 		padding: 30px;
 	}
+}
+.playlist-links {
+  display: block;
+  margin-top: 8px;
+}
+
+.playlist-links-item {
+  border: 3px solid #352649;
+  padding: 8px;
+  margin-right: 8px;
+  margin-top: 8px;
+  color: #352649;
+  font-weight: 600;
+  text-decoration: none;
+  display: inline-block;
+}
+
+.playlist-links-item i {
+  background: none;
+  margin-right: 8px;
+  font-size: 20px;
+  color: #3c3a4a;
 }
