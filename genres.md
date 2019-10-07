@@ -4,7 +4,9 @@ Select genres from the list below. If you would like to add a genre not listed, 
 
 * Alternative
 * Alternative Rock
+* Arrocha
 * Art Rock
+* Axe
 * Blues
 * Childrens Music
 * Classic Rock
@@ -51,6 +53,7 @@ Select genres from the list below. If you would like to add a genre not listed, 
 * Show Tunes and Musicals
 * Singer Songwriter
 * Soft Rock
+* Sofrencia
 * Soul
 * Techno
 * World Music

@@ -583,6 +583,14 @@ const emojiItems = [
         genres: ["hip-hop", "comedy", "rap"],
         year: 2017
     },{
+        title: "Milla",
+        artist: ["Netinho"],
+        featuredArtist: [],
+        emojiImgs: "1⃣0⃣0⃣1⃣🌃❤🏾",
+        musicVideo: "https://www.youtube.com/watch?v=zhrqSwXz8Ic",
+        genres: ["axe"],
+        year: 1996
+    },{
         title: "Mercy",
         artist: ["Shawn Mendes"],
         featuredArtist: [],
@@ -630,6 +638,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
         genres: ["hip-hop", "pop"],
         year: 2019
+    },{
+        title: "Porque Homem Não Chora",
+        artist: ["Pablo"],
+        featuredArtist: [],
+        emojiImgs: "🧔🚫😭",
+        musicVideo: "https://www.youtube.com/watch?v=QLoZhUpzNzQ",
+        genres: ["arrocha","sofrencia"],
+        year: 2014
     },{
         title: "Paracetamol",
         artist: ["Declan McKenna"],
