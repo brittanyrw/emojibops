@@ -2,60 +2,49 @@
 
 Select genres from the list below. If you would like to add a genre not listed, edit this file with your new genre and include it in your pull request. Add new genres in alphabetical order. 
 
-* Alternative
-* Alternative Rock
-* Arrocha
-* Art Rock
-* Axe
-* Blues
-* Childrens Music
-* Classic Rock
-* Comedy
-* Country
-* Dance
-* Disco
-* Disney
-* EDM
-* Electronic
-* Emo
-* Ethnic
-* Folk
-* Funk
-* Garage
-* Gospel
-* Goth
-* Groove
-* Grunge
-* Guitar
-* Hard Rock
-* Heavy Metal
-* Hip Hop
-* Holidays
-* Honky Tonk
-* Indie
-* Indie Pop
-* J-Pop
-* J-Rock
-* Jazz
-* K-pop
-* Latin
-* Metal
-* Movies and Soundtracks
-* Opera Rock
-* Party
-* Pop
-* Pop Punk
-* Punk
-* Punk Rock
-* R&B
-* Reggae
-* Rock
-* Show Tunes and Musicals
-* Singer Songwriter
-* Soft Rock
-* Sofrencia
-* Soul
-* Techno
-* World Music
+* alternative
+* blues
+* childrens
+* classic-rock
+* comedy
+* country
+* dance
+* disco
+* disney
+* edm
+* electronic
+* emo
+* ethnic
+* folk
+* funk
+* garage
+* goth
+* grunge
+* guitar
+* hard-rock
+* heavy-metal
+* hip-hop
+* holidays
+* indie
+* j-pop
+* j-pock
+* jazz
+* k-pop
+* latin
+* movies-and-soundtracks
+* party
+* pop
+* pop-punk
+* punk
+* punk-rock
+* r&b
+* reggae
+* rock
+* show-tunes-and-musicals
+* singer-songwriter
+* soft-rock
+* soul
+* techno
+* world-music
 
 Note: These genres are from Spotify's genre list.
