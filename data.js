@@ -926,5 +926,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
         genres: ["k-pop"],
         year: 2018
+    }, {
+        title: "Halu",
+        artist: ["Feby Putri"],
+        featuredArtist: [],
+        emojiImgs: "🤔😥😣😞",
+        musicVideo: "https://www.youtube.com/watch?v=8HuVNxmHdvE",
+        genres: ["pop"],
+        year: 2019
     }
 ];
