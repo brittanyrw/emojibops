@@ -1,6 +1,6 @@
 # Genres
 
-Select genres from the list below. If you would like to add a genre not listed, edit this file with your new genre and include it in your pull request. Add new genres in alphabetical order. 
+Select genres from the list below. 
 
 * alternative
 * blues
