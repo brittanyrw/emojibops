@@ -1,14 +1,11 @@
 # Genres
 
-Select genres from the list below. If you would like to add a genre not listed, edit this file with your new genre and include it in your pull request. Add new genres in alphabetical order. 
+Select genres from the list below. 
 
-* alt-rock
-* art rock
 * alternative
 * blues
-* bounce
-* children
-* classic rock
+* childrens
+* classic-rock
 * comedy
 * country
 * dance
@@ -17,43 +14,36 @@ Select genres from the list below. If you would like to add a genre not listed, 
 * edm
 * electronic
 * emo
+* ethnic
 * folk
 * funk
 * garage
-* gospel
 * goth
-* groove
 * grunge
 * guitar
 * hard-rock
 * heavy-metal
 * hip-hop
 * holidays
-* honky-tonk
 * indie
-* indie-pop
 * j-pop
-* j-rock
+* j-pock
 * jazz
 * k-pop
 * latin
-* metal
-* movies
-* opera rock
+* movies-and-soundtracks
 * party
 * pop
 * pop-punk
 * punk
 * punk-rock
-* r-n-b
+* r&b
 * reggae
 * rock
-* show-tunes
+* show-tunes-and-musicals
 * singer-songwriter
-* soft rock
+* soft-rock
 * soul
-* soundtracks
-* summer
 * techno
 * trap
 * world-music
