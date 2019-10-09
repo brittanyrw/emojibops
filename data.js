@@ -450,7 +450,7 @@ const emojiItems = [
         title: "Formation",
         artist: "Beyoncé",
         featuredArtist: [],
-        emojiImgs: "👯🏿 👯🏾 👯🏽 ✊🏿",
+        emojiImgs: "👯👯✊🏿",
         musicVideo: "https://www.youtube.com/watch?v=WDZJPJV__bQ",
         genres: ["trap", "bounce"],
         year: 2016
@@ -514,7 +514,7 @@ const emojiItems = [
         title: "I Want to Hold Your Hand",
         artist: ["The Beatles"],
         featuredArtist: [],
-        emojiImgs: "🙋‍♂️🤝🏾👩",
+        emojiImgs: "🙋🤝👩",
         musicVideo: "https://www.youtube.com/watch?v=jenWdylTtzs",
         genres: ["pop rock"],
         year: 1963
@@ -618,7 +618,7 @@ const emojiItems = [
         title: "Milla",
         artist: ["Netinho"],
         featuredArtist: [],
-        emojiImgs: "1⃣0⃣0⃣1⃣🌃❤🏾",
+        emojiImgs: "1⃣0⃣0⃣1⃣🌃❤",
         musicVideo: "https://www.youtube.com/watch?v=zhrqSwXz8Ic",
         genres: ["axe"],
         year: 1996

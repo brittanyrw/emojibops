@@ -6,7 +6,7 @@ $(document).ready(function () {
   var emojiCard = "";
 
   // Run the random order function below on the data inside data.js. This will display the cards in a random order on the page every time the page is refreshed.
-  console.log(shuffle(emojiItems));
+  shuffle(emojiItems);
 
   // Loop through the data from the data.js file and insert parts of the data into HTML. On each loop, we are appending a new card with the HTML below.
   for (var i in emojiItems) {
