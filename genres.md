@@ -45,6 +45,7 @@ Select genres from the list below.
 * soft-rock
 * soul
 * techno
+* trap
 * world-music
 
 Note: These genres are from Spotify's genre list.

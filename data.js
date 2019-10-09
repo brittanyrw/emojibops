@@ -439,6 +439,38 @@ const emojiItems = [
         genres: ["pop", "pop-dance"],
         year: 2008
     },{
+        title: "Every Rose Has It's Thorn",
+        artist: ["Poison"],
+        featuredArtist: [],
+        emojiImgs: "🌹🤠💔📻",
+        musicVideo: "https://www.youtube.com/watch?v=j2r2nDhTzO4",
+        genres: ["hard rock", "glam metal"],
+        year: 1988
+    },{
+        title: "Formation",
+        artist: "Beyoncé",
+        featuredArtist: [],
+        emojiImgs: "👯🏿 👯🏾 👯🏽 ✊🏿",
+        musicVideo: "https://www.youtube.com/watch?v=WDZJPJV__bQ",
+        genres: ["trap", "bounce"],
+        year: 2016
+    },{
+        title: "Happy",
+        artist: ["Pharrell Williams"],
+        featuredArtist: [],
+        emojiImgs: "😁👏👏",
+        musicVideo: "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
+        genres: ["pop"],
+        year: 2013
+    },{
+        title: "Hakuna Matata",
+        artist: ["Jimmy Cliff","Lebo M"],   
+        featuredArtist: [],
+        emojiImgs: "🦁🐖🐒",
+        musicVideo: "https://www.youtube.com/watch?v=yUioIn8rPPM",
+        genres: ["pop","reggae"],
+        year: 1994
+    },{
         title: "I Heard It Through The Grapevine",
         artist: ["Marvin Gaye"],
         featuredArtist: [],
@@ -494,7 +526,7 @@ const emojiItems = [
         musicVideo: "http://www.youtube.com/watch?v=eH3giaIzONA",
         genres: ["pop", "rb"],
         year: 1987
-    }, {
+    },{
         title: "I Write Sins Not Tragedies",
         artist: ["Panic! at the Disco"],
         featuredArtist: [],
