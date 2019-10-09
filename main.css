@@ -9,11 +9,52 @@ body {
   margin: 0;
 }
 
+@media screen and (min-width: 992px){
+  main {
+    position: relative;
+  }
+  main:before {
+    content: '';
+    position: fixed;
+    left: -150px;
+    width: 140px;
+    height: 140px;
+    bottom: 0;
+    background: #c976ff;
+    border: 82px solid #292932;
+    border-radius: 50%;
+    z-index: -1;
+    animation: backgroundChange 10s infinite;
+  }
+  .sticky-wrapper {
+    position: relative;
+    display: grid;
+    grid-template-columns: min-content 1fr;
+  }
+}
+
+@keyframes backgroundChange {
+  0%,100% { background: #c976ff; }
+  20% { background: #c976ff; }
+  40% { background: #76ffd2; }
+  60% { background: #76b4ff; }
+  80% { background: #ffcd76; }
+}
+
 header {
   max-width: 1000px;
   margin: 0 auto;
 }
 
+@media screen and (min-width: 992px){
+  header {
+    position: sticky;
+    top: 0;
+    align-self: start;
+    padding: 30px 30px 30px 0;
+    margin-right: 30px;
+  }
+}
 
 h1 {
   font-family: 'Fredoka One', cursive;
@@ -30,18 +71,6 @@ h1 {
 
 header img {
   height: 29px;
-}
-
-.heading-content {
-  display: grid;
-  grid-template-columns: 1fr;
-  grid-gap: 20px;
-}
-
-@media screen and (min-width: 662px){
-  .heading-content {
-    grid-template-columns: 2.5fr 1fr;
-  }
 }
 
 .contribute-callout {
@@ -65,7 +94,6 @@ header img {
   text-transform: uppercase;
   display: block;
   transition: .5s;
-  margin-top: 40px;
 }
 
 .contribute-callout a:hover {
@@ -81,7 +109,7 @@ header img {
   background-color: #ff7676;
   margin: 20px 0 0 0;
   border: 1px solid #ff7676;
-  padding: 10px 20px;
+  padding: 0 20px 20px;
 }
 
 h2 {
@@ -90,30 +118,12 @@ h2 {
 
 #songs {
     display: grid;
-    grid-template-columns: 1fr;
+    grid-template-columns: repeat(auto-fill, minmax(225px, 1fr));
     grid-auto-rows: auto;
     grid-gap: 20px;
-    max-width: 1000px;
+    width: 100%;
     margin: 30px auto;
     grid-template-rows: min-content;
-}
-
-@media screen and (min-width: 662px){
-  #songs {
-    grid-template-columns: 1fr 1fr;
-  }
-}
-
-@media screen and (min-width: 992px){
-  #songs {
-    grid-template-columns: 1fr 1fr 1fr;
-  }
-}
-
-@media screen and (min-width: 1200px){
-  #songs {
-    grid-template-columns: 1fr 1fr 1fr 1fr;
-  }
 }
 
 .emoji-card {
@@ -346,7 +356,8 @@ footer img {
 
 .playlist-links-item i {
   background: none;
-  margin-right: 8px;
+  margin: -2px 4px 0 0;
   font-size: 20px;
   color: #3c3a4a;
+  vertical-align: middle;
 }
