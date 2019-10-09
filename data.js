@@ -5,7 +5,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "9️⃣👉5️⃣",
         musicVideo: "https://www.youtube.com/watch?v=UbxUSsFXYo4",
-        genres: ["pop"],
+        genres: ["pop", "country"],
         year: 1980
     },{
         title: "A Whole New World",
@@ -13,7 +13,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🆕🌎💫👸🏽❤️",
         musicVideo: "https://www.youtube.com/watch?v=rg_zwK_sSEY",
-        genres: ["disney", "children music"],
+        genres: ["disney", "childrens"],
         year: 2019
     },{
         title: "Airplanes",
@@ -37,7 +37,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "👱🏻‍♀️👴🏻⚰️👼🏻🎶🙇🏼‍♀️",
         musicVideo: "https://www.youtube.com/watch?v=7lG2zPKo9e4",
-        genres: ["movies"],
+        genres: ["movies-and-soundtracks"],
         year: 2004
     },{
         title: "American Pie",
@@ -45,7 +45,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🇺🇸🥧🎵",
         musicVideo: "https://www.youtube.com/watch?v=iX_TFkut1PM",
-        genres: ["folk-rock", "classic-rock"],
+        genres: ["folk", "rock"],
         year: 1971
     },{
         title: "The Black Parade",
@@ -53,7 +53,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "☠️🥁🧟‍🎸☠️",
         musicVideo: "https://www.youtube.com/watch?v=RRKJiM9Njr8",
-        genres: ["Alternative rock", "emo", "pop punk", "post-hardcore", "punk rock", "hard rock"],
+        genres: ["alternative", "emo", "pop-punk", "punk-rock", "hard-rock"],
         year: 2006
     },{
         title: 'Bleeding Love',
@@ -93,7 +93,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "👑👨‍🎤🎼",
         musicVideo: "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
-        genres: ["art-rock", "opera-rock", "classic-rock"],
+        genres: ["rock", "hard-rock", "classic-rock"],
         year: 1975
     }, {
         title: "Boy With Luv",
@@ -101,7 +101,7 @@ const emojiItems = [
         featuredArtist: ["Halsey"],
         emojiImgs: "🧒🏻💜📸",
         musicVideo: "http://www.youtube.com/watch?v=XsX3ATc3FbA",
-        genres: ["k-pop", "pop"],
+        genres: ["k-pop", "pop", "funk"],
         year: 2019
     },{
         title: "Brown Skin Girl",
@@ -109,7 +109,7 @@ const emojiItems = [
         featuredArtist: ["Blue Ivy Carter"],
         emojiImgs: "👩🏾🕶🦁",
         musicVideo: "https://www.youtube.com/watch?v=RXrhqhW2kiU",
-        genres: ["rb", "afrobeats"],
+        genres: ["r&b"],
         year: 2019
     },{
         title: "Burnin' Up",
@@ -149,7 +149,7 @@ const emojiItems = [
         featuredArtist: ["Olivia"],
         emojiImgs: "🚗👩👱‍♂🛍🍭",
         musicVideo: "https://www.youtube.com/watch?v=SRcnnId15BA",
-        genres: ["Dirty rap"],
+        genres: ["hip-hop"],
         year: 2004
     },{
         title: "Castle on the Hill",
@@ -189,7 +189,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🍒💣🔥",
         musicVideo: "https://www.youtube.com/watch?v=WkuHLzMMTZM",
-        genres: ["edm", "electro-pop", "hip-hop"],
+        genres: ["edm", "pop", "hip-hop"],
         year: 2017
     },{
         title: "Chicken Noodle Soup",
@@ -205,7 +205,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🦁🐘🐖🐒💓",
         musicVideo: "https://www.youtube.com/watch?v=BM-khAJP2cU",
-        genres: ["Soft rock"],
+        genres: ["children", "soft-rock", "movies-and-soundtracks", "disney"],
         year: 1994
     },{
         title: "Circus",
@@ -213,7 +213,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🎪🎪🎪",
         musicVideo: "https://www.youtube.com/watch?v=lVhJ_A8XUgc",
-        genres: ["dance-pop", "electropop"],
+        genres: ["pop", "dance"],
         year: 2008
     },{
         title: "The Climb",
@@ -221,7 +221,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "⛰️🧗‍♀️🧗‍♂️💪",
         musicVideo: "https://www.youtube.com/watch?v=NG2zyeVRcbs",
-        genres: ["pop","acoustic pop"],
+        genres: ["pop","country"],
     },{
         title: "Crown",
         artist: ["TXT"],
@@ -236,7 +236,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "😢🏊‍😢",
         musicVideo: "https://www.youtube.com/watch?v=DksSPZTZES0",
-        genres: ["R&B"],
+        genres: ["r&b", "pop"],
         year: 2002
     },{
         title: "Dancing in the Dark",
@@ -252,7 +252,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "💃👸👑💖✨",
         musicVideo: "https://www.youtube.com/watch?v=xFrGuyw1V8s",
-        genres: ["pop"],
+        genres: ["pop", "disco"],
         year: 1976
     },{
         title: "Dancing in the Dark",
@@ -276,7 +276,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "👦💖👩💎🌟🌟",
         musicVideo: "https://www.youtube.com/watch?v=lWA2pjMjpBs",
-        genres: ["pop", "rb"],
+        genres: ["pop", "r&b"],
         year: 2012
     },{
         title: "Do You Want to Build a Snowman?",
@@ -284,7 +284,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🏗️⛄❓🙍",
         musicVideo: "https://www.youtube.com/watch?v=V-zXT5bIBM0",
-        genres: ["show-tune"],
+        genres: ["show-tunes-and-musicals", "disney"],
         year: 2013
     },{
         title: "Drunk",
@@ -300,7 +300,7 @@ const emojiItems = [
         featuredArtist: "Jay-Z",
         emojiImgs: "🥂💃🌊",
         musicVideo: "https://www.youtube.com/watch?v=p1JPKLa-Ofc",
-        genres: ["R&B", "hip hop", " trap"],
+        genres: ["r&b", "hip-hop", "trap"],
         year: 2013
     },{
         title: "Empire State of Mind",
@@ -316,7 +316,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "👩👨🧑👧📏🌏",
         musicVideo: "https://www.youtube.com/watch?v=aGCdLKXNF3w",
-        genres: ["Rock", "New wave", "Synth-pop", "Pop"],
+        genres: ["rock", "pop"],
         year: 1985
     },{
         title: "Every Rose Has It's Thorn",
@@ -324,7 +324,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🌹🤠💔📻",
         musicVideo: "https://www.youtube.com/watch?v=j2r2nDhTzO4",
-        genres: ["hard rock", "glam metal"],
+        genres: ["hard-rock", "rock"],
         year: 1988
     },{
         title: "Fire",
@@ -363,7 +363,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "👑🛎💨",
         musicVideo: "",
-        genres: ["pop", "hip-hop"],
+        genres: ["hip-hop"],
         year: 1990
     },{
         title: 'Genie in a Bottle',
@@ -396,7 +396,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🦁🐖🐒",
         musicVideo: "https://www.youtube.com/watch?v=yUioIn8rPPM",
-        genres: ["pop", "reggae"],
+        genres: ["pop", "reggae", "childrens", "disney"],
         year: 1994
     },{
         title: "How Could An Angel Break My Heart",
@@ -404,7 +404,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "👼💔😭",
         musicVideo: "https://www.youtube.com/watch?v=qsDJRTzN9FY",
-        genres: ["R&B", "‎soul‎", "pop"],
+        genres: ["r&b", "‎soul‎", "pop"],
         year: 1997
     },{
         title: "Happy",
@@ -428,7 +428,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "📲☎️📞🙋‍💔",
         musicVideo: "https://www.youtube.com/watch?v=YQHsXMglC9A",
-        genres: ["soul"],
+        genres: ["soul", "pop"],
         year: 2015
     },{
         title: "Hot N Cold",
@@ -436,7 +436,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "👰🔥◽️❄️🤵",
         musicVideo: "https://www.youtube.com/watch?v=kTHNpusq654",
-        genres: ["pop", "pop-dance"],
+        genres: ["pop"],
         year: 2008
     },{
         title: "I Heard It Through The Grapevine",
@@ -444,7 +444,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "👂🏻🍇🌿💔",
         musicVideo: "https://www.youtube.com/watch?v=kAPj9oP4q_w",
-        genres: ["Soul","R&B"],
+        genres: ["soul","r&b"],
         year: 1968
     },{
         title: "Hotline Bling",
@@ -452,7 +452,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🔥☎💍",
         musicVideo: "https://www.youtube.com/watch?v=uxpDa-c-4Mc",
-        genres: ["pop", "rb"],
+        genres: ["pop", "r&b"],
         year: 2015
     },{
         title: "I See Fire",
@@ -484,7 +484,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🙋‍♂️🤝🏾👩",
         musicVideo: "https://www.youtube.com/watch?v=jenWdylTtzs",
-        genres: ["pop rock"],
+        genres: ["rock", "pop"],
         year: 1963
     },{
         title: "I Wanna Dance with Somebody",
@@ -492,7 +492,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🕒💃🏽🕺🏽🔥♥️",
         musicVideo: "http://www.youtube.com/watch?v=eH3giaIzONA",
-        genres: ["pop", "rb"],
+        genres: ["pop", "r&b"],
         year: 1987
     }, {
         title: "I Write Sins Not Tragedies",
@@ -508,7 +508,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🏹🍅🥋🤼‍♂️🧨",
         musicVideo: "https://www.youtube.com/watch?v=ZSS5dEeMX64",
-        genres: ["pop"],
+        genres: ["pop", "disney"],
         year: 1998
     },{
         title: "Ice Ice Baby",
@@ -516,7 +516,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🛑👂❄️👶🥶",
         musicVideo: "https://www.youtube.com/watch?v=rog8ou-ZepE",
-        genres: ["hip hop"],
+        genres: ["hip-hop"],
         year: 1989
     },{
         title: "If I Were A Boy",
@@ -524,7 +524,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "♀👩🏿💭🧒🏿♂",
         musicVideo: "https://www.youtube.com/watch?v=AWpsOqh8q0M",
-        genres: ["pop", "r-n-b"],
+        genres: ["pop", "r&b"],
         year: 2008
     },{
         title: "Kill This Love",
@@ -540,7 +540,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "💋❤️👧",
         musicVideo: "https://www.youtube.com/watch?v=TrRbB-qUJfY",
-        genres: ["pop", "calypso"],
+        genres: ["pop", "disney"],
         year: 1989
     },{
         title: "Let It Go",
@@ -548,7 +548,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "❄️👸🏼❄️",
         musicVideo: "https://www.youtube.com/watch?v=moSFlvxnbgk",
-        genres: ["pop", "show-tunes"],
+        genres: ["pop", "show-tunes-and-musicals", "disney"],
         year: 2013
     },{
         title: "Locked Out Of Heaven",
@@ -556,7 +556,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "💏👅🍌🤩🔥",
         musicVideo: "https://www.youtube.com/watch?v=e-fA-gBCkj0",
-        genres: ["pop", "pop rock", "reggae rock"],
+        genres: ["pop", "rock", "reggae"],
         year: 2012
     },{
         title: "Love Yourself",
@@ -564,7 +564,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "💜🧒💜",
         musicVideo: "https://www.youtube.com/watch?v=oyEuk8j8imI",
-        genres: ["pop", "acoustic pop"],
+        genres: ["pop"],
         year: 2015
     },{
         title: "Marry You",
@@ -580,7 +580,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "👨🏾🧥🚫🔥",
         musicVideo: "https://www.youtube.com/watch?v=3M_5oYU-IsU",
-        genres: ["hip-hop", "comedy", "rap"],
+        genres: ["hip-hop", "comedy"],
         year: 2017
     },{
         title: "Milla",
@@ -588,7 +588,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "1⃣0⃣0⃣1⃣🌃❤🏾",
         musicVideo: "https://www.youtube.com/watch?v=zhrqSwXz8Ic",
-        genres: ["axe"],
+        genres: ["soul"],
         year: 1996
     },{
         title: "Mercy",
@@ -644,7 +644,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🧔🚫😭",
         musicVideo: "https://www.youtube.com/watch?v=QLoZhUpzNzQ",
-        genres: ["arrocha","sofrencia"],
+        genres: ["latin", "pop"],
         year: 2014
     },{
         title: "Paracetamol",
@@ -652,7 +652,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "💊💊💊",
         musicVideo: "https://www.youtube.com/watch?v=iqojQJGt-Vo",
-        genres: ["alternative rock", "indie", "rock"],
+        genres: ["alternative", "indie", "rock"],
         year: 2016
     },{
         title: "Party in the USA",
@@ -668,7 +668,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🎹🤵🏻🎶",
         musicVideo: "https://www.youtube.com/watch?v=gxEPV4kolz0",
-        genres: ["Soft rock"],
+        genres: ["soft-rock"],
         year: 1973
     },{
         title: "Poker Face",
@@ -680,8 +680,8 @@ const emojiItems = [
         year: 2008
     },{
         title: "Ring of Fire",
-        artist: ["Jay-Z"],
-        featuredArtist: ["Johnny Cash"],
+        artist: ["Johnny Cash"],
+        featuredArtist: [],
         emojiImgs: "💍🔥👅❤️",
         musicVideo: "https://www.youtube.com/watch?v=ZxgE4MZkJV4",
         genres: ["rock", "country"],
@@ -700,7 +700,7 @@ const emojiItems = [
         featuredArtist: ["Krayzie Bone"],
         emojiImgs: "🚙🌃⛽",
         musicVideo: "https://www.youtube.com/watch?v=CtwJvgPJ9xw",
-        genres: ["hip hop"],
+        genres: ["hip-hop"],
         year: 2005
     },{
         title: "Paparazzi",
@@ -716,7 +716,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🎶💃🍸🥂🍻",
         musicVideo: "https://www.youtube.com/watch?v=XjVNlG5cZyQ",
-        genres: ["pop","pop rock"],
+        genres: ["pop", "rock"],
         year: 2010
     },{
         title: "Rise up",
@@ -724,7 +724,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "👩🙌🌊",
         musicVideo: "https://www.youtube.com/watch?v=kNKu1uNBVkU",
-        genres: ["r-n-b", "soul"],
+        genres: ["r&b", "soul"],
         year: 2015
     },{
         title: "Rocketman",
@@ -732,7 +732,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🚀👨🌑",
         musicVideo: "https://www.youtube.com/watch?v=DtVBCG6ThDk",
-        genres: ["soft rock"],
+        genres: ["soft-rock"],
         year: 1972
     },{
         title: "Stan",
@@ -740,7 +740,7 @@ const emojiItems = [
         featuredArtist: ["Dido"],
         emojiImgs: "✉️👱🏻🙍🏼👼🏻",
         musicVideo: "https://www.youtube.com/watch?v=gOMhN-hfMtY",
-        genres: ["hip-hop", "horrorcore"],
+        genres: ["hip-hop"],
         year: 2000
     },{
         title: "Sk8er Boi",
@@ -748,7 +748,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🙅‍♀️🏂👨‍🎤👫🙇‍♀️🤱",
         musicVideo: "https://www.youtube.com/watch?v=TIy3n2b7V9k",
-        genres: ["pop-punk", "power-pop", "skate-punk"],
+        genres: ["pop-punk", "pop"],
         year: 2002
     },{
         title: "Smells Like Teen Spirit",
@@ -756,7 +756,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "👃👦👻",
         musicVideo: "https://www.youtube.com/watch?v=hTWKbfoikeg",
-        genres: ["grunge"],
+        genres: ["grunge", "alternative"],
         year: 1991
     },{
         title: "Spanish Guitar",
@@ -764,7 +764,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "💑🎸🇪🇸",
         musicVideo: "https://www.youtube.com/watch?v=bvd3qCnsAaY",
-        genres: ["R&B", "‎soul‎", "pop"],
+        genres: ["r&b", "‎soul‎", "pop"],
         year: 2000
     },{
         title: "The Scientist",
@@ -780,7 +780,7 @@ const emojiItems = [
         featuredArtist: ["Drake"],
         emojiImgs: "🎪🎢👨‍👩‍👧💸🌴",
         musicVideo: "https://www.youtube.com/watch?v=6ONRf7h3Mdk",
-        genres: ["hip hop"],
+        genres: ["hip-hop"],
         year: 2018
     },{
         title: "Smooth Criminal",
@@ -820,7 +820,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🏠🦌👨🪁🎸💏",
         musicVideo: "https://www.youtube.com/watch?v=uhG-vLZrb-g",
-        genres: ["rock"],
+        genres: ["pop-punk", "emo"],
         year: 2004
     },{
         title: "Take Me Out To The Ball Game",
@@ -828,7 +828,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "🏟⚾️🥜🗣🔢🚫",
         musicVideo: "https://www.youtube.com/watch?v=q4-gsdLSSQ0",
-        genres: ["tin pan alley"],
+        genres: ["pop"],
         year: 1908
     },{
         title: "Teardrops on My Guitar",
@@ -868,7 +868,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "⏰👱‍♀🕒",
         musicVideo: "https://www.youtube.com/watch?v=iP6XpLQM2Cs",
-        genres: ["dance-pop"],
+        genres: ["dance", "pop"],
         year: 2009
     },{
         title: "Truckin",
@@ -908,7 +908,7 @@ const emojiItems = [
         featuredArtist: [],
         emojiImgs: "👇🌊🧜‍♀️🦞",
         musicVideo: "https://www.youtube.com/watch?v=GC_mV1IpjWA",
-        genres: ["pop", "disney", "reggae", "show-tunes"],
+        genres: ["pop", "disney", "reggae", "show-tunes-and-musicals"],
         year: 1989
     },{
         title: "Walk Like an Egyptian",
