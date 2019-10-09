@@ -1,7 +1,5 @@
 # EmojiBops 🎶 
 
-## 🚧 Contributions are paused for this project at the moment. 
-
 ## A listing of songs depicted through emojis.
 [Visit emojibops.com](https://emojibops.com)
 

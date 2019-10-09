@@ -80,6 +80,14 @@ const emojiItems = [
         genres: ["dance","electronic","hip-hop"], 
         year: 2010
     },{
+        title: "...Baby One More Time",
+        artist: ["Britney Spears"],
+        featuredArtist: [],
+        emojiImgs: "🥊👶1️⃣➕⏰",
+        musicVideo: "https://www.youtube.com/watch?v=C-u5WLJ9Yk4",
+        genres: ["pop"],
+        year: 1998
+    },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
@@ -87,7 +95,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
         genres: ["art-rock", "opera-rock", "classic-rock"],
         year: 1975
-    },{
+    }, {
         title: "Boy With Luv",
         artist: ["BTS"],
         featuredArtist: ["Halsey"],
@@ -151,7 +159,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=K0ibBPhiaG0",
         genres: ["pop", "singer-songwriter"],
         year: 2017
-	},{
+	  },{
         title: "Sing",
         artist: ["Ed Sheeran"],
         featuredArtist: ["Pharrell Williams"],
@@ -167,7 +175,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=GemKqzILV4w",
         genres: ["alternative", "indie", "rock"],
         year: 2006
-    },{
+    }, {
         title: "Cheetah Sisters",
         artist: ["The Cheetah Girls"],
         featuredArtist: [],
@@ -208,12 +216,19 @@ const emojiItems = [
         genres: ["dance-pop", "electropop"],
         year: 2008
     },{
+        title: "The Climb",
+        artist: ["Miley Cyrus"],
+        featuredArtist: [],
+        emojiImgs: "⛰️🧗‍♀️🧗‍♂️💪",
+        musicVideo: "https://www.youtube.com/watch?v=NG2zyeVRcbs",
+        genres: ["pop","acoustic pop"],
+    },{
         title: "Crown",
         artist: ["TXT"],
         featuredArtist: [],
         emojiImgs: "🇰🇷👑🕺",
         musicVideo: "https://www.youtube.com/watch?v=W3iSnJ663II",
-        genres: ["k-pop, pop, dance"],
+        genres: ["k-pop", "pop", "dance"],
         year: 2019
     },{
         title: "Cry Me A River",
@@ -377,7 +392,7 @@ const emojiItems = [
         year: 2007
     },{
         title: "Hakuna Matata",
-        artist: ["Jimmy Cliff", "Lebo M"],
+        artist: ["Jimmy Cliff","Lebo M"],
         featuredArtist: [],
         emojiImgs: "🦁🐖🐒",
         musicVideo: "https://www.youtube.com/watch?v=yUioIn8rPPM",
@@ -424,6 +439,38 @@ const emojiItems = [
         genres: ["pop", "pop-dance"],
         year: 2008
     },{
+        title: "Every Rose Has It's Thorn",
+        artist: ["Poison"],
+        featuredArtist: [],
+        emojiImgs: "🌹🤠💔📻",
+        musicVideo: "https://www.youtube.com/watch?v=j2r2nDhTzO4",
+        genres: ["hard rock", "glam metal"],
+        year: 1988
+    },{
+        title: "Formation",
+        artist: "Beyoncé",
+        featuredArtist: [],
+        emojiImgs: "👯👯✊🏿",
+        musicVideo: "https://www.youtube.com/watch?v=WDZJPJV__bQ",
+        genres: ["trap", "bounce"],
+        year: 2016
+    },{
+        title: "Happy",
+        artist: ["Pharrell Williams"],
+        featuredArtist: [],
+        emojiImgs: "😁👏👏",
+        musicVideo: "https://www.youtube.com/watch?v=y6Sxv-sUYtM",
+        genres: ["pop"],
+        year: 2013
+    },{
+        title: "Hakuna Matata",
+        artist: ["Jimmy Cliff","Lebo M"],   
+        featuredArtist: [],
+        emojiImgs: "🦁🐖🐒",
+        musicVideo: "https://www.youtube.com/watch?v=yUioIn8rPPM",
+        genres: ["pop","reggae"],
+        year: 1994
+    },{
         title: "I Heard It Through The Grapevine",
         artist: ["Marvin Gaye"],
         featuredArtist: [],
@@ -467,7 +514,7 @@ const emojiItems = [
         title: "I Want to Hold Your Hand",
         artist: ["The Beatles"],
         featuredArtist: [],
-        emojiImgs: "🙋‍♂️🤝🏾👩",
+        emojiImgs: "🙋🤝👩",
         musicVideo: "https://www.youtube.com/watch?v=jenWdylTtzs",
         genres: ["pop rock"],
         year: 1963
@@ -568,6 +615,14 @@ const emojiItems = [
         genres: ["hip-hop", "comedy", "rap"],
         year: 2017
     },{
+        title: "Milla",
+        artist: ["Netinho"],
+        featuredArtist: [],
+        emojiImgs: "1⃣0⃣0⃣1⃣🌃❤",
+        musicVideo: "https://www.youtube.com/watch?v=zhrqSwXz8Ic",
+        genres: ["axe"],
+        year: 1996
+    },{
         title: "Mercy",
         artist: ["Shawn Mendes"],
         featuredArtist: [],
@@ -615,6 +670,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=w2Ov5jzm3j8",
         genres: ["hip-hop", "pop"],
         year: 2019
+    },{
+        title: "Porque Homem Não Chora",
+        artist: ["Pablo"],
+        featuredArtist: [],
+        emojiImgs: "🧔🚫😭",
+        musicVideo: "https://www.youtube.com/watch?v=QLoZhUpzNzQ",
+        genres: ["arrocha","sofrencia"],
+        year: 2014
     },{
         title: "Paracetamol",
         artist: ["Declan McKenna"],
@@ -752,6 +815,14 @@ const emojiItems = [
         genres: ["hip hop"],
         year: 2018
     },{
+        title: "Smooth Criminal",
+        artist: ["Michael Jackson"],
+        featuredArtist: [],
+        emojiImgs: "🚶🏻‍♂️🚶🏻‍♂️🌑",
+        musicVideo: "https://www.youtube.com/watch?v=h_D3VFfhvs4",
+        genres: ["pop"],
+        year: 1987
+    },{
         title: "Stone Cold",
         artist: ["Demi Lovato"],
         featuredArtist: [],
@@ -792,11 +863,27 @@ const emojiItems = [
         genres: ["tin pan alley"],
         year: 1908
     },{
+        title: "Teardrops on My Guitar",
+        artist: ["Taylor Swift"],
+        featuredArtist: [],
+        emojiImgs: "🎸💔♀️💃🏾",
+        musicVideo: "https://www.youtube.com/watch?v=xKCek6_dB0M",
+        genres: ["country", "pop"],
+        year: 2007
+    },{
         title: "thank u, next",
         artist: ["Ariana Grande"],
         featuredArtist: [],
         emojiImgs: "🙌🏼💔🙌🏼💔🙌🏼💁🏻‍♀️",
         musicVideo: "https://www.youtube.com/watch?v=gl1aHhXnN1k",
+        genres: ["pop"],
+        year: 2019
+    },{
+        title: "Thunderclouds",
+        artist: ["LSD"],
+        featuredArtist: ["Sia", "Diplo", "Labrinth"],
+        emojiImgs: "⚡☁️🚗♂️👧♀️🤘",
+        musicVideo: "https://www.youtube.com/watch?v=kg1BljLu9YY",
         genres: ["pop"],
         year: 2019
     },{
