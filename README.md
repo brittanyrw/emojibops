@@ -26,18 +26,19 @@ To add a song to this project, you will need to add an `Emoji Card` inside of th
 
 Below is an example of what a song looks like on the website:
 
-![Screenshot of Beauty and the Beast Emoji Card](/readme/emoji-card.png)
+![Screenshot of emoji cards](/readme/emojibops-card.png)
 
 In the `data.js` file, each `Emoji Card` consists of the following object:
 
 ```
 {
-  title: "Beauty and the Beast",
-  emojiImgs: "🏰🥀🎶📚🕰️",
-  genres: ["animation", "family", "fantasy"],
-  itemLink: "https://www.imdb.com/title/tt0101414/",
-  type: "movie",
-  year: 1991
+  title: "Boy With Luv",
+  artist: ["BTS"],
+  featuredArtist: ["Halsey"],
+  emojiImgs: "🧒🏻💜📸",
+  musicVideo: "https://www.youtube.com/watch?v=XsX3ATc3FbA",
+  genres: ["k-pop", "pop"],
+  year: 2019
 }
 ```
 
