@@ -62,14 +62,13 @@ Below are detailed walkthroughs on how to add a show or movie to EmojiScreen.
 
 Check out my other emoji themed projects.
 
-### 🎶 EmojiBops: A listing of songs depicted via emojis.
-* View [EmojiBops.com](https://emojibops.com).
-* View EmojiBops [on Github](https://github.com/brittanyrw/emojibops/).
+### 🎶 EmojiScreen: A listing of movies, TV shows and musicals depicted via emojis.
+* View [EmojiScreen.com](https://emojiscreen.com).
+* View EmojiScreen [on Github](https://github.com/brittanyrw/emojiscreen/).
 
 ### 📚 EmojiPages: A listing of songs depicted via emojis.
 * View [EmojiPages.com](https://emojipages.com).
 * View EmojiPages [on Github](https://github.com/brittanyrw/emojipages/).
-
 
 ## Git and GitHub Resources 📚
 * [Git Handbook](https://guides.github.com/introduction/git-handbook/)
