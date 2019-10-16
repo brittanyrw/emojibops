@@ -12,7 +12,7 @@
 
 ### Local Development Instructions
 
-1.  Check the [Issues](https://github.com/brittanyrw/emojibops/labels/add%20songs) to find a show or movie to add. Find an Issue that has not been assigned to someone and comment inside of that Issue asking to work on it. Make sure the Issue does not have a `needs review` label. This label means that the Issue has been added by someone that is not a maintainer and has not been approved yet. Once the Issue has been assigned to you, continue to the next step. Wait until you are assigned before continuring. If there are no open Issues, please check the project later for new Issues. Only add a card if you are assigned an Issue.
+1.  Check the [Issues](https://github.com/brittanyrw/emojibops/labels/add%20songs) to find a song to add. Find an Issue that has not been assigned to someone and comment inside of that Issue asking to work on it. Make sure the Issue does not have a `needs review` label. This label means that the Issue has been added by someone that is not a maintainer and has not been approved yet. Once the Issue has been assigned to you, continue to the next step. Wait until you are assigned before continuring. If there are no open Issues, please check the project later for new Issues. Only add a card if you are assigned an Issue.
 2. Fork this repository. This will create a copy of the repository and create a new repository on your account.
 3. Once the repo is forked, you will be taken to the forked repo.
 4. Download the project to your computer. Click on the `Clone or Download` button. Copy the HTTPS github repo link.
