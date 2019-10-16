@@ -1,5 +1,13 @@
 const emojiItems = [
     {
+        title: "Gantian Dong",
+        artist: ["Warkop DKI"],
+        featuredArtist: [],
+        emojiImgs: "😀🎈👩",
+        musicVideo: "https://www.youtube.com/watch?v=31EYXiaMaEQ",
+        genres: ["POP"],
+        year: 1985
+    },{
         title: "Satu Hati Sampai Mati",
         artist: ["Thomas Arya feat Elsa Pitaloka"],
         featuredArtist: [],
