@@ -1,5 +1,13 @@
 const emojiItems = [
     {
+        title: "Satu Hati Sampai Mati",
+        artist: ["Thomas Arya feat Elsa Pitaloka"],
+        featuredArtist: [],
+        emojiImgs: "❤🤦‍🚗",
+        musicVideo: "https://www.youtube.com/watch?v=MBxnFgUk4x0",
+        genres: ["POP"],
+        year: 2016
+    },{
         title: "Banyu Langit",
         artist: ["Didi Kempot"],
         featuredArtist: [],
