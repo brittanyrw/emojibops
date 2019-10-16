@@ -1,5 +1,13 @@
 const emojiItems = [
     {
+        title: "Banyu Langit",
+        artist: ["Didi Kempot"],
+        featuredArtist: [],
+        emojiImgs: "❤😢🏕",
+        musicVideo: "https://www.youtube.com/watch?v=20_CyA4CCTs",
+        genres: ["Campur Sari"],
+        year: 2016
+    },{
         title: "9 to 5",
         artist: ["Dolly Parton"],
         featuredArtist: [],
