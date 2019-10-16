@@ -1,5 +1,13 @@
 const emojiItems = [
     {
+        title: "Mungkinkah",
+        artist: ["Stinky"],
+        featuredArtist: [],
+        emojiImgs: "😥💕🎶🤷‍♀️",
+        musicVideo: "https://www.youtube.com/watch?v=hw7jnRtFzFo",
+        genres: ["POP"],
+        year: 2009
+    },{
         title: "Gantian Dong",
         artist: ["Warkop DKI"],
         featuredArtist: [],
