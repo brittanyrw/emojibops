@@ -96,6 +96,14 @@ const emojiItems = [
         genres: ["art-rock", "opera-rock", "classic-rock"],
         year: 1975
     }, {
+        title: "Born in the USA",
+        artist: ["Bruce Springsteen"],
+        featuredArtist: [],
+        emojiImgs: "🇺🇸🇻🇳🔫💪🏭🇺🇸",
+        musicVideo: "https://www.youtube.com/watch?v=EPhWR4d3FJQ",
+        genres: ["country", "folk", "pop"],
+        year: 1984
+    }, {
         title: "Boy With Luv",
         artist: ["BTS"],
         featuredArtist: ["Halsey"],
