@@ -255,14 +255,6 @@ const emojiItems = [
         genres: ["pop"],
         year: 1976
     },{
-        title: "Dancing in the Dark",
-        artist: ["Bruce Springsteen"],
-        featuredArtist: [],
-        emojiImgs: "💃🏽🕺🌃",
-        musicVideo: "https://www.youtube.com/watch?v=129kuDCQtHs",
-        genres: ["rock", "classic-rock"],
-        year: 1984
-    },{
         title: "The Devil Went Down to Georgia",
         artist: ["Charlie Daniels Band"],
         featuredArtist: [],
