@@ -1,5 +1,14 @@
 const emojiItems = [
     {
+        title: "15 Step",
+        artist: ["Radiohead"],
+        featuredArtist: [],
+        emojiImgs: "😬🥁🕔",
+        musicVideo: "https://www.youtube.com/watch?v=JrVKSKQKO1c",
+        genres: ["Alt Rock"],
+        year: 2007
+    },
+    {
         title: "9 to 5",
         artist: ["Dolly Parton"],
         featuredArtist: [],
