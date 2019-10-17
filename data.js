@@ -7,7 +7,18 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=UbxUSsFXYo4",
         genres: ["pop"],
         year: 1980
-    },{
+    },
+    {
+        title: "Bad Guy",
+        artist: ["Billie Eilish"],
+        featuredArtist: [],
+        emojiImgs: "😒😎👊🏻💯",
+        musicVideo: "https://www.youtube.com/watch?v=DyDfgMOUjCI",
+        genres: ["pop-trap"],
+        year: 2019
+
+    },
+    {
         title: "A Whole New World",
         artist: ["ZAYN", "Zhavia Ward"],
         featuredArtist: [],
