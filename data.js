@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["folk-rock", "classic-rock"],
         year: 1971
     },{
+        title: "Better Now",
+        artist: ["Post Malone"],
+        featuredArtist: [],
+        emojiImgs: "😊😁👍😎🎶😃",
+        musicVideo: "https://www.youtube.com/watch?v=UYwF-jdcVjY",
+        genres: ["pop", "rap"],
+        year: 2018
+    },{
         title: "The Black Parade",
         artist: ["My Chemical Romance"],
         featuredArtist: [],
