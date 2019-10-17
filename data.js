@@ -8,6 +8,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 1980
     },{
+        title: "The Archer",
+        artist: ["Taylor Swift"],
+        featuredArtist: [],
+        emojiImgs: "🏹✨💁💫",
+        musicVideo: "https://www.youtube.com/watch?v=8KpKc3C9V3w",
+        genres: ["pop"],
+        year: 2019
+    },{
         title: "A Whole New World",
         artist: ["ZAYN", "Zhavia Ward"],
         featuredArtist: [],
@@ -72,12 +80,12 @@ const emojiItems = [
         genres: ["k-pop", "pop"],
         year: 2016,
     },{
-        title: "Alors On Danse", 
-        artist: ["Stromae"], 
-        featuredArtist: [], 
-        emojiImgs: '🇧🇪💃🕺🐶', 
-        musicVideo: 'https://www.youtube.com/watch?v=VHoT4N43jK8', 
-        genres: ["dance","electronic","hip-hop"], 
+        title: "Alors On Danse",
+        artist: ["Stromae"],
+        featuredArtist: [],
+        emojiImgs: '🇧🇪💃🕺🐶',
+        musicVideo: 'https://www.youtube.com/watch?v=VHoT4N43jK8',
+        genres: ["dance","electronic","hip-hop"],
         year: 2010
     },{
         title: "...Baby One More Time",
@@ -464,7 +472,7 @@ const emojiItems = [
         year: 2013
     },{
         title: "Hakuna Matata",
-        artist: ["Jimmy Cliff","Lebo M"],   
+        artist: ["Jimmy Cliff","Lebo M"],
         featuredArtist: [],
         emojiImgs: "🦁🐖🐒",
         musicVideo: "https://www.youtube.com/watch?v=yUioIn8rPPM",
