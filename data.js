@@ -24,6 +24,14 @@ const emojiItems = [
         genres: ["hip-hop"],
         year: 2010
     },{
+        title: "American Girl",
+        artist: ["Tom Petty & The Heartbreakers"],
+        featuredArtist: [],
+        emojiImgs: "🇺🇸👧🇺🇸",
+        musicVideo: [],
+        genres: ["pop rock", "rock"],
+        year: 1976
+    },{
         title: "Applause",
         artist: ["Lady Gaga"],
         featuredArtist: [],
