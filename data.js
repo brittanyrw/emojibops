@@ -727,6 +727,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2008
     },{
+        title: "Pour Some Sugar On Me",
+        artist: ["Def Leppard"],
+        featuredArtist: [],
+        emojiImgs: "💘💣🧂🙋‍♂️💘",
+        musicVideo: "https://www.youtube.com/watch?v=xU7yLn5DYQM",
+        genres: ["rock"],
+        year: 1987
+    },{
         title: "Ring of Fire",
         artist: ["Jay-Z"],
         featuredArtist: ["Johnny Cash"],
