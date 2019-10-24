@@ -104,6 +104,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 1998
     },{
+        title: "Believer",
+        artist: ["Imagine Dragons"],
+        featuredArtist: [],
+        emojiImgs: "🎤🕺⚡️👨‍ 🐉",
+        musicVideo: "https://www.youtube.com/watch?v=7wtfhZwyrcc",
+        genres: ["rock", "pop"],
+        year: 2017
+    },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
