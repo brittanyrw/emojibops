@@ -607,6 +607,14 @@ const emojiItems = [
         genres: ["pop", "pop rock", "reggae rock"],
         year: 2012
     },{
+        title: 'Loose yourself',
+        artist: ['Eminem'],
+        featuredArtist: [],
+        emojiImgs: '🤢🤮🍝',
+        musicVideo: 'https://www.youtube.com/watch?v=_Yhyp-_hX2s',
+        genres: ['Hip hop', 'Rap rock'],
+        year: 2002,
+    },{
         title: "Love Yourself",
         artist: ["Justin Bieber"],
         featuredArtist: [],
