@@ -176,6 +176,14 @@ const emojiItems = [
         genres: ["Dirty rap"],
         year: 2004
     },{
+    	title: "Caribbean Queen (No More Love on the Run)",
+        artist: ["Billy Ocean"],
+        featuredArtist: [],
+        emojiImgs: "🌴🌊🦀👸👑",
+        musicVideo: "https://www.youtube.com/watch?v=uxX2gA18grk",
+        genres: ["Post disco"],
+        year: 1984
+    },{
         title: "Castle on the Hill",
         artist: ["Ed Sheeran"],
         featuredArtist: [],
