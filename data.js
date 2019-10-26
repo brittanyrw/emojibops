@@ -982,5 +982,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=MBdVXkSdhwU",
         genres: ["k-pop"],
         year: 2017
+    },{
+        title: "México en la piela",
+        artist: ["José Manuel Fernández Espinosa "],
+        featuredArtist: [],
+        emojiImgs: "",
+        musicVideo: "https://www.youtube.com/watch?v=rhYPiLXCGqE",
+        genres: ["Regional Mexicano"],
+        year: 1990
     }
 ];
