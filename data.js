@@ -986,7 +986,7 @@ const emojiItems = [
         title: "México en la piela",
         artist: ["José Manuel Fernández Espinosa "],
         featuredArtist: [],
-        emojiImgs: "",
+        emojiImgs: "❤️🇲🇽👨‍👩‍👧‍👦🇲🇽❤️",
         musicVideo: "https://www.youtube.com/watch?v=rhYPiLXCGqE",
         genres: ["Regional Mexicano"],
         year: 1990
