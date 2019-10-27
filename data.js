@@ -863,6 +863,14 @@ const emojiItems = [
         genres: ["country", "pop"],
         year: 2007
     },{
+        title: "Thank God",
+        artist: ["Sasha Sloan"],
+        featuredArtist: [],
+        emojiImgs: "👼🍆✝️🍾😈",
+        musicVideo: "https://www.youtube.com/watch?v=71WDaaRk9nk",
+        genres: ["indie", "pop", "indie pop"],
+        year: 2019
+    },{
         title: "thank u, next",
         artist: ["Ariana Grande"],
         featuredArtist: [],
