@@ -815,6 +815,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 1987
     },{
+        title: "Start Wearing Purple",
+        artist: ["Gogol Bordello"],
+        featuredArtist: [],
+        emojiImgs: "🔮🤥👚🤪",
+        musicVideo: "",
+        genres: ["gypsy", "punk", "ukranian"],
+        year: 1999
+    },{
         title: "Stone Cold",
         artist: ["Demi Lovato"],
         featuredArtist: [],
