@@ -990,5 +990,13 @@ const emojiItems = [
 	musicVideo: "https://www.youtube.com/watch?v=VikHHWrgb4Y",
 	genres: ["pop"],
 	year: 2019
+    },{
+	title: "Paper Rings",
+	artist: ["Taylor Swift"],
+	featuredArtist: [],
+	emojiImgs: "📃💍✨🖼💭",
+	musicVideo: "https://www.youtube.com/watch?v=8zdg-pDF10g",
+	genres: ["pop"],
+	year: 2019
     }
 ];
