@@ -982,5 +982,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=MBdVXkSdhwU",
         genres: ["k-pop"],
         year: 2017
+    },{
+	title: "Cornelia Street",
+	artist: ["Taylor Swift"],
+	featuredArtist: [],
+	emojiImgs: "🛣🚶‍♀️💔⏳🏙📛",
+	musicVideo: "https://www.youtube.com/watch?v=VikHHWrgb4Y",
+	genres: ["pop"],
+	year: 2019
     }
 ];
