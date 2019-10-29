@@ -982,5 +982,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=MBdVXkSdhwU",
         genres: ["k-pop"],
         year: 2017
+    },{
+        title: "FHERO",
+        artist: ["F.HERO"],
+        featuredArtist: [],
+        emojiImgs: "🤘😗🤘",
+        musicVideo: "https://www.youtube.com/watch?v=ArYW19f52_Y",
+        genres: ["rock"],
+        year: 2017
     }
 ];
