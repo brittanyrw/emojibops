@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "GhostBusters",
+        artist: ["Ray Parker Jr."],
+        featuredArtist: [],
+        emojiImgs: "👻🚫🎵",
+        musicVideo: "https://www.youtube.com/watch?v=m9We2XsVZfc",
+        genres: ["Dance-pop"],
+        year: 1984
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
