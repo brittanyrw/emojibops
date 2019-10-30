@@ -51,6 +51,7 @@ Below are detailed walkthroughs on how to add a show or movie to EmojiScreen.
 * [Add a show or movie using your local development environment](docs/local_dev_walkthrough.md) (downloads required, most commonly used way to contribute).
 
 ### Important Notes 🚨
+* The song you are adding must have lyrics.
 * Follow all the instructions in the [Card Overview](/docs/card_overview.md) for adding a song.
 * Search the data.js file and pull requests to make sure you are not adding a duplicate.
 * Make sure your emojis actually depict the song.
