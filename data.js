@@ -104,6 +104,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 1998
     },{
+        title: "Bang Bang",
+        artist: ["Jessie J"],
+        featuredArtist: ["Ariana Grande & Nicki Minaj"],
+        emojiImgs: "👧💥👩💥👩",
+        musicVideo: "https://www.youtube.com/watch?v=0HDdjwpPM3Y",
+        genres: ["pop"],
+        year: 2014
+    },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
