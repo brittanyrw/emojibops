@@ -783,6 +783,14 @@ const emojiItems = [
         genres: ["soft rock"],
         year: 1972
     },{
+        title: "Sleepwalking",
+        artist: ["Bring Me The Horizon"],
+        featuredArtist: [],
+        emojiImgs: "🛌😴🚶",
+        musicVideo: "https://www.youtube.com/watch?v=1EA8g4-vEAQ",
+        genres: ["rock", "metal"],
+        year: 2013
+    },{
         title: "Stan",
         artist: ["Eminem"],
         featuredArtist: ["Dido"],
