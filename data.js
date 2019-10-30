@@ -104,6 +104,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 1998
     },{
+        title: "Bang Bang",
+        artist: ["Jessie J"],
+        featuredArtist: ["Ariana Grande & Nicki Minaj"],
+        emojiImgs: "👧💥👩💥👩",
+        musicVideo: "https://www.youtube.com/watch?v=0HDdjwpPM3Y",
+        genres: ["pop"],
+        year: 2014
+    },{
         title: "Believer",
         artist: ["Imagine Dragons"],
         featuredArtist: [],
@@ -414,6 +422,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=Bg59q4puhmg",
         genres: ["pop"],
         year: 2007
+    },{
+        title: "Girl On Fire",
+        artist: ["Alicia Keys"],
+        featuredArtist: [],
+        emojiImgs: "👉👧🔥",
+        musicVideo: "https://www.youtube.com/watch?v=J91ti_MpdHA",
+        genres: ["r&b"],
+        year: 2012
     },{
         title: "Hakuna Matata",
         artist: ["Jimmy Cliff","Lebo M"],
