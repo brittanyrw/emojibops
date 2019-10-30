@@ -639,6 +639,14 @@ const emojiItems = [
         genres: ["pop", "pop rock", "reggae rock"],
         year: 2012
     },{
+        title: "Love Story",
+        artist: ["Taylor Swift"],
+        featuredArtist: [],
+        emojiImgs: "❤️📔👸🤴💑",
+        musicVideo: "https://www.youtube.com/watch?v=8xg3vE8Ie_E",
+        genres: ["pop", "Country pop"],
+        year: 2008
+    },{
         title: "Love Yourself",
         artist: ["Justin Bieber"],
         featuredArtist: [],
