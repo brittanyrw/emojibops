@@ -104,6 +104,22 @@ const emojiItems = [
         genres: ["pop"],
         year: 1998
     },{
+        title: "Bang Bang",
+        artist: ["Jessie J"],
+        featuredArtist: ["Ariana Grande & Nicki Minaj"],
+        emojiImgs: "👧💥👩💥👩",
+        musicVideo: "https://www.youtube.com/watch?v=0HDdjwpPM3Y",
+        genres: ["pop"],
+        year: 2014
+    },{
+        title: "Believer",
+        artist: ["Imagine Dragons"],
+        featuredArtist: [],
+        emojiImgs: "🎤🕺⚡️👨‍ 🐉",
+        musicVideo: "https://www.youtube.com/watch?v=7wtfhZwyrcc",
+        genres: ["rock", "pop"],
+        year: 2017
+    },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
@@ -175,6 +191,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=SRcnnId15BA",
         genres: ["Dirty rap"],
         year: 2004
+    },{
+    	title: "Caribbean Queen (No More Love on the Run)",
+        artist: ["Billy Ocean"],
+        featuredArtist: [],
+        emojiImgs: "🌴🌊🦀👸👑",
+        musicVideo: "https://www.youtube.com/watch?v=uxX2gA18grk",
+        genres: ["Post disco"],
+        year: 1984
     },{
         title: "Castle on the Hill",
         artist: ["Ed Sheeran"],
@@ -407,6 +431,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2007
     },{
+        title: "Girl On Fire",
+        artist: ["Alicia Keys"],
+        featuredArtist: [],
+        emojiImgs: "👉👧🔥",
+        musicVideo: "https://www.youtube.com/watch?v=J91ti_MpdHA",
+        genres: ["r&b"],
+        year: 2012
+    },{
         title: "Hakuna Matata",
         artist: ["Jimmy Cliff","Lebo M"],
         featuredArtist: [],
@@ -607,6 +639,14 @@ const emojiItems = [
         genres: ["pop", "pop rock", "reggae rock"],
         year: 2012
     },{
+        title: "Love Story",
+        artist: ["Taylor Swift"],
+        featuredArtist: [],
+        emojiImgs: "❤️📔👸🤴💑",
+        musicVideo: "https://www.youtube.com/watch?v=8xg3vE8Ie_E",
+        genres: ["pop", "Country pop"],
+        year: 2008
+    },{
         title: "Love Yourself",
         artist: ["Justin Bieber"],
         featuredArtist: [],
@@ -790,6 +830,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=4m1EFMoRFvY",
         genres: ["pop","r&b"],
         year: 2008
+    },{ 
+        title: "Sleepwalking",
+        artist: ["Bring Me The Horizon"],
+        featuredArtist: [],
+        emojiImgs: "🛌😴🚶",
+        musicVideo: "https://www.youtube.com/watch?v=1EA8g4-vEAQ",
+        genres: ["rock", "metal"],
+        year: 2013
     },{
         title: "Stan",
         artist: ["Eminem"],
