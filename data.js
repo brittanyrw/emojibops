@@ -112,6 +112,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2015
     },{
+        title: "Tequila",
+        artist: ["The Champs"],
+        featuredArtist: [],
+        emojiImgs: "🎶🥃🎶",
+        musicVideo: "https://www.youtube.com/watch?v=Uyl7GP_VMJY",
+        genres: ["Instumental rock, Latin rock"],
+        year: 1958
+    },{
         title: "thank u, next",
         artist: ["Ariana Grande"],
         featuredArtist: [],
