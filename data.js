@@ -407,6 +407,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2007
     },{
+        title: "Girl On Fire",
+        artist: ["Alicia Keys"],
+        featuredArtist: [],
+        emojiImgs: "👉👧🔥",
+        musicVideo: "https://www.youtube.com/watch?v=J91ti_MpdHA",
+        genres: ["r&b"],
+        year: 2012
+    },{
         title: "Hakuna Matata",
         artist: ["Jimmy Cliff","Lebo M"],
         featuredArtist: [],
