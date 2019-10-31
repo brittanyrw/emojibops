@@ -8,6 +8,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 1980
     },{
+        title: "96 Quite Bitter Beings",
+        artist: ["CKY"],
+        featuredArtist: [],
+        emojiImgs: "9️⃣6⃣🍋👨‍🌾🎸",
+        musicVideo: "https://www.youtube.com/watch?v=NKYxFOnJOZ4",
+        genres: ["rock", "alternative rock", "punk rock", "hard rock"],
+        year: 1999
+    },{
         title: "The Archer",
         artist: ["Taylor Swift"],
         featuredArtist: [],
