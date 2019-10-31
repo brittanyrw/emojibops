@@ -270,6 +270,7 @@ const emojiItems = [
         emojiImgs: "⛰️🧗‍♀️🧗‍♂️💪",
         musicVideo: "https://www.youtube.com/watch?v=NG2zyeVRcbs",
         genres: ["pop","acoustic pop"],
+        year: 2009
     },{
         title: "Countdown",
         artist: ["Beyonce"],
