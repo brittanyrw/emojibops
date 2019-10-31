@@ -264,6 +264,14 @@ const emojiItems = [
         genres: ["dance-pop", "electropop"],
         year: 2008
     },{
+        title: "The City Sleeps in Flames",
+        artist: ["Scary Kids Scaring Kids"],
+        featuredArtist: [],
+        emojiImgs: "🌆😴🔥",
+        musicVideo: "https://www.youtube.com/watch?v=uVfj5mjkaQA",
+        genres: ["emo"],
+        year: 2005
+    },{
         title: "The Climb",
         artist: ["Miley Cyrus"],
         featuredArtist: [],
