@@ -319,6 +319,14 @@ const emojiItems = [
         genres: ["pop", "rb"],
         year: 2012
     },{
+        title: "DNA",
+        artist: ["BTS"],
+        featuredArtist: [],
+        emojiImgs: "😗🎶🧬🧲❤️🌌",
+        musicVideo: "https://www.youtube.com/watch?v=MBdVXkSdhwU",
+        genres: ["k-pop"],
+        year: 2017
+    },{
         title: "Do You Want to Build a Snowman?",
         artist: ["Kristen Bell", "Agatha Lee Monn", "Katie Lopez"],
         featuredArtist: [],
@@ -1022,13 +1030,5 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
         genres: ["k-pop"],
         year: 2018
-    },{
-        title: "DNA",
-        artist: ["BTS"],
-        featuredArtist: [],
-        emojiImgs: "😗🎶🧬🧲❤️🌌",
-        musicVideo: "https://www.youtube.com/watch?v=MBdVXkSdhwU",
-        genres: ["k-pop"],
-        year: 2017
     }
 ];
