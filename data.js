@@ -335,6 +335,14 @@ const emojiItems = [
         genres: ["show-tune"],
         year: 2013
     },{
+        title: " Don't Let Me Down",
+        artist: ["The Chainsmokers"],
+        featuredArtist: ["Daya"],
+        emojiImgs: "🚫🥴👎💑",
+        musicVideo: "https://www.youtube.com/watch?v=Io0fBr1XBUA",
+        genres: ["show-tune"],
+        year: 2016
+    },{
         title: "Drunk",
         artist: ["Ed Sheeran"],
         featuredArtist: [],
