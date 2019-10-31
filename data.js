@@ -831,6 +831,14 @@ const emojiItems = [
         genres: ["soft rock"],
         year: 1972
     },{
+        title: "Single Ladies",
+        artist: ["Beyonce"],
+        featuredArtist: [],
+        emojiImgs: "👯‍♀️💍👑🐝",
+        musicVideo: "https://www.youtube.com/watch?v=4m1EFMoRFvY",
+        genres: ["pop","r&b"],
+        year: 2008
+    },{ 
         title: "Sleepwalking",
         artist: ["Bring Me The Horizon"],
         featuredArtist: [],
