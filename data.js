@@ -8,6 +8,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 1980
     },{
+        title: "The Archer",
+        artist: ["Taylor Swift"],
+        featuredArtist: [],
+        emojiImgs: "🏹✨💁💫",
+        musicVideo: "https://www.youtube.com/watch?v=8KpKc3C9V3w",
+        genres: ["pop"],
+        year: 2019
+    },{
         title: "A Whole New World",
         artist: ["ZAYN", "Zhavia Ward"],
         featuredArtist: [],
@@ -23,6 +31,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=kn6-c223DUU",
         genres: ["hip-hop"],
         year: 2010
+    },{
+        title: "American Girl",
+        artist: ["Tom Petty & The Heartbreakers"],
+        featuredArtist: [],
+        emojiImgs: "🇺🇸👧🇺🇸",
+        musicVideo: [],
+        genres: ["pop rock", "rock"],
+        year: 1976
     },{
         title: "Applause",
         artist: ["Lady Gaga"],
@@ -72,12 +88,12 @@ const emojiItems = [
         genres: ["k-pop", "pop"],
         year: 2016,
     },{
-        title: "Alors On Danse", 
-        artist: ["Stromae"], 
-        featuredArtist: [], 
-        emojiImgs: '🇧🇪💃🕺🐶', 
-        musicVideo: 'https://www.youtube.com/watch?v=VHoT4N43jK8', 
-        genres: ["dance","electronic","hip-hop"], 
+        title: "Alors On Danse",
+        artist: ["Stromae"],
+        featuredArtist: [],
+        emojiImgs: '🇧🇪💃🕺🐶',
+        musicVideo: 'https://www.youtube.com/watch?v=VHoT4N43jK8',
+        genres: ["dance","electronic","hip-hop"],
         year: 2010
     },{
         title: "...Baby One More Time",
@@ -88,6 +104,22 @@ const emojiItems = [
         genres: ["pop"],
         year: 1998
     },{
+        title: "Bang Bang",
+        artist: ["Jessie J"],
+        featuredArtist: ["Ariana Grande & Nicki Minaj"],
+        emojiImgs: "👧💥👩💥👩",
+        musicVideo: "https://www.youtube.com/watch?v=0HDdjwpPM3Y",
+        genres: ["pop"],
+        year: 2014
+    },{
+        title: "Believer",
+        artist: ["Imagine Dragons"],
+        featuredArtist: [],
+        emojiImgs: "🎤🕺⚡️👨‍ 🐉",
+        musicVideo: "https://www.youtube.com/watch?v=7wtfhZwyrcc",
+        genres: ["rock", "pop"],
+        year: 2017
+    },{
         title: "Bohemian Rhapsody",
         artist: ["Queen"],
         featuredArtist: [],
@@ -95,6 +127,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=fJ9rUzIMcZQ",
         genres: ["art-rock", "opera-rock", "classic-rock"],
         year: 1975
+    }, {
+        title: "Born in the USA",
+        artist: ["Bruce Springsteen"],
+        featuredArtist: [],
+        emojiImgs: "🇺🇸🇻🇳🔫💪🏭🇺🇸",
+        musicVideo: "https://www.youtube.com/watch?v=EPhWR4d3FJQ",
+        genres: ["country", "folk", "pop"],
+        year: 1984
     }, {
         title: "Boy With Luv",
         artist: ["BTS"],
@@ -151,6 +191,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=SRcnnId15BA",
         genres: ["Dirty rap"],
         year: 2004
+    },{
+    	title: "Caribbean Queen (No More Love on the Run)",
+        artist: ["Billy Ocean"],
+        featuredArtist: [],
+        emojiImgs: "🌴🌊🦀👸👑",
+        musicVideo: "https://www.youtube.com/watch?v=uxX2gA18grk",
+        genres: ["Post disco"],
+        year: 1984
     },{
         title: "Castle on the Hill",
         artist: ["Ed Sheeran"],
@@ -222,7 +270,16 @@ const emojiItems = [
         emojiImgs: "⛰️🧗‍♀️🧗‍♂️💪",
         musicVideo: "https://www.youtube.com/watch?v=NG2zyeVRcbs",
         genres: ["pop","acoustic pop"],
+        year: 2009
     },{
+        title: "Countdown",
+        artist: ["Beyonce"],
+        featuredArtist: [],
+        emojiImgs: "🔟➡1⃣💃🏽🤰🏽👒",
+        musicVideo: "https://www.youtube.com/watch?v=2XY3AvVgDns",
+        genres: ["pop", "r&b"],
+        year: 2011
+	},{
         title: "Crown",
         artist: ["TXT"],
         featuredArtist: [],
@@ -270,6 +327,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=lWA2pjMjpBs",
         genres: ["pop", "rb"],
         year: 2012
+    },{
+        title: "DNA",
+        artist: ["BTS"],
+        featuredArtist: [],
+        emojiImgs: "😗🎶🧬🧲❤️🌌",
+        musicVideo: "https://www.youtube.com/watch?v=MBdVXkSdhwU",
+        genres: ["k-pop"],
+        year: 2017
     },{
         title: "Do You Want to Build a Snowman?",
         artist: ["Kristen Bell", "Agatha Lee Monn", "Katie Lopez"],
@@ -383,6 +448,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2007
     },{
+        title: "Girl On Fire",
+        artist: ["Alicia Keys"],
+        featuredArtist: [],
+        emojiImgs: "👉👧🔥",
+        musicVideo: "https://www.youtube.com/watch?v=J91ti_MpdHA",
+        genres: ["r&b"],
+        year: 2012
+    },{
         title: "Hakuna Matata",
         artist: ["Jimmy Cliff","Lebo M"],
         featuredArtist: [],
@@ -456,7 +529,7 @@ const emojiItems = [
         year: 2013
     },{
         title: "Hakuna Matata",
-        artist: ["Jimmy Cliff","Lebo M"],   
+        artist: ["Jimmy Cliff","Lebo M"],
         featuredArtist: [],
         emojiImgs: "🦁🐖🐒",
         musicVideo: "https://www.youtube.com/watch?v=yUioIn8rPPM",
@@ -582,6 +655,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=e-fA-gBCkj0",
         genres: ["pop", "pop rock", "reggae rock"],
         year: 2012
+    },{
+        title: "Love Story",
+        artist: ["Taylor Swift"],
+        featuredArtist: [],
+        emojiImgs: "❤️📔👸🤴💑",
+        musicVideo: "https://www.youtube.com/watch?v=8xg3vE8Ie_E",
+        genres: ["pop", "Country pop"],
+        year: 2008
     },{
         title: "Love Yourself",
         artist: ["Justin Bieber"],
@@ -758,6 +839,22 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=DtVBCG6ThDk",
         genres: ["soft rock"],
         year: 1972
+    },{
+        title: "Single Ladies",
+        artist: ["Beyonce"],
+        featuredArtist: [],
+        emojiImgs: "👯‍♀️💍👑🐝",
+        musicVideo: "https://www.youtube.com/watch?v=4m1EFMoRFvY",
+        genres: ["pop","r&b"],
+        year: 2008
+    },{ 
+        title: "Sleepwalking",
+        artist: ["Bring Me The Horizon"],
+        featuredArtist: [],
+        emojiImgs: "🛌😴🚶",
+        musicVideo: "https://www.youtube.com/watch?v=1EA8g4-vEAQ",
+        genres: ["rock", "metal"],
+        year: 2013
     },{
         title: "Stan",
         artist: ["Eminem"],
@@ -966,13 +1063,5 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
         genres: ["k-pop"],
         year: 2018
-    },{
-        title: "DNA",
-        artist: ["BTS"],
-        featuredArtist: [],
-        emojiImgs: "😗🎶🧬🧲❤️🌌",
-        musicVideo: "https://www.youtube.com/watch?v=MBdVXkSdhwU",
-        genres: ["k-pop"],
-        year: 2017
     }
 ];
