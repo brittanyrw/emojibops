@@ -1030,5 +1030,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=MBdVXkSdhwU",
         genres: ["k-pop"],
         year: 2017
+    },
+	{
+        title: "We don't talk anymore",
+        artist: ["Charlie Puth", "Selena Gomez"],
+        featuredArtist: [],
+        emojiImgs: "👩🤵🚫🗣",
+        musicVideo: "https://www.youtube.com/watch?v=3AtDnEC4zak",
+        genres: ["pop"],
+        year: 2016
     }
 ];
