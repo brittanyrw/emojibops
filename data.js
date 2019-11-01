@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "Dancing With A Stranger",
+        artist: ["Sam Smith"],
+        featuredArtist: ["Normani"],
+        emojiImgs: "💔👔👗👠💃🕺",
+        musicVideo: "https://www.youtube.com/watch?v=av5JD1dfj_c",
+        genres: ["Disco-R&B", "pop", "synthwave"],
+        year: 2019
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
