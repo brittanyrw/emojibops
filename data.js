@@ -791,6 +791,14 @@ const emojiItems = [
         genres: ["soft rock"],
         year: 1972
     },{
+        title: "Sadness is a Blessing",
+        artist: ["Likke Li"],
+        featuredArtist: ["Dido"],
+        emojiImgs: "✉️👱🏻🙍🏼👼🏻",
+        musicVideo: "https://www.youtube.com/watch?v=Xu-b3u5jDiU",
+        genres: ["pop"],
+        year: 2011
+    },{
         title: "Stan",
         artist: ["Eminem"],
         featuredArtist: ["Dido"],
