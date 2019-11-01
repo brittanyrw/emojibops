@@ -15,6 +15,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=8KpKc3C9V3w",
         genres: ["pop"],
         year: 2019
+    },,{
+        title: "Admiravel Chip Novo",
+        artist: ["Pitty"],
+        featuredArtist: [],
+        emojiImgs: "🤘🤖🔩🧠",
+        musicVideo: "https://www.youtube.com/watch?v=lGz-idtX_rk",
+        genres: ["rock", "brazilian"],
+        year: 2012
     },{
         title: "A Whole New World",
         artist: ["ZAYN", "Zhavia Ward"],
