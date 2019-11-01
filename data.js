@@ -129,7 +129,7 @@ const emojiItems = [
         year: 2013
     },{
         title: "Hakuna Matata",
-        artist: ["Jimmy Cliff","Lebo M"],   
+        artist: ["Jimmy Cliff","Lebo M"],
         featuredArtist: [],
         emojiImgs: "🦁🐖🐒",
         musicVideo: "https://www.youtube.com/watch?v=yUioIn8rPPM",
@@ -191,6 +191,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=vc6vs-l5dkc",
         genres: ["emo", "pop", "punk"],
         year: 2005
+    },{
+        title: "Island in the Sun",
+        artist: "Weezer",
+        featuredArtist: [],
+        emojiImgs: "🏝➡️🌞",
+        musicVideo: "https://www.youtube.com/watch?v=erG5rgNYSdk",
+        genres: [" power pop", "alternative rock"],
+        year: 2001
     },{
         title: "Love Yourself",
         artist: ["Justin Bieber"],
