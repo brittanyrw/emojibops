@@ -1,5 +1,13 @@
 const emojiItems = [
-  {
+    {
+        title: "A Million Dreams",
+        artist: ["Ziv Zaifman", "Hugh Jackman", "Michelle Williams"],
+        featuredArtist: [],
+        emojiImgs: "😴🛏🌞🌈🧠",
+        musicVideo: "https://www.youtube.com/watch?v=pSQk-4fddDI",
+        genres: ["soundtrack"],
+        year: 2017
+    },{
         title: "Airplanes",
         artist: ["B.o.B"],
         featuredArtist: ["Haley Williams"],
