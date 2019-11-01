@@ -48,6 +48,14 @@ const emojiItems = [
         genres: ["soundtrack", "pop"],
         year: 2003
     },{
+        title: "Hooked on a Feeling",
+        artist: ["Blue Swede"],
+        featuredArtist: [],
+        emojiImgs: "↪️🤔💬❤️😘",
+        musicVideo: "https://www.youtube.com/watch?v=NrI-UBIB8Jk",
+        genres: ["pop rock"],
+        year: 1974
+    },{
         title: "I Wanna Dance with Somebody",
         artist: ["Whitney Houston"],
         featuredArtist: [],
