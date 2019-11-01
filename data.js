@@ -767,6 +767,14 @@ const emojiItems = [
         genres: ["dance", "pop", "techno"],
         year: 2009
     },{
+        title: "Put Your Records On",
+        artist: ["Corinne Bailey Rae"],
+        featuredArtist: [],
+        emojiImgs: "👩🏾🚴🏾‍♀️🐦💿",
+        musicVideo: "https://www.youtube.com/watch?v=rjOhZZyn30k",
+        genres: ["soul", "pop"],
+        year: 2006
+    },{
         title: "Raise Your Glass",
         artist: ["Pink"],
         featuredArtist: [],
