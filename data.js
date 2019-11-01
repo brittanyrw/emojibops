@@ -64,6 +64,14 @@ const emojiItems = [
         genres: ["emo", "pop", "punk"],
         year: 2005
     },{
+            title: "GhostBusters",
+            artist: ["Ray Parker Jr."],
+            featuredArtist: [],
+            emojiImgs: "👻🚫🎵",
+            musicVideo: "https://www.youtube.com/watch?v=m9We2XsVZfc",
+            genres: ["Dance-pop"],
+            year: 1984
+    },{
         title: "Man's Not Hot",
         artist: ["Big Shaq"],
         featuredArtist: [],
