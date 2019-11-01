@@ -287,6 +287,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=gl1aHhXnN1k",
         genres: ["pop"],
         year: 2019
+    },{
+          title: "The Whiskey, the Liar, the Thief",
+          artist: ["Patent Pending"],
+          featuredArtist: [],
+          emojiImgs: "🥃😈🦝",
+          musicVideo: "https://www.youtube.com/watch?v=i4WrU5nLn9g",
+          genres: ["rock"],
+          year:2013
     }, {
         title: "Truckin",
         artist: ["Grateful Dead"],
