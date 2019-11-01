@@ -15,7 +15,7 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=8KpKc3C9V3w",
         genres: ["pop"],
         year: 2019
-    },,{
+    },{
         title: "Admiravel Chip Novo",
         artist: ["Pitty"],
         featuredArtist: [],
@@ -966,6 +966,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=GC_mV1IpjWA",
         genres: ["pop", "disney", "reggae", "show-tunes"],
         year: 1989
+    },{
+        title: "Universos Paralelos",
+        artist: ["Jorge Drexler"],
+        featuredArtist: ["Ana Tijoux"],
+        emojiImgs: "🌌⏸🌌",
+        musicVideo: "https://www.youtube.com/watch?v=PCeRWYvvPtg",
+        genres: ["pop", "Uruguay", "Romance"],
+        year: 2014
     },{
         title: "Walk Like an Egyptian",
         artist: ["The Bangles"],
