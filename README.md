@@ -42,23 +42,16 @@ In the `data.js` file, each `Emoji Card` consists of the following object:
 }
 ```
 
-View the [Card Overview](/docs/card_overview.md) for more details on each part of the emoji object.
+#### Important Notes 🚨
+* The song you are adding must have lyrics.
+* Follow all the instructions in the [Card Overview](/docs/card_overview.md) for adding a song.
+* **[Go through this checklist](docs/card_overview.md#card-pull-request-checklist) to make sure you have added everything needed for a song.** 
 
 #### Walkthroughs
 Below are detailed walkthroughs on how to add a show or movie to EmojiScreen.
 
 * [Add a show or movie via Github website](docs/github_ui_walkthrough.md) (no downloads required)
 * [Add a show or movie using your local development environment](docs/local_dev_walkthrough.md) (downloads required, most commonly used way to contribute).
-
-### Important Notes 🚨
-* The song you are adding must have lyrics.
-* Follow all the instructions in the [Card Overview](/docs/card_overview.md) for adding a song.
-* Search the data.js file and pull requests to make sure you are not adding a duplicate.
-* Make sure your emojis actually depict the song.
-* You do not have to wait for confirmation to create a pull request for a song and you do not have to make an Issue first.
-* If you are adding multiple items, please include them in one pull request.
-* **[Go through this checklist](docs/card_overview.md#card-pull-request-checklist) to make sure you have added everything needed for a song.** 
-* Please [fix conflicts](https://help.github.com/en/articles/resolving-a-merge-conflict-on-github) if your pull request has them.
 
 ## Other Projects
 
