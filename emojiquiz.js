@@ -32,8 +32,7 @@ $(document).ready(function () {
         } else {
             emojiCard += "<div class='artist-container'><h4>" + artist + "</h4></div>";
         }
-
-        //emojiCard += "</div></div><div class='answer-box' id=" + i + " contenteditable='true'>";
+        
        emojiCard += "</div></div><input type='text' id=" + i + ">";
 
         emojiCard += "</div></div></div></div>";
@@ -85,14 +84,10 @@ $(document).ready(function () {
             if($("#" + l).val() === quizItems[l].title.toLowerCase()) {
                 //adds 1 to the score and add a checkmark emoji next to the correct answer
                 score += 1;
-                //$("#" + l).attr("contenteditable", "true").append("✅")
-                //$("#" + l).attr("contenteditable", "true").html(quizItems[l].title + "&#9989");
                 $("#" + l).val(quizItems[l].title + "✅");
             }
             else {
                 //adds a big red "X" emoji next to the wrong answer and also displays the correct answer
-                //$("#" + l).attr("contenteditable", "true").append("❌")
-                //$("#" + l).attr("contenteditable", "true").html(quizItems[l].title + "&#10060");
                 $("#" + l).val(quizItems[l].title + "❌");
             }
         }
