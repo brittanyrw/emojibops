@@ -1047,5 +1047,13 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=mAKsZ26SabQ",
         genres: ["k-pop"],
         year: 2018
+    },{
+        title: "Your Man",
+        artist: ["Josh Turner"],
+        featuredArtist: [],
+        emojiImgs: "🤟👨💕",
+        musicVideo: "https://youtu.be/nADTbWQof7Y",
+        genres: ["country"],
+        year: 2005
     }
 ];
