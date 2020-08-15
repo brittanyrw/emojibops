@@ -112,6 +112,14 @@ const emojiItems = [
         genres: ["pop"],
         year: 2014
     },{
+        title: "Six Foot Seven Foot",
+        artist: ["Lil Wayne"],
+        featuredArtist: ["Cory Gunz],
+        emojiImgs: "6️⃣🦶7️⃣🦶",
+        musicVideo: "https://www.youtube.com/watch?v=c7tOAGY59uQ",
+        genres: ["Hip-Hop", "Rap"],
+        year: 2011
+    },{
         title: "Believer",
         artist: ["Imagine Dragons"],
         featuredArtist: [],
