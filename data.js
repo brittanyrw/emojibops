@@ -904,6 +904,14 @@ const emojiItems = [
         genres: ["hip hop"],
         year: 2018
     },{
+        title: "Six Foot Seven Foot",
+        artist: ["Lil Wayne"],
+        featuredArtist: ["Cory Gunz"],
+        emojiImgs: "6️⃣🦶7️⃣🦶",
+        musicVideo: "https://www.youtube.com/watch?v=c7tOAGY59uQ",
+        genres: ["Hip-Hop"],
+        year: 2011
+    },{	    
         title: "Smooth Criminal",
         artist: ["Michael Jackson"],
         featuredArtist: [],
