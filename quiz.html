@@ -15,11 +15,10 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <title>Emoji Bops</title>
-    <meta name="description"
-        content="A listing of songs depicted through emojis. Click on the emojis to reveal the song name and click on the play button to view the music video!">
+    <meta name="description" content="A listing of songs depicted through emojis. Click on the emojis to reveal the song name and click on the play button to view the music video!">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css"
-        integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.0/css/all.css" integrity="sha384-lZN37f5QGtY3VHgisS14W3ExzMWZxybE1SJSEsQp9S+oqd12jhcu+A56Ebc1zFSJ"
+        crossorigin="anonymous">
     <link href="https://fonts.googleapis.com/css?family=Fredoka+One|Open+Sans:400,700&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="main.css">
     <link rel="icon" href="favicon.ico" type="image/gif" sizes="16x16">
@@ -31,7 +30,9 @@
         <![endif]-->
     <main>
         <header>
-            <h1>EmojiBops</h1>
+            <h1>
+                <a href="index.html">EmojiBops</a>
+            </h1>
             <div class="heading-content">
                 <div class="header">
                     <h2>A listing of songs depicted through emojis. 💖</h2>
@@ -45,7 +46,7 @@
                             <i class="fab fa-youtube"></i>
                             Listen on Youtube
                         </a>
-                        <a href="quiz.html" class="playlist-links-item">
+                        <a href="quiz.html" target="_blank" class="playlist-links-item">
                             Take the EmojiBops Quiz
                         </a>
                     </div>
@@ -57,14 +58,16 @@
             </div>
         </header>
         <section id="songs"></section>
+        
         <footer>
-            <p>EmojiBops currently has <span></span> songs. 💖</p>
+            <p>Your score will be posted here after submission</p>
+            <input type="submit" value="Check Answers" id="submit">
         </footer>
     </main>
     <script src="https://twemoji.maxcdn.com/v/latest/twemoji.min.js" crossorigin="anonymous"></script>
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <script src="data.js"></script>
-    <script src="app.js"></script>
+    <script src="emojiquiz.js"></script>
 </body>
 
 </html>
