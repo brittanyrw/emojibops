@@ -300,7 +300,7 @@ footer {
   padding-top: 20px;
 }
 
-footer p {
+footer p,a {
   line-height: 26px;
   color: white;
   font-size: 18px;
