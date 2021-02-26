@@ -80,5 +80,22 @@ $(document).ready(function () {
       .find(".hint")
       .removeClass("hint-reveal");
   });
+  
+  // Move back to top upon clicking the up arrow
+  $("#back-to-top").on("click", function() {
+      $('html, body').animate({scrollTop: 0});
+      $("#back-to-top").css("right", "-100px");
+
+  });
+
+  // Displays the back to top icon when scrolling down
+  $(window).on("scroll", function() {
+      if ($(window).scrollTop() > 10) {
+        $("#back-to-top").css("right", "10px");
+      } else {
+        $("#back-to-top").css("right", "-100px");
+      }
+  });
+
 
 });

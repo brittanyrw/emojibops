@@ -98,6 +98,40 @@ h2 {
     grid-template-rows: min-content;
 }
 
+#back-to-top {
+    position: fixed;
+    right: -100px;
+    bottom: 10px;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background-color: white;
+    cursor: pointer;
+    transition-duration: .4s;
+    transition-timing-function: linear;
+    display: table;
+}
+
+#back-to-top:hover {
+    background-color: #bbb;
+}
+
+#back-to-top:active {
+    background-color: #999;
+    border-radius: 10%
+}
+
+#back-to-top > i{
+    position: relative;
+    text-align: center;
+    vertical-align: middle;
+    width: 50%;
+    height: 50%;
+    background-color: transparent;
+    display: table-cell;
+    font-size: 25px;
+}
+
 @media screen and (min-width: 662px){
   #songs {
     grid-template-columns: 1fr 1fr;
