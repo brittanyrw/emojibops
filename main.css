@@ -123,6 +123,14 @@ h2 {
     position: relative;
 }
 
+.emoji {
+  transition-property: all;
+  transition-duration: 0.2s;
+}
+.emoji:hover {
+  transform: scale(0.8);
+}
+
 @media screen and (max-width: 425px){
   .emoji-card {
     margin: 0 15%;
@@ -290,6 +298,8 @@ i {
 .hint-reveal {
   opacity: 1;
   visibility: visible;
+  transition-property: all;
+  transition-duration: 0.4s;
 }
 
 footer {
