@@ -67,6 +67,12 @@ $(document).ready(function () {
       .toggleClass("hide-card");
   });
 
+  $("#expand").on("click", function () {
+    const objects = document.querySelectorAll("#songs .emoji-card-title.hide-card");
+    objects.forEach(object => object.classList.remove("hide-card"));
+    this.remove();
+  });
+
   // Display a hint when hovering over the question mark.
   $("#songs").on("mouseover", ".hint-container", function () {
     $(this)
