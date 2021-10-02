@@ -64,6 +64,14 @@ const emojiItems = [
         genres: ["folk-rock", "classic-rock"],
         year: 1971
     },{
+	title: "BGM",
+	artist: ["Wale"],
+	featuredArtist: [],
+	emojiImgs: "👩🏾✨💓",
+	musicVideo: "https://www.youtube.com/watch?v=6v9lQV1pMus",
+	genres: ["pop-rap", "disco-rap"],
+	year: 2019
+	},{
         title: "The Black Parade",
         artist: ["My Chemical Romance"],
         featuredArtist: [],
@@ -623,6 +631,14 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=AWpsOqh8q0M",
         genres: ["pop", "r-n-b"],
         year: 2008
+    },{
+	    title: "I Never Knew",
+	    artist: ["Skaleboyz Terrizm"],
+	    featuredArtist: ["IZM"],
+	    emojiImgs: "🧔🏾⚖⌚💲",
+	    musicVideo: "https://www.youtube.com/watch?v=CNbeWn7bVIA",
+	    genres: ["rap", "hip-hop"],
+	    year: 2014
     },{
         title: "Kill This Love",
         artist: ["Blackpink"],
