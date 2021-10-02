@@ -14,9 +14,9 @@ $(document).ready(function () {
     var artist = $.makeArray(emojiItems[i].artist).join(', ');
 
     emojiCard +=
-      "<div class='emoji-card'><div class='emoji-card-wrapper'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].year +
-      "</span></p></div><div class='emoji-images'>" + emojiItems[i].emojiImgs +
-      "</div><div class='emoji-card-title hide-card'>";
+      "<div class='emoji-card'><div class='emoji-card-wrapper'><div class='vinyl-icon'></div><div class='emoji-images'><div class='hint-container'><i class='fas fa-question-circle'></i><p class='hint'><span class='type'>" + emojiItems[i].year +
+      "</span></p></div>" + emojiItems[i].emojiImgs +
+      "</div><div class='emoji-card-title'>";
 
     if (emojiItems[i].musicVideo) {
       emojiCard += "<div class='emoji-card-link'><a href='" + emojiItems[i].musicVideo + "' title='View " + emojiItems[i].title + " Music Video' target='_blank'><i class='fas fa-play-circle'></i></a></div>";
@@ -61,11 +61,11 @@ $(document).ready(function () {
   }
 
   // Expand the emoji card when clicked to reveal the song name, artist and music video link.
-  $("#songs").on("click", ".emoji-images", function () {
+  /*$("#songs").on("click", ".emoji-images", function () {
     $(this)
       .siblings(".emoji-card-title")
       .toggleClass("hide-card");
-  });
+  });*/
 
   // Display a hint when hovering over the question mark.
   $("#songs").on("mouseover", ".hint-container", function () {
