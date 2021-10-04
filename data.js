@@ -296,6 +296,14 @@ const emojiItems = [
         genres: ["R&B"],
         year: 2002
     },{
+        title: "Crystallize",
+        artist: ["Lindsey Stirling"],
+        featuredArtist: [],
+        emojiImgs: "💙💎🧊",
+        musicVideo: "https://www.youtube.com/watch?v=aHjpOzsQ9YI",
+        genres: ["pop","dubstep","instrumental"],
+        year: 2012
+    },{
         title: "Dancing in the Dark",
         artist: ["Bruce Springsteen"],
         featuredArtist: [],
@@ -839,6 +847,22 @@ const emojiItems = [
         musicVideo: "https://www.youtube.com/watch?v=DtVBCG6ThDk",
         genres: ["soft rock"],
         year: 1972
+    },{
+        title: "Shadows",
+        artist: ["Lindsey Stirling"],
+        featuredArtist: ["Lzzy Hale"],
+        emojiImg: "🥰😱😭💔",
+        musicVideo: "https://www.youtube.com/watch?v=JGCsyshUU-A",
+        genres: ["pop","instrumental","dubstep"],
+        year: 2012
+    },{
+        title: "Shatter Me",
+        artist: ["Lindsey Stirling"],
+        featuredArtist: [],
+        emojiImgs: "👀👤😶‍🌫️💃🏽",
+        musicVideo: "https://www.youtube.com/watch?v=49tpIMDy9BE",
+        genres: ["pop"],
+        year: 2014
     },{
         title: "Single Ladies",
         artist: ["Beyonce"],
