@@ -842,11 +842,19 @@ const emojiItems = [
     },{
         title: "Shadows",
         artist: ["Lindsey Stirling"],
+        featuredArtist: ["Lzzy Hale"],
+        emojiImg: "🥰😱😭💔",
+        musicVideo: "https://www.youtube.com/watch?v=JGCsyshUU-A",
+        genres: ["pop","instrumental","dubstep"],
+        year: 2012
+    },{
+        title: "Shatter Me",
+        artist: ["Lindsey Stirling"],
         featuredArtist: [],
         emojiImgs: "👀👤😶‍🌫️💃🏽",
-        musicVideo: "https://www.youtube.com/watch?v=JGCsyshUU-A",
-        genres: ["pop","instrumental","dubstep],
-        year: 2012
+        musicVideo: "https://www.youtube.com/watch?v=49tpIMDy9BE",
+        genres: ["pop"],
+        year: 2014
     },{
         title: "Single Ladies",
         artist: ["Beyonce"],
