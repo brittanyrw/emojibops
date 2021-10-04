@@ -296,6 +296,14 @@ const emojiItems = [
         genres: ["R&B"],
         year: 2002
     },{
+        title: "Crystallize",
+        artist: ["Lindsey Stirling"],
+        featuredArtist: [],
+        emojiImgs: "💙💎🧊",
+        musicVideo: "https://www.youtube.com/watch?v=aHjpOzsQ9YI",
+        genres: ["pop","dubstep","instrumental"],
+        year: 2012
+    },{
         title: "Dancing in the Dark",
         artist: ["Bruce Springsteen"],
         featuredArtist: [],
